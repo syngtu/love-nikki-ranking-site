@@ -8,7 +8,6 @@ interface Props {
   showGuildAffiliation?: boolean;
 }
 
-const MAX_ENTRIES = 100;
 const POINTS_INFO =
   "Points are awarded per stage ranking: rank 1 = 20 pts, rank 2 = 19 pts, … rank 20 = 1 pt.";
 
@@ -25,8 +24,6 @@ export function LeaderboardCard({
   nameKey = "name",
   showGuildAffiliation = false,
 }: Props) {
-  const visible = entries.slice(0, MAX_ENTRIES);
-
   return (
     <div className="card leaderboard-card">
       <div className="card-header">
@@ -51,7 +48,7 @@ export function LeaderboardCard({
           <div className="empty-state">No data yet</div>
         ) : (
           <>
-            {visible.map((entry) => (
+            {entries.map((entry) => (
               <div
                 className={`rank-row ${rankRowClass(entry.rank)}`}
                 key={`${entry.rank}-${entry[nameKey]}`}

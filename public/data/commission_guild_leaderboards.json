@@ -503,6 +503,26 @@
           "rank": 100,
           "guild": "Waterfall",
           "value": 1
+        },
+        {
+          "rank": 101,
+          "guild": "meal",
+          "value": 1
+        },
+        {
+          "rank": 102,
+          "guild": "sel lili",
+          "value": 1
+        },
+        {
+          "rank": 103,
+          "guild": "shapeshifter",
+          "value": 1
+        },
+        {
+          "rank": 104,
+          "guild": "trinity",
+          "value": 1
         }
       ]
     },
@@ -1408,6 +1428,26 @@
           "rank": 100,
           "guild": "BlackHawk",
           "value": 121944
+        },
+        {
+          "rank": 101,
+          "guild": "H\u026a\u0262\u029cB\u029f\u1d0fss\u1d0f\u1d0d",
+          "value": 121089
+        },
+        {
+          "rank": 102,
+          "guild": "sel lili",
+          "value": 113888
+        },
+        {
+          "rank": 103,
+          "guild": "LOVELYNIKKI",
+          "value": 112666
+        },
+        {
+          "rank": 104,
+          "guild": "Gear5Momo",
+          "value": 112517
         }
       ]
     },
@@ -1912,6 +1952,26 @@
         {
           "rank": 100,
           "guild": "Maid Latt\u00e9",
+          "value": 1
+        },
+        {
+          "rank": 101,
+          "guild": "Sky Wing",
+          "value": 1
+        },
+        {
+          "rank": 102,
+          "guild": "SkyNinja",
+          "value": 1
+        },
+        {
+          "rank": 103,
+          "guild": "SummerBreeze",
+          "value": 1
+        },
+        {
+          "rank": 104,
+          "guild": "Untouchables",
           "value": 1
         }
       ]
