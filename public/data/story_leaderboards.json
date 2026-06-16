@@ -1,0 +1,2625 @@
+{
+  "mode": "story",
+  "leaderboards": {
+    "top_20": {
+      "title": "Most Top 20s",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "Athena",
+          "value": 816
+        },
+        {
+          "rank": 2,
+          "name": "Leonie Quin",
+          "value": 816
+        },
+        {
+          "rank": 3,
+          "name": "Mikachuu",
+          "value": 814
+        },
+        {
+          "rank": 4,
+          "name": "ViolettaDoll",
+          "value": 814
+        },
+        {
+          "rank": 5,
+          "name": "Aloy",
+          "value": 713
+        },
+        {
+          "rank": 6,
+          "name": "yumi glitter",
+          "value": 509
+        },
+        {
+          "rank": 7,
+          "name": "Jennifer",
+          "value": 499
+        },
+        {
+          "rank": 8,
+          "name": "Enznya",
+          "value": 465
+        },
+        {
+          "rank": 9,
+          "name": "Aria",
+          "value": 464
+        },
+        {
+          "rank": 10,
+          "name": "AliceMadCat",
+          "value": 382
+        },
+        {
+          "rank": 11,
+          "name": "Aethna O",
+          "value": 364
+        },
+        {
+          "rank": 12,
+          "name": "Frost Flora",
+          "value": 362
+        },
+        {
+          "rank": 13,
+          "name": "Youlan",
+          "value": 320
+        },
+        {
+          "rank": 14,
+          "name": "Elle Cy",
+          "value": 299
+        },
+        {
+          "rank": 15,
+          "name": "Rynettw",
+          "value": 244
+        },
+        {
+          "rank": 16,
+          "name": "Jenna",
+          "value": 243
+        },
+        {
+          "rank": 17,
+          "name": "spiderfeets",
+          "value": 241
+        },
+        {
+          "rank": 18,
+          "name": "Silverivy13",
+          "value": 225
+        },
+        {
+          "rank": 19,
+          "name": "K\u0430rl Marx",
+          "value": 221
+        },
+        {
+          "rank": 20,
+          "name": "Camille",
+          "value": 198
+        },
+        {
+          "rank": 21,
+          "name": "EvelynLemus",
+          "value": 187
+        },
+        {
+          "rank": 22,
+          "name": "KayTee",
+          "value": 160
+        },
+        {
+          "rank": 23,
+          "name": "Sugarsop",
+          "value": 156
+        },
+        {
+          "rank": 24,
+          "name": "s   y   n",
+          "value": 151
+        },
+        {
+          "rank": 25,
+          "name": "Cryst\u03b1lR\u03b1in",
+          "value": 149
+        },
+        {
+          "rank": 26,
+          "name": "Cheyenn",
+          "value": 145
+        },
+        {
+          "rank": 27,
+          "name": "Yumi",
+          "value": 130
+        },
+        {
+          "rank": 28,
+          "name": "bae",
+          "value": 128
+        },
+        {
+          "rank": 29,
+          "name": "Ruby Lissa",
+          "value": 127
+        },
+        {
+          "rank": 30,
+          "name": "Lilliana",
+          "value": 117
+        },
+        {
+          "rank": 31,
+          "name": "Carissa",
+          "value": 110
+        },
+        {
+          "rank": 32,
+          "name": "Charlotte",
+          "value": 105
+        },
+        {
+          "rank": 33,
+          "name": "Orino Akeno",
+          "value": 98
+        },
+        {
+          "rank": 34,
+          "name": "Bluebell",
+          "value": 94
+        },
+        {
+          "rank": 35,
+          "name": "Lori",
+          "value": 92
+        },
+        {
+          "rank": 36,
+          "name": "BEANLOVER420",
+          "value": 86
+        },
+        {
+          "rank": 37,
+          "name": "Rainysnow",
+          "value": 86
+        },
+        {
+          "rank": 38,
+          "name": "Selina",
+          "value": 81
+        },
+        {
+          "rank": 39,
+          "name": "Cherry Ann",
+          "value": 80
+        },
+        {
+          "rank": 40,
+          "name": "Lyra Talise",
+          "value": 76
+        },
+        {
+          "rank": 41,
+          "name": "Mavourneen",
+          "value": 76
+        },
+        {
+          "rank": 42,
+          "name": "Edgecrusher",
+          "value": 75
+        },
+        {
+          "rank": 43,
+          "name": "xyz",
+          "value": 73
+        },
+        {
+          "rank": 44,
+          "name": "Alice",
+          "value": 69
+        },
+        {
+          "rank": 45,
+          "name": "Ariina",
+          "value": 67
+        },
+        {
+          "rank": 46,
+          "name": "\u00df\u00c5M\u00df\u00ce",
+          "value": 67
+        },
+        {
+          "rank": 47,
+          "name": "Yuka lto",
+          "value": 64
+        },
+        {
+          "rank": 48,
+          "name": "Nina Mann",
+          "value": 62
+        },
+        {
+          "rank": 49,
+          "name": "Corais",
+          "value": 58
+        },
+        {
+          "rank": 50,
+          "name": "Emma",
+          "value": 58
+        },
+        {
+          "rank": 51,
+          "name": "Aennyl",
+          "value": 53
+        },
+        {
+          "rank": 52,
+          "name": "Circe",
+          "value": 49
+        },
+        {
+          "rank": 53,
+          "name": "CheshireCat",
+          "value": 47
+        },
+        {
+          "rank": 54,
+          "name": "Midori",
+          "value": 46
+        },
+        {
+          "rank": 55,
+          "name": "Nicky",
+          "value": 46
+        },
+        {
+          "rank": 56,
+          "name": "Mika",
+          "value": 45
+        },
+        {
+          "rank": 57,
+          "name": "Helena",
+          "value": 44
+        },
+        {
+          "rank": 58,
+          "name": "Spoon Bug",
+          "value": 41
+        },
+        {
+          "rank": 59,
+          "name": "Aquarelle",
+          "value": 40
+        },
+        {
+          "rank": 60,
+          "name": "Ella Joy",
+          "value": 40
+        },
+        {
+          "rank": 61,
+          "name": "Shandi",
+          "value": 40
+        },
+        {
+          "rank": 62,
+          "name": "lnfi",
+          "value": 39
+        },
+        {
+          "rank": 63,
+          "name": "Maria Silver",
+          "value": 38
+        },
+        {
+          "rank": 64,
+          "name": "Alicia Marie",
+          "value": 37
+        },
+        {
+          "rank": 65,
+          "name": "Melody",
+          "value": 37
+        },
+        {
+          "rank": 66,
+          "name": "Anya",
+          "value": 36
+        },
+        {
+          "rank": 67,
+          "name": "Nikkileaf",
+          "value": 36
+        },
+        {
+          "rank": 68,
+          "name": "Alluka",
+          "value": 33
+        },
+        {
+          "rank": 69,
+          "name": "Laila",
+          "value": 33
+        },
+        {
+          "rank": 70,
+          "name": "Negar",
+          "value": 33
+        },
+        {
+          "rank": 71,
+          "name": "Ameya",
+          "value": 31
+        },
+        {
+          "rank": 72,
+          "name": "Faine",
+          "value": 31
+        },
+        {
+          "rank": 73,
+          "name": "Mouse",
+          "value": 31
+        },
+        {
+          "rank": 74,
+          "name": "xuanie",
+          "value": 31
+        },
+        {
+          "rank": 75,
+          "name": "Ericka Abreu",
+          "value": 29
+        },
+        {
+          "rank": 76,
+          "name": "Valentina",
+          "value": 29
+        },
+        {
+          "rank": 77,
+          "name": "Blancwing",
+          "value": 28
+        },
+        {
+          "rank": 78,
+          "name": "Ivory",
+          "value": 28
+        },
+        {
+          "rank": 79,
+          "name": "Jupitia",
+          "value": 28
+        },
+        {
+          "rank": 80,
+          "name": "Casaysha",
+          "value": 27
+        },
+        {
+          "rank": 81,
+          "name": "Luca M",
+          "value": 27
+        },
+        {
+          "rank": 82,
+          "name": "Evan",
+          "value": 26
+        },
+        {
+          "rank": 83,
+          "name": "Sakura",
+          "value": 26
+        },
+        {
+          "rank": 84,
+          "name": "sir meme",
+          "value": 26
+        },
+        {
+          "rank": 85,
+          "name": "BDawgSkip",
+          "value": 25
+        },
+        {
+          "rank": 86,
+          "name": "Brian Spades",
+          "value": 25
+        },
+        {
+          "rank": 87,
+          "name": "Maki Crimson",
+          "value": 25
+        },
+        {
+          "rank": 88,
+          "name": "Teresa Ngo",
+          "value": 24
+        },
+        {
+          "rank": 89,
+          "name": "Aol",
+          "value": 23
+        },
+        {
+          "rank": 90,
+          "name": "Elli Miku",
+          "value": 23
+        },
+        {
+          "rank": 91,
+          "name": "Kamira",
+          "value": 23
+        },
+        {
+          "rank": 92,
+          "name": "Nanami",
+          "value": 23
+        },
+        {
+          "rank": 93,
+          "name": "Nova",
+          "value": 23
+        },
+        {
+          "rank": 94,
+          "name": "Sayume",
+          "value": 23
+        },
+        {
+          "rank": 95,
+          "name": "Celena Tatum",
+          "value": 21
+        },
+        {
+          "rank": 96,
+          "name": "Isonome",
+          "value": 21
+        },
+        {
+          "rank": 97,
+          "name": "ItMeDraacula",
+          "value": 21
+        },
+        {
+          "rank": 98,
+          "name": "KaiBerrii",
+          "value": 21
+        },
+        {
+          "rank": 99,
+          "name": "Otaku",
+          "value": 20
+        },
+        {
+          "rank": 100,
+          "name": "Sallie Rana",
+          "value": 20
+        }
+      ]
+    },
+    "top_10": {
+      "title": "Most Top 10s",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "Athena",
+          "value": 816
+        },
+        {
+          "rank": 2,
+          "name": "ViolettaDoll",
+          "value": 811
+        },
+        {
+          "rank": 3,
+          "name": "Leonie Quin",
+          "value": 803
+        },
+        {
+          "rank": 4,
+          "name": "Mikachuu",
+          "value": 742
+        },
+        {
+          "rank": 5,
+          "name": "Aloy",
+          "value": 636
+        },
+        {
+          "rank": 6,
+          "name": "Enznya",
+          "value": 319
+        },
+        {
+          "rank": 7,
+          "name": "Aethna O",
+          "value": 268
+        },
+        {
+          "rank": 8,
+          "name": "yumi glitter",
+          "value": 244
+        },
+        {
+          "rank": 9,
+          "name": "spiderfeets",
+          "value": 193
+        },
+        {
+          "rank": 10,
+          "name": "Aria",
+          "value": 186
+        },
+        {
+          "rank": 11,
+          "name": "Frost Flora",
+          "value": 163
+        },
+        {
+          "rank": 12,
+          "name": "Jennifer",
+          "value": 160
+        },
+        {
+          "rank": 13,
+          "name": "AliceMadCat",
+          "value": 133
+        },
+        {
+          "rank": 14,
+          "name": "Rynettw",
+          "value": 129
+        },
+        {
+          "rank": 15,
+          "name": "K\u0430rl Marx",
+          "value": 106
+        },
+        {
+          "rank": 16,
+          "name": "Camille",
+          "value": 103
+        },
+        {
+          "rank": 17,
+          "name": "EvelynLemus",
+          "value": 102
+        },
+        {
+          "rank": 18,
+          "name": "Silverivy13",
+          "value": 91
+        },
+        {
+          "rank": 19,
+          "name": "s   y   n",
+          "value": 81
+        },
+        {
+          "rank": 20,
+          "name": "Cheyenn",
+          "value": 80
+        },
+        {
+          "rank": 21,
+          "name": "Yumi",
+          "value": 71
+        },
+        {
+          "rank": 22,
+          "name": "Youlan",
+          "value": 69
+        },
+        {
+          "rank": 23,
+          "name": "Elle Cy",
+          "value": 66
+        },
+        {
+          "rank": 24,
+          "name": "Sugarsop",
+          "value": 51
+        },
+        {
+          "rank": 25,
+          "name": "Mavourneen",
+          "value": 46
+        },
+        {
+          "rank": 26,
+          "name": "Bluebell",
+          "value": 39
+        },
+        {
+          "rank": 27,
+          "name": "Corais",
+          "value": 38
+        },
+        {
+          "rank": 28,
+          "name": "Lilliana",
+          "value": 38
+        },
+        {
+          "rank": 29,
+          "name": "Nicky",
+          "value": 37
+        },
+        {
+          "rank": 30,
+          "name": "Orino Akeno",
+          "value": 36
+        },
+        {
+          "rank": 31,
+          "name": "Ruby Lissa",
+          "value": 34
+        },
+        {
+          "rank": 32,
+          "name": "Cherry Ann",
+          "value": 33
+        },
+        {
+          "rank": 33,
+          "name": "Ariina",
+          "value": 32
+        },
+        {
+          "rank": 34,
+          "name": "Carissa",
+          "value": 32
+        },
+        {
+          "rank": 35,
+          "name": "BEANLOVER420",
+          "value": 31
+        },
+        {
+          "rank": 36,
+          "name": "Jenna",
+          "value": 31
+        },
+        {
+          "rank": 37,
+          "name": "Selina",
+          "value": 31
+        },
+        {
+          "rank": 38,
+          "name": "Aquarelle",
+          "value": 30
+        },
+        {
+          "rank": 39,
+          "name": "bae",
+          "value": 29
+        },
+        {
+          "rank": 40,
+          "name": "Rainysnow",
+          "value": 27
+        },
+        {
+          "rank": 41,
+          "name": "Yuka lto",
+          "value": 27
+        },
+        {
+          "rank": 42,
+          "name": "\u00df\u00c5M\u00df\u00ce",
+          "value": 27
+        },
+        {
+          "rank": 43,
+          "name": "lnfi",
+          "value": 23
+        },
+        {
+          "rank": 44,
+          "name": "Charlotte",
+          "value": 22
+        },
+        {
+          "rank": 45,
+          "name": "Circe",
+          "value": 22
+        },
+        {
+          "rank": 46,
+          "name": "KayTee",
+          "value": 22
+        },
+        {
+          "rank": 47,
+          "name": "Shandi",
+          "value": 22
+        },
+        {
+          "rank": 48,
+          "name": "Emma",
+          "value": 19
+        },
+        {
+          "rank": 49,
+          "name": "Alluka",
+          "value": 17
+        },
+        {
+          "rank": 50,
+          "name": "Aennyl",
+          "value": 16
+        },
+        {
+          "rank": 51,
+          "name": "Teresa Ngo",
+          "value": 16
+        },
+        {
+          "rank": 52,
+          "name": "xuanie",
+          "value": 16
+        },
+        {
+          "rank": 53,
+          "name": "xyz",
+          "value": 16
+        },
+        {
+          "rank": 54,
+          "name": "Alice",
+          "value": 15
+        },
+        {
+          "rank": 55,
+          "name": "Alicia Marie",
+          "value": 15
+        },
+        {
+          "rank": 56,
+          "name": "Edgecrusher",
+          "value": 15
+        },
+        {
+          "rank": 57,
+          "name": "Elli Miku",
+          "value": 15
+        },
+        {
+          "rank": 58,
+          "name": "Cryst\u03b1lR\u03b1in",
+          "value": 14
+        },
+        {
+          "rank": 59,
+          "name": "sir meme",
+          "value": 13
+        },
+        {
+          "rank": 60,
+          "name": "xxKristianxx",
+          "value": 13
+        },
+        {
+          "rank": 61,
+          "name": "Lori",
+          "value": 12
+        },
+        {
+          "rank": 62,
+          "name": "Maria Silver",
+          "value": 12
+        },
+        {
+          "rank": 63,
+          "name": "Melody",
+          "value": 12
+        },
+        {
+          "rank": 64,
+          "name": "Anya",
+          "value": 11
+        },
+        {
+          "rank": 65,
+          "name": "Casaysha",
+          "value": 11
+        },
+        {
+          "rank": 66,
+          "name": "Ericka Abreu",
+          "value": 11
+        },
+        {
+          "rank": 67,
+          "name": "Heimish",
+          "value": 11
+        },
+        {
+          "rank": 68,
+          "name": "Mouse",
+          "value": 11
+        },
+        {
+          "rank": 69,
+          "name": "Nikkileaf",
+          "value": 11
+        },
+        {
+          "rank": 70,
+          "name": "CheshireCat",
+          "value": 10
+        },
+        {
+          "rank": 71,
+          "name": "Kana",
+          "value": 10
+        },
+        {
+          "rank": 72,
+          "name": "AmbriMahesan",
+          "value": 9
+        },
+        {
+          "rank": 73,
+          "name": "Negar",
+          "value": 9
+        },
+        {
+          "rank": 74,
+          "name": "Disgust",
+          "value": 8
+        },
+        {
+          "rank": 75,
+          "name": "Hank Agnes",
+          "value": 8
+        },
+        {
+          "rank": 76,
+          "name": "Kityankaa",
+          "value": 8
+        },
+        {
+          "rank": 77,
+          "name": "Sakura",
+          "value": 8
+        },
+        {
+          "rank": 78,
+          "name": "Valentina",
+          "value": 8
+        },
+        {
+          "rank": 79,
+          "name": "Faine",
+          "value": 7
+        },
+        {
+          "rank": 80,
+          "name": "Luca M",
+          "value": 7
+        },
+        {
+          "rank": 81,
+          "name": "Nami",
+          "value": 7
+        },
+        {
+          "rank": 82,
+          "name": "Nick maxwel",
+          "value": 7
+        },
+        {
+          "rank": 83,
+          "name": "Rose",
+          "value": 7
+        },
+        {
+          "rank": 84,
+          "name": "Sayume",
+          "value": 7
+        },
+        {
+          "rank": 85,
+          "name": "Valkyrie",
+          "value": 7
+        },
+        {
+          "rank": 86,
+          "name": "Alais",
+          "value": 6
+        },
+        {
+          "rank": 87,
+          "name": "Celena Tatum",
+          "value": 6
+        },
+        {
+          "rank": 88,
+          "name": "Helena",
+          "value": 6
+        },
+        {
+          "rank": 89,
+          "name": "KaiBerrii",
+          "value": 6
+        },
+        {
+          "rank": 90,
+          "name": "Lady Sophie",
+          "value": 6
+        },
+        {
+          "rank": 91,
+          "name": "Spoon Bug",
+          "value": 6
+        },
+        {
+          "rank": 92,
+          "name": "WATER HOUSE",
+          "value": 6
+        },
+        {
+          "rank": 93,
+          "name": "Ameya",
+          "value": 5
+        },
+        {
+          "rank": 94,
+          "name": "Aol",
+          "value": 5
+        },
+        {
+          "rank": 95,
+          "name": "CC",
+          "value": 5
+        },
+        {
+          "rank": 96,
+          "name": "Hailey",
+          "value": 5
+        },
+        {
+          "rank": 97,
+          "name": "Kamira",
+          "value": 5
+        },
+        {
+          "rank": 98,
+          "name": "Laine Taka",
+          "value": 5
+        },
+        {
+          "rank": 99,
+          "name": "Midori",
+          "value": 5
+        },
+        {
+          "rank": 100,
+          "name": "Mika",
+          "value": 5
+        }
+      ]
+    },
+    "top_5": {
+      "title": "Most Top 5s",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "Athena",
+          "value": 814
+        },
+        {
+          "rank": 2,
+          "name": "ViolettaDoll",
+          "value": 752
+        },
+        {
+          "rank": 3,
+          "name": "Leonie Quin",
+          "value": 693
+        },
+        {
+          "rank": 4,
+          "name": "Mikachuu",
+          "value": 520
+        },
+        {
+          "rank": 5,
+          "name": "Aloy",
+          "value": 334
+        },
+        {
+          "rank": 6,
+          "name": "Enznya",
+          "value": 130
+        },
+        {
+          "rank": 7,
+          "name": "Aethna O",
+          "value": 125
+        },
+        {
+          "rank": 8,
+          "name": "spiderfeets",
+          "value": 106
+        },
+        {
+          "rank": 9,
+          "name": "Rynettw",
+          "value": 42
+        },
+        {
+          "rank": 10,
+          "name": "EvelynLemus",
+          "value": 36
+        },
+        {
+          "rank": 11,
+          "name": "K\u0430rl Marx",
+          "value": 30
+        },
+        {
+          "rank": 12,
+          "name": "Cheyenn",
+          "value": 29
+        },
+        {
+          "rank": 13,
+          "name": "Camille",
+          "value": 26
+        },
+        {
+          "rank": 14,
+          "name": "Nicky",
+          "value": 24
+        },
+        {
+          "rank": 15,
+          "name": "s   y   n",
+          "value": 24
+        },
+        {
+          "rank": 16,
+          "name": "yumi glitter",
+          "value": 22
+        },
+        {
+          "rank": 17,
+          "name": "AliceMadCat",
+          "value": 21
+        },
+        {
+          "rank": 18,
+          "name": "Silverivy13",
+          "value": 21
+        },
+        {
+          "rank": 19,
+          "name": "Aria",
+          "value": 18
+        },
+        {
+          "rank": 20,
+          "name": "Frost Flora",
+          "value": 16
+        },
+        {
+          "rank": 21,
+          "name": "Mavourneen",
+          "value": 16
+        },
+        {
+          "rank": 22,
+          "name": "Aquarelle",
+          "value": 15
+        },
+        {
+          "rank": 23,
+          "name": "Yumi",
+          "value": 14
+        },
+        {
+          "rank": 24,
+          "name": "Sugarsop",
+          "value": 13
+        },
+        {
+          "rank": 25,
+          "name": "Cherry Ann",
+          "value": 12
+        },
+        {
+          "rank": 26,
+          "name": "xxKristianxx",
+          "value": 11
+        },
+        {
+          "rank": 27,
+          "name": "Jennifer",
+          "value": 10
+        },
+        {
+          "rank": 28,
+          "name": "Corais",
+          "value": 7
+        },
+        {
+          "rank": 29,
+          "name": "lnfi",
+          "value": 7
+        },
+        {
+          "rank": 30,
+          "name": "sir meme",
+          "value": 7
+        },
+        {
+          "rank": 31,
+          "name": "Ariina",
+          "value": 6
+        },
+        {
+          "rank": 32,
+          "name": "BEANLOVER420",
+          "value": 6
+        },
+        {
+          "rank": 33,
+          "name": "Bluebell",
+          "value": 6
+        },
+        {
+          "rank": 34,
+          "name": "Heimish",
+          "value": 6
+        },
+        {
+          "rank": 35,
+          "name": "Shandi",
+          "value": 6
+        },
+        {
+          "rank": 36,
+          "name": "\u00df\u00c5M\u00df\u00ce",
+          "value": 6
+        },
+        {
+          "rank": 37,
+          "name": "Alluka",
+          "value": 5
+        },
+        {
+          "rank": 38,
+          "name": "AmbriMahesan",
+          "value": 5
+        },
+        {
+          "rank": 39,
+          "name": "Lilliana",
+          "value": 4
+        },
+        {
+          "rank": 40,
+          "name": "Orino Akeno",
+          "value": 4
+        },
+        {
+          "rank": 41,
+          "name": "Sumire",
+          "value": 4
+        },
+        {
+          "rank": 42,
+          "name": "Teresa Ngo",
+          "value": 4
+        },
+        {
+          "rank": 43,
+          "name": "Yuka lto",
+          "value": 4
+        },
+        {
+          "rank": 44,
+          "name": "Alice",
+          "value": 3
+        },
+        {
+          "rank": 45,
+          "name": "Becka",
+          "value": 3
+        },
+        {
+          "rank": 46,
+          "name": "Disgust",
+          "value": 3
+        },
+        {
+          "rank": 47,
+          "name": "Kana",
+          "value": 3
+        },
+        {
+          "rank": 48,
+          "name": "Nick maxwel",
+          "value": 3
+        },
+        {
+          "rank": 49,
+          "name": "Ruby Lissa",
+          "value": 3
+        },
+        {
+          "rank": 50,
+          "name": "Sayume",
+          "value": 3
+        },
+        {
+          "rank": 51,
+          "name": "xuanie",
+          "value": 3
+        },
+        {
+          "rank": 52,
+          "name": "Akatsuki",
+          "value": 2
+        },
+        {
+          "rank": 53,
+          "name": "Annika",
+          "value": 2
+        },
+        {
+          "rank": 54,
+          "name": "Anya",
+          "value": 2
+        },
+        {
+          "rank": 55,
+          "name": "Brian Spades",
+          "value": 2
+        },
+        {
+          "rank": 56,
+          "name": "Celena Tatum",
+          "value": 2
+        },
+        {
+          "rank": 57,
+          "name": "Elle Cy",
+          "value": 2
+        },
+        {
+          "rank": 58,
+          "name": "Elli Miku",
+          "value": 2
+        },
+        {
+          "rank": 59,
+          "name": "Hank Agnes",
+          "value": 2
+        },
+        {
+          "rank": 60,
+          "name": "KayTee",
+          "value": 2
+        },
+        {
+          "rank": 61,
+          "name": "Lady Sophie",
+          "value": 2
+        },
+        {
+          "rank": 62,
+          "name": "Mystica",
+          "value": 2
+        },
+        {
+          "rank": 63,
+          "name": "Nami",
+          "value": 2
+        },
+        {
+          "rank": 64,
+          "name": "Rainysnow",
+          "value": 2
+        },
+        {
+          "rank": 65,
+          "name": "Riri",
+          "value": 2
+        },
+        {
+          "rank": 66,
+          "name": "Sabrina",
+          "value": 2
+        },
+        {
+          "rank": 67,
+          "name": "Sakura",
+          "value": 2
+        },
+        {
+          "rank": 68,
+          "name": "Selina",
+          "value": 2
+        },
+        {
+          "rank": 69,
+          "name": "Verra",
+          "value": 2
+        },
+        {
+          "rank": 70,
+          "name": "bae",
+          "value": 2
+        },
+        {
+          "rank": 71,
+          "name": "Abby",
+          "value": 1
+        },
+        {
+          "rank": 72,
+          "name": "Aennyl",
+          "value": 1
+        },
+        {
+          "rank": 73,
+          "name": "Alexa",
+          "value": 1
+        },
+        {
+          "rank": 74,
+          "name": "Alicia Marie",
+          "value": 1
+        },
+        {
+          "rank": 75,
+          "name": "Alistriona",
+          "value": 1
+        },
+        {
+          "rank": 76,
+          "name": "Arsian",
+          "value": 1
+        },
+        {
+          "rank": 77,
+          "name": "Artzya",
+          "value": 1
+        },
+        {
+          "rank": 78,
+          "name": "Athalia",
+          "value": 1
+        },
+        {
+          "rank": 79,
+          "name": "Aubrie",
+          "value": 1
+        },
+        {
+          "rank": 80,
+          "name": "BLONDESHELL",
+          "value": 1
+        },
+        {
+          "rank": 81,
+          "name": "Casaysha",
+          "value": 1
+        },
+        {
+          "rank": 82,
+          "name": "Charlotte",
+          "value": 1
+        },
+        {
+          "rank": 83,
+          "name": "Chibi",
+          "value": 1
+        },
+        {
+          "rank": 84,
+          "name": "Circe",
+          "value": 1
+        },
+        {
+          "rank": 85,
+          "name": "Courtney",
+          "value": 1
+        },
+        {
+          "rank": 86,
+          "name": "Cryst\u03b1lR\u03b1in",
+          "value": 1
+        },
+        {
+          "rank": 87,
+          "name": "Edgecrusher",
+          "value": 1
+        },
+        {
+          "rank": 88,
+          "name": "Emma",
+          "value": 1
+        },
+        {
+          "rank": 89,
+          "name": "Ericka Abreu",
+          "value": 1
+        },
+        {
+          "rank": 90,
+          "name": "Eva",
+          "value": 1
+        },
+        {
+          "rank": 91,
+          "name": "Evan",
+          "value": 1
+        },
+        {
+          "rank": 92,
+          "name": "Hailey",
+          "value": 1
+        },
+        {
+          "rank": 93,
+          "name": "Jade",
+          "value": 1
+        },
+        {
+          "rank": 94,
+          "name": "Jenna",
+          "value": 1
+        },
+        {
+          "rank": 95,
+          "name": "Jupitia",
+          "value": 1
+        },
+        {
+          "rank": 96,
+          "name": "Lesli",
+          "value": 1
+        },
+        {
+          "rank": 97,
+          "name": "Lily Aber",
+          "value": 1
+        },
+        {
+          "rank": 98,
+          "name": "Lori",
+          "value": 1
+        },
+        {
+          "rank": 99,
+          "name": "Luna Lowe",
+          "value": 1
+        },
+        {
+          "rank": 100,
+          "name": "Marina",
+          "value": 1
+        }
+      ]
+    },
+    "top_1": {
+      "title": "Most Top 1s",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "Athena",
+          "value": 500
+        },
+        {
+          "rank": 2,
+          "name": "ViolettaDoll",
+          "value": 124
+        },
+        {
+          "rank": 3,
+          "name": "Leonie Quin",
+          "value": 107
+        },
+        {
+          "rank": 4,
+          "name": "Mikachuu",
+          "value": 36
+        },
+        {
+          "rank": 5,
+          "name": "xxKristianxx",
+          "value": 9
+        },
+        {
+          "rank": 6,
+          "name": "Enznya",
+          "value": 7
+        },
+        {
+          "rank": 7,
+          "name": "Rynettw",
+          "value": 7
+        },
+        {
+          "rank": 8,
+          "name": "spiderfeets",
+          "value": 6
+        },
+        {
+          "rank": 9,
+          "name": "Nicky",
+          "value": 4
+        },
+        {
+          "rank": 10,
+          "name": "Aloy",
+          "value": 3
+        },
+        {
+          "rank": 11,
+          "name": "Cherry Ann",
+          "value": 3
+        },
+        {
+          "rank": 12,
+          "name": "Aethna O",
+          "value": 2
+        },
+        {
+          "rank": 13,
+          "name": "Sugarsop",
+          "value": 2
+        },
+        {
+          "rank": 14,
+          "name": "sir meme",
+          "value": 2
+        },
+        {
+          "rank": 15,
+          "name": "Akatsuki",
+          "value": 1
+        },
+        {
+          "rank": 16,
+          "name": "Courtney",
+          "value": 1
+        },
+        {
+          "rank": 17,
+          "name": "Hank Agnes",
+          "value": 1
+        },
+        {
+          "rank": 18,
+          "name": "lnfi",
+          "value": 1
+        }
+      ]
+    },
+    "aggregate_score": {
+      "title": "Highest Aggregate Score",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "Athena",
+          "value": 178477191
+        },
+        {
+          "rank": 2,
+          "name": "ViolettaDoll",
+          "value": 176362744
+        },
+        {
+          "rank": 3,
+          "name": "Leonie Quin",
+          "value": 176030454
+        },
+        {
+          "rank": 4,
+          "name": "Mikachuu",
+          "value": 174093493
+        },
+        {
+          "rank": 5,
+          "name": "Aloy",
+          "value": 150774559
+        },
+        {
+          "rank": 6,
+          "name": "yumi glitter",
+          "value": 106993780
+        },
+        {
+          "rank": 7,
+          "name": "Jennifer",
+          "value": 101717651
+        },
+        {
+          "rank": 8,
+          "name": "Aria",
+          "value": 98969473
+        },
+        {
+          "rank": 9,
+          "name": "Enznya",
+          "value": 95945155
+        },
+        {
+          "rank": 10,
+          "name": "AliceMadCat",
+          "value": 79737695
+        },
+        {
+          "rank": 11,
+          "name": "Frost Flora",
+          "value": 77653172
+        },
+        {
+          "rank": 12,
+          "name": "Youlan",
+          "value": 68658755
+        },
+        {
+          "rank": 13,
+          "name": "Aethna O",
+          "value": 68181427
+        },
+        {
+          "rank": 14,
+          "name": "Elle Cy",
+          "value": 58613667
+        },
+        {
+          "rank": 15,
+          "name": "Rynettw",
+          "value": 53593586
+        },
+        {
+          "rank": 16,
+          "name": "Silverivy13",
+          "value": 51587109
+        },
+        {
+          "rank": 17,
+          "name": "spiderfeets",
+          "value": 48897966
+        },
+        {
+          "rank": 18,
+          "name": "Jenna",
+          "value": 47678030
+        },
+        {
+          "rank": 19,
+          "name": "K\u0430rl Marx",
+          "value": 44119632
+        },
+        {
+          "rank": 20,
+          "name": "Camille",
+          "value": 43897500
+        },
+        {
+          "rank": 21,
+          "name": "EvelynLemus",
+          "value": 40899218
+        },
+        {
+          "rank": 22,
+          "name": "Sugarsop",
+          "value": 36561159
+        },
+        {
+          "rank": 23,
+          "name": "KayTee",
+          "value": 31003052
+        },
+        {
+          "rank": 24,
+          "name": "Cheyenn",
+          "value": 29557324
+        },
+        {
+          "rank": 25,
+          "name": "s   y   n",
+          "value": 29326303
+        },
+        {
+          "rank": 26,
+          "name": "Cryst\u03b1lR\u03b1in",
+          "value": 29091933
+        },
+        {
+          "rank": 27,
+          "name": "Ruby Lissa",
+          "value": 28563169
+        },
+        {
+          "rank": 28,
+          "name": "Yumi",
+          "value": 28429955
+        },
+        {
+          "rank": 29,
+          "name": "bae",
+          "value": 26502121
+        },
+        {
+          "rank": 30,
+          "name": "Carissa",
+          "value": 24458494
+        },
+        {
+          "rank": 31,
+          "name": "Lilliana",
+          "value": 20794826
+        },
+        {
+          "rank": 32,
+          "name": "Rainysnow",
+          "value": 20420546
+        },
+        {
+          "rank": 33,
+          "name": "Bluebell",
+          "value": 20279063
+        },
+        {
+          "rank": 34,
+          "name": "Orino Akeno",
+          "value": 18789448
+        },
+        {
+          "rank": 35,
+          "name": "Charlotte",
+          "value": 18685554
+        },
+        {
+          "rank": 36,
+          "name": "Lori",
+          "value": 18104508
+        },
+        {
+          "rank": 37,
+          "name": "BEANLOVER420",
+          "value": 18080160
+        },
+        {
+          "rank": 38,
+          "name": "Mavourneen",
+          "value": 16853083
+        },
+        {
+          "rank": 39,
+          "name": "Corais",
+          "value": 16277124
+        },
+        {
+          "rank": 40,
+          "name": "Lyra Talise",
+          "value": 15671727
+        },
+        {
+          "rank": 41,
+          "name": "Selina",
+          "value": 15546125
+        },
+        {
+          "rank": 42,
+          "name": "Edgecrusher",
+          "value": 14951633
+        },
+        {
+          "rank": 43,
+          "name": "Nina Mann",
+          "value": 14707525
+        },
+        {
+          "rank": 44,
+          "name": "Alice",
+          "value": 14540863
+        },
+        {
+          "rank": 45,
+          "name": "Cherry Ann",
+          "value": 14512222
+        },
+        {
+          "rank": 46,
+          "name": "xyz",
+          "value": 14046271
+        },
+        {
+          "rank": 47,
+          "name": "Yuka lto",
+          "value": 13783444
+        },
+        {
+          "rank": 48,
+          "name": "\u00df\u00c5M\u00df\u00ce",
+          "value": 13754096
+        },
+        {
+          "rank": 49,
+          "name": "Ariina",
+          "value": 13428902
+        },
+        {
+          "rank": 50,
+          "name": "Midori",
+          "value": 11571955
+        },
+        {
+          "rank": 51,
+          "name": "Emma",
+          "value": 11490352
+        },
+        {
+          "rank": 52,
+          "name": "Ameya",
+          "value": 11019304
+        },
+        {
+          "rank": 53,
+          "name": "Spoon Bug",
+          "value": 10014815
+        },
+        {
+          "rank": 54,
+          "name": "CheshireCat",
+          "value": 9879459
+        },
+        {
+          "rank": 55,
+          "name": "Aennyl",
+          "value": 9648434
+        },
+        {
+          "rank": 56,
+          "name": "Nikkileaf",
+          "value": 9444592
+        },
+        {
+          "rank": 57,
+          "name": "Helena",
+          "value": 9026863
+        },
+        {
+          "rank": 58,
+          "name": "Ericka Abreu",
+          "value": 8940554
+        },
+        {
+          "rank": 59,
+          "name": "Nicky",
+          "value": 8936920
+        },
+        {
+          "rank": 60,
+          "name": "Circe",
+          "value": 8812661
+        },
+        {
+          "rank": 61,
+          "name": "Mouse",
+          "value": 8623096
+        },
+        {
+          "rank": 62,
+          "name": "Faine",
+          "value": 8475765
+        },
+        {
+          "rank": 63,
+          "name": "Mika",
+          "value": 8297422
+        },
+        {
+          "rank": 64,
+          "name": "lnfi",
+          "value": 7971600
+        },
+        {
+          "rank": 65,
+          "name": "Shandi",
+          "value": 7871946
+        },
+        {
+          "rank": 66,
+          "name": "Ella Joy",
+          "value": 7800096
+        },
+        {
+          "rank": 67,
+          "name": "Evan",
+          "value": 7545277
+        },
+        {
+          "rank": 68,
+          "name": "Sabrina",
+          "value": 7262523
+        },
+        {
+          "rank": 69,
+          "name": "Anya",
+          "value": 7239019
+        },
+        {
+          "rank": 70,
+          "name": "Melody",
+          "value": 6959562
+        },
+        {
+          "rank": 71,
+          "name": "Aquarelle",
+          "value": 6870050
+        },
+        {
+          "rank": 72,
+          "name": "Maria Silver",
+          "value": 6666101
+        },
+        {
+          "rank": 73,
+          "name": "Alicia Marie",
+          "value": 6652568
+        },
+        {
+          "rank": 74,
+          "name": "Sayume",
+          "value": 6643319
+        },
+        {
+          "rank": 75,
+          "name": "Tegan",
+          "value": 6256062
+        },
+        {
+          "rank": 76,
+          "name": "Alluka",
+          "value": 6173708
+        },
+        {
+          "rank": 77,
+          "name": "Valentina",
+          "value": 6120329
+        },
+        {
+          "rank": 78,
+          "name": "Laila",
+          "value": 6061584
+        },
+        {
+          "rank": 79,
+          "name": "sir meme",
+          "value": 5725770
+        },
+        {
+          "rank": 80,
+          "name": "Negar",
+          "value": 5617888
+        },
+        {
+          "rank": 81,
+          "name": "Ivory",
+          "value": 5495858
+        },
+        {
+          "rank": 82,
+          "name": "xuanie",
+          "value": 5360889
+        },
+        {
+          "rank": 83,
+          "name": "Teresa Ngo",
+          "value": 5244805
+        },
+        {
+          "rank": 84,
+          "name": "Elli Miku",
+          "value": 5208936
+        },
+        {
+          "rank": 85,
+          "name": "Valkyrie",
+          "value": 5202847
+        },
+        {
+          "rank": 86,
+          "name": "Luca M",
+          "value": 5152560
+        },
+        {
+          "rank": 87,
+          "name": "Casaysha",
+          "value": 5140247
+        },
+        {
+          "rank": 88,
+          "name": "Sakura",
+          "value": 5119291
+        },
+        {
+          "rank": 89,
+          "name": "Foray",
+          "value": 5020902
+        },
+        {
+          "rank": 90,
+          "name": "Faiyora Jynx",
+          "value": 4996524
+        },
+        {
+          "rank": 91,
+          "name": "AmbriMahesan",
+          "value": 4959492
+        },
+        {
+          "rank": 92,
+          "name": "Blancwing",
+          "value": 4924466
+        },
+        {
+          "rank": 93,
+          "name": "Jupitia",
+          "value": 4852288
+        },
+        {
+          "rank": 94,
+          "name": "BDawgSkip",
+          "value": 4772348
+        },
+        {
+          "rank": 95,
+          "name": "KaiBerrii",
+          "value": 4750274
+        },
+        {
+          "rank": 96,
+          "name": "Brian Spades",
+          "value": 4538509
+        },
+        {
+          "rank": 97,
+          "name": "Maki Crimson",
+          "value": 4514562
+        },
+        {
+          "rank": 98,
+          "name": "Kamira",
+          "value": 4420659
+        },
+        {
+          "rank": 99,
+          "name": "Sallie Rana",
+          "value": 4333265
+        },
+        {
+          "rank": 100,
+          "name": "Nanami",
+          "value": 4304704
+        }
+      ]
+    },
+    "points": {
+      "title": "Most Points",
+      "entries": [
+        {
+          "rank": 1,
+          "name": "Athena",
+          "value": 15857
+        },
+        {
+          "rank": 2,
+          "name": "ViolettaDoll",
+          "value": 14625
+        },
+        {
+          "rank": 3,
+          "name": "Leonie Quin",
+          "value": 14240
+        },
+        {
+          "rank": 4,
+          "name": "Mikachuu",
+          "value": 12661
+        },
+        {
+          "rank": 5,
+          "name": "Aloy",
+          "value": 10368
+        },
+        {
+          "rank": 6,
+          "name": "Enznya",
+          "value": 5650
+        },
+        {
+          "rank": 7,
+          "name": "yumi glitter",
+          "value": 5047
+        },
+        {
+          "rank": 8,
+          "name": "Aethna O",
+          "value": 4606
+        },
+        {
+          "rank": 9,
+          "name": "Jennifer",
+          "value": 4282
+        },
+        {
+          "rank": 10,
+          "name": "Aria",
+          "value": 4136
+        },
+        {
+          "rank": 11,
+          "name": "Frost Flora",
+          "value": 3353
+        },
+        {
+          "rank": 12,
+          "name": "spiderfeets",
+          "value": 3314
+        },
+        {
+          "rank": 13,
+          "name": "AliceMadCat",
+          "value": 3204
+        },
+        {
+          "rank": 14,
+          "name": "Rynettw",
+          "value": 2546
+        },
+        {
+          "rank": 15,
+          "name": "Youlan",
+          "value": 2292
+        },
+        {
+          "rank": 16,
+          "name": "K\u0430rl Marx",
+          "value": 2146
+        },
+        {
+          "rank": 17,
+          "name": "Elle Cy",
+          "value": 2128
+        },
+        {
+          "rank": 18,
+          "name": "Silverivy13",
+          "value": 2059
+        },
+        {
+          "rank": 19,
+          "name": "Camille",
+          "value": 2048
+        },
+        {
+          "rank": 20,
+          "name": "EvelynLemus",
+          "value": 2006
+        },
+        {
+          "rank": 21,
+          "name": "Cheyenn",
+          "value": 1540
+        },
+        {
+          "rank": 22,
+          "name": "s   y   n",
+          "value": 1539
+        },
+        {
+          "rank": 23,
+          "name": "Jenna",
+          "value": 1506
+        },
+        {
+          "rank": 24,
+          "name": "Yumi",
+          "value": 1327
+        },
+        {
+          "rank": 25,
+          "name": "Sugarsop",
+          "value": 1292
+        },
+        {
+          "rank": 26,
+          "name": "Lilliana",
+          "value": 966
+        },
+        {
+          "rank": 27,
+          "name": "bae",
+          "value": 952
+        },
+        {
+          "rank": 28,
+          "name": "KayTee",
+          "value": 889
+        },
+        {
+          "rank": 29,
+          "name": "Ruby Lissa",
+          "value": 888
+        },
+        {
+          "rank": 30,
+          "name": "Carissa",
+          "value": 878
+        },
+        {
+          "rank": 31,
+          "name": "Mavourneen",
+          "value": 850
+        },
+        {
+          "rank": 32,
+          "name": "Bluebell",
+          "value": 822
+        },
+        {
+          "rank": 33,
+          "name": "Cryst\u03b1lR\u03b1in",
+          "value": 776
+        },
+        {
+          "rank": 34,
+          "name": "Orino Akeno",
+          "value": 774
+        },
+        {
+          "rank": 35,
+          "name": "Charlotte",
+          "value": 728
+        },
+        {
+          "rank": 36,
+          "name": "Cherry Ann",
+          "value": 722
+        },
+        {
+          "rank": 37,
+          "name": "Rainysnow",
+          "value": 702
+        },
+        {
+          "rank": 38,
+          "name": "Selina",
+          "value": 673
+        },
+        {
+          "rank": 39,
+          "name": "BEANLOVER420",
+          "value": 666
+        },
+        {
+          "rank": 40,
+          "name": "Ariina",
+          "value": 653
+        },
+        {
+          "rank": 41,
+          "name": "Corais",
+          "value": 650
+        },
+        {
+          "rank": 42,
+          "name": "Nicky",
+          "value": 646
+        },
+        {
+          "rank": 43,
+          "name": "\u00df\u00c5M\u00df\u00ce",
+          "value": 616
+        },
+        {
+          "rank": 44,
+          "name": "Lori",
+          "value": 563
+        },
+        {
+          "rank": 45,
+          "name": "Yuka lto",
+          "value": 548
+        },
+        {
+          "rank": 46,
+          "name": "Aquarelle",
+          "value": 516
+        },
+        {
+          "rank": 47,
+          "name": "Alice",
+          "value": 512
+        },
+        {
+          "rank": 48,
+          "name": "xyz",
+          "value": 479
+        },
+        {
+          "rank": 49,
+          "name": "Edgecrusher",
+          "value": 472
+        },
+        {
+          "rank": 50,
+          "name": "Emma",
+          "value": 447
+        },
+        {
+          "rank": 51,
+          "name": "Circe",
+          "value": 441
+        },
+        {
+          "rank": 52,
+          "name": "lnfi",
+          "value": 427
+        },
+        {
+          "rank": 53,
+          "name": "Aennyl",
+          "value": 418
+        },
+        {
+          "rank": 54,
+          "name": "Shandi",
+          "value": 414
+        },
+        {
+          "rank": 55,
+          "name": "Lyra Talise",
+          "value": 343
+        },
+        {
+          "rank": 56,
+          "name": "Alluka",
+          "value": 328
+        },
+        {
+          "rank": 57,
+          "name": "CheshireCat",
+          "value": 328
+        },
+        {
+          "rank": 58,
+          "name": "Alicia Marie",
+          "value": 319
+        },
+        {
+          "rank": 59,
+          "name": "Maria Silver",
+          "value": 313
+        },
+        {
+          "rank": 60,
+          "name": "Anya",
+          "value": 310
+        },
+        {
+          "rank": 61,
+          "name": "Melody",
+          "value": 293
+        },
+        {
+          "rank": 62,
+          "name": "xuanie",
+          "value": 291
+        },
+        {
+          "rank": 63,
+          "name": "Helena",
+          "value": 290
+        },
+        {
+          "rank": 64,
+          "name": "Nikkileaf",
+          "value": 282
+        },
+        {
+          "rank": 65,
+          "name": "sir meme",
+          "value": 279
+        },
+        {
+          "rank": 66,
+          "name": "Mika",
+          "value": 275
+        },
+        {
+          "rank": 67,
+          "name": "Teresa Ngo",
+          "value": 271
+        },
+        {
+          "rank": 68,
+          "name": "Spoon Bug",
+          "value": 268
+        },
+        {
+          "rank": 69,
+          "name": "Nina Mann",
+          "value": 261
+        },
+        {
+          "rank": 70,
+          "name": "Midori",
+          "value": 260
+        },
+        {
+          "rank": 71,
+          "name": "Casaysha",
+          "value": 258
+        },
+        {
+          "rank": 72,
+          "name": "Negar",
+          "value": 256
+        },
+        {
+          "rank": 73,
+          "name": "Elli Miku",
+          "value": 251
+        },
+        {
+          "rank": 74,
+          "name": "xxKristianxx",
+          "value": 249
+        },
+        {
+          "rank": 75,
+          "name": "Mouse",
+          "value": 240
+        },
+        {
+          "rank": 76,
+          "name": "Faine",
+          "value": 225
+        },
+        {
+          "rank": 77,
+          "name": "Ella Joy",
+          "value": 224
+        },
+        {
+          "rank": 78,
+          "name": "Ericka Abreu",
+          "value": 217
+        },
+        {
+          "rank": 79,
+          "name": "Sakura",
+          "value": 217
+        },
+        {
+          "rank": 80,
+          "name": "Ameya",
+          "value": 214
+        },
+        {
+          "rank": 81,
+          "name": "Sayume",
+          "value": 212
+        },
+        {
+          "rank": 82,
+          "name": "Valentina",
+          "value": 209
+        },
+        {
+          "rank": 83,
+          "name": "Heimish",
+          "value": 191
+        },
+        {
+          "rank": 84,
+          "name": "Luca M",
+          "value": 191
+        },
+        {
+          "rank": 85,
+          "name": "Kana",
+          "value": 185
+        },
+        {
+          "rank": 86,
+          "name": "Laila",
+          "value": 181
+        },
+        {
+          "rank": 87,
+          "name": "KaiBerrii",
+          "value": 179
+        },
+        {
+          "rank": 88,
+          "name": "WATER HOUSE",
+          "value": 179
+        },
+        {
+          "rank": 89,
+          "name": "Brian Spades",
+          "value": 169
+        },
+        {
+          "rank": 90,
+          "name": "Jupitia",
+          "value": 166
+        },
+        {
+          "rank": 91,
+          "name": "Celena Tatum",
+          "value": 159
+        },
+        {
+          "rank": 92,
+          "name": "Valkyrie",
+          "value": 155
+        },
+        {
+          "rank": 93,
+          "name": "Blancwing",
+          "value": 154
+        },
+        {
+          "rank": 94,
+          "name": "Nami",
+          "value": 154
+        },
+        {
+          "rank": 95,
+          "name": "Lady Sophie",
+          "value": 152
+        },
+        {
+          "rank": 96,
+          "name": "Aol",
+          "value": 151
+        },
+        {
+          "rank": 97,
+          "name": "Maki Crimson",
+          "value": 151
+        },
+        {
+          "rank": 98,
+          "name": "Hank Agnes",
+          "value": 150
+        },
+        {
+          "rank": 99,
+          "name": "Yui",
+          "value": 150
+        },
+        {
+          "rank": 100,
+          "name": "Kityankaa",
+          "value": 149
+        }
+      ]
+    }
+  }
+}

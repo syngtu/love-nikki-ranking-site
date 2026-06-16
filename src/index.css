@@ -1,0 +1,453 @@
+:root {
+  --bg: #fdf6f8;
+  --bg-card: #ffffff;
+  --bg-card-hover: #fff5f8;
+  --text: #3d2c3e;
+  --text-muted: #8a7089;
+  --accent: #e878a0;
+  --accent-dark: #c95680;
+  --accent-light: #f8c4d8;
+  --border: #f0dce6;
+  --gold-bg: #fff8e1;
+  --silver-bg: #f0f0f0;
+  --bronze-bg: #fbe9e0;
+  --header-bg: #fce4ec;
+  --shadow: 0 2px 12px rgba(200, 120, 150, 0.12);
+  --radius: 12px;
+  font-family: "Segoe UI", system-ui, -apple-system, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+  color: var(--text);
+  background-color: var(--bg);
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  min-height: 100vh;
+}
+
+#root {
+  min-height: 100vh;
+}
+
+a {
+  color: var(--accent-dark);
+  text-decoration: none;
+}
+
+button {
+  font-family: inherit;
+  cursor: pointer;
+  border: none;
+  background: none;
+}
+
+.app {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 0 1.25rem 3rem;
+}
+
+.header {
+  background: var(--header-bg);
+  width: 100vw;
+  position: relative;
+  left: 50%;
+  right: 50%;
+  margin-left: -50vw;
+  margin-right: -50vw;
+  margin-top: 0;
+  margin-bottom: 2rem;
+  padding: 2rem 0 1.5rem 0;
+  box-sizing: border-box;
+}
+.header > * {
+  max-width: 1100px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 1.25rem;
+  padding-right: 1.25rem;
+}
+
+.header-brand {
+  display: flex;
+  align-items: center;
+  gap: 0.65rem;
+}
+
+.logo {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 2.25rem;
+  height: 2.25rem;
+  border-radius: 8px;
+  background: var(--accent);
+  color: white;
+  font-size: 1.35rem;
+  font-weight: 800;
+  line-height: 1;
+}
+
+.header h1 {
+  font-size: 1.75rem;
+  font-weight: 700;
+  color: var(--accent-dark);
+  letter-spacing: -0.02em;
+}
+
+.header p {
+  color: var(--text-muted);
+  font-size: 0.9rem;
+  margin-top: 0.35rem;
+}
+
+.tabs {
+  display: flex;
+  gap: 0.5rem;
+  margin-bottom: 1.25rem;
+  flex-wrap: wrap;
+}
+
+.tab {
+  padding: 0.6rem 1.25rem;
+  border-radius: 999px;
+  font-size: 0.95rem;
+  font-weight: 600;
+  color: var(--text-muted);
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  transition: all 0.15s ease;
+}
+
+.tab:hover {
+  background: var(--bg-card-hover);
+  color: var(--accent-dark);
+}
+
+.tab.active {
+  background: var(--accent);
+  color: white;
+  border-color: var(--accent);
+}
+
+.subtabs {
+  display: flex;
+  gap: 0.5rem;
+  margin-bottom: 1.5rem;
+}
+
+.subtab {
+  padding: 0.45rem 1rem;
+  border-radius: var(--radius);
+  font-size: 0.875rem;
+  font-weight: 500;
+  color: var(--text-muted);
+  border: 1px solid transparent;
+}
+
+.subtab:hover {
+  color: var(--accent-dark);
+  background: var(--bg-card-hover);
+}
+
+.subtab.active {
+  color: var(--accent-dark);
+  background: var(--accent-light);
+  border-color: var(--accent);
+}
+
+.leaderboard-sections {
+  display: flex;
+  flex-direction: column;
+  gap: 2.5rem;
+}
+
+.leaderboard-section {
+  padding-bottom: 0.5rem;
+}
+
+.leaderboard-section:last-child {
+  border-bottom: none;
+}
+
+.leaderboard-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 1rem;
+}
+
+.card {
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+}
+
+.leaderboard-card {
+  max-width: 420px;
+}
+
+.card-header {
+  padding: 0.75rem 1rem;
+  background: var(--accent-light);
+  border-bottom: 1px solid var(--border);
+  border-top-left-radius: var(--radius);
+  border-top-right-radius: var(--radius);
+}
+
+.card-header h3 {
+  font-size: 0.9rem;
+  font-weight: 700;
+  color: var(--accent-dark);
+  display: flex;
+  align-items: center;
+  gap: 0.35rem;
+}
+
+.info-tip {
+  position: relative;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0;
+  border: none;
+  background: none;
+  font-size: 0.85rem;
+  line-height: 1;
+  color: var(--accent-dark);
+  cursor: help;
+  font-weight: 400;
+}
+
+.info-tip-bubble {
+  position: absolute;
+  bottom: calc(100% + 0.4rem);
+  left: 50%;
+  transform: translateX(-50%);
+  z-index: 10;
+  width: max-content;
+  max-width: 16rem;
+  padding: 0.5rem 0.65rem;
+  border-radius: 0.5rem;
+  background: var(--bg-card);
+  color: var(--text);
+  font-size: 0.75rem;
+  font-weight: 400;
+  line-height: 1.4;
+  text-align: left;
+  white-space: normal;
+  box-shadow: var(--shadow);
+  opacity: 0;
+  visibility: hidden;
+  transition: opacity 0.15s ease;
+  pointer-events: none;
+}
+
+.info-tip-bubble::after {
+  content: "";
+  position: absolute;
+  top: 100%;
+  left: 50%;
+  transform: translateX(-50%);
+  border: 0.35rem solid transparent;
+  border-top-color: rgba(30, 30, 40, 0.95);
+}
+
+.info-tip:hover .info-tip-bubble,
+.info-tip:focus-visible .info-tip-bubble,
+.info-tip:focus .info-tip-bubble {
+  opacity: 1;
+  visibility: visible;
+}
+
+.card-body {
+  max-height: 20rem;
+  overflow-y: auto;
+  border-bottom-left-radius: var(--radius);
+  border-bottom-right-radius: var(--radius);
+}
+
+.rank-row {
+  display: grid;
+  grid-template-columns: 2rem 1fr auto;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.4rem 0.75rem;
+  font-size: 0.8125rem;
+}
+
+.rank-row-top1 {
+  background: var(--gold-bg);
+}
+
+.rank-row-top2 {
+  background: var(--silver-bg);
+}
+
+.rank-row-top3 {
+  background: var(--bronze-bg);
+}
+
+.rank-num {
+  font-weight: 700;
+  text-align: center;
+  color: var(--text-muted);
+}
+
+.rank-name {
+  font-weight: 500;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: pre;
+  max-width: 280px;
+}
+
+.player-name {
+  white-space: pre;
+}
+
+.guild-none {
+  font-style: italic;
+  color: var(--text-muted);
+}
+
+.guild-affiliation {
+  font-style: italic;
+  color: var(--text-muted);
+}
+
+.rank-value {
+  font-weight: 600;
+  color: var(--accent-dark);
+  font-variant-numeric: tabular-nums;
+}
+
+.stage-selectors {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem 1rem;
+  margin-bottom: 1.25rem;
+}
+
+.select-field {
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+  font-size: 0.8rem;
+  color: var(--text-muted);
+}
+
+.select-field select {
+  min-width: 120px;
+  padding: 0.5rem 0.65rem;
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  background: var(--bg-card);
+  color: var(--text);
+  font-size: 0.875rem;
+}
+
+.stage-card-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 1.25rem;
+  align-items: start;
+}
+
+.stage-card {
+  min-width: 0;
+}
+
+.stage-table {
+  width: 100%;
+  border-collapse: collapse;
+  table-layout: fixed;
+}
+
+.stage-table th,
+.stage-table td {
+  padding: 0.5rem 0.85rem;
+  text-align: left;
+  border-bottom: 1px solid var(--border);
+  font-size: 0.8125rem;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.stage-table th:first-child,
+.stage-table td:first-child {
+  width: 4rem;
+}
+
+.stage-table th:last-child,
+.stage-table td:last-child {
+  width: 6rem;
+}
+
+.stage-table th {
+  background: var(--accent-light);
+  color: var(--accent-dark);
+  font-weight: 600;
+}
+
+.stage-table tr:hover td {
+  filter: brightness(0.98);
+}
+
+.stage-table .score {
+  font-weight: 600;
+  color: var(--accent-dark);
+  font-variant-numeric: tabular-nums;
+}
+
+.expand-btn {
+  display: block;
+  width: 100%;
+  padding: 0.55rem;
+  font-size: 0.8125rem;
+  color: var(--accent-dark);
+  background: var(--bg-card-hover);
+  border-top: 1px solid var(--border);
+}
+
+.expand-btn:hover {
+  background: var(--accent-light);
+}
+
+.empty-state {
+  text-align: center;
+  padding: 2rem 1rem;
+  color: var(--text-muted);
+  font-size: 0.875rem;
+}
+
+.section-title {
+  font-size: 1.05rem;
+  font-weight: 700;
+  color: var(--accent-dark);
+  margin: 0 0 1rem;
+}
+
+@media (max-width: 640px) {
+  .leaderboard-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .leaderboard-card {
+    max-width: none;
+  }
+
+  .header h1 {
+    font-size: 1.4rem;
+  }
+}
