@@ -17,7 +17,7 @@
         {
           "rank": 3,
           "name": "Mikachuu",
-          "value": 814
+          "value": 815
         },
         {
           "rank": 4,
@@ -37,7 +37,7 @@
         {
           "rank": 7,
           "name": "Jennifer",
-          "value": 499
+          "value": 498
         },
         {
           "rank": 8,
@@ -67,7 +67,7 @@
         {
           "rank": 13,
           "name": "Youlan",
-          "value": 320
+          "value": 319
         },
         {
           "rank": 14,
@@ -82,7 +82,7 @@
         {
           "rank": 16,
           "name": "Jenna",
-          "value": 243
+          "value": 242
         },
         {
           "rank": 17,
@@ -112,12 +112,12 @@
         {
           "rank": 22,
           "name": "KayTee",
-          "value": 160
+          "value": 159
         },
         {
           "rank": 23,
           "name": "Sugarsop",
-          "value": 156
+          "value": 158
         },
         {
           "rank": 24,
@@ -127,7 +127,7 @@
         {
           "rank": 25,
           "name": "Cryst\u03b1lR\u03b1in",
-          "value": 149
+          "value": 148
         },
         {
           "rank": 26,
@@ -172,7 +172,7 @@
         {
           "rank": 34,
           "name": "Bluebell",
-          "value": 94
+          "value": 93
         },
         {
           "rank": 35,
@@ -261,22 +261,22 @@
         },
         {
           "rank": 52,
+          "name": "Nicky",
+          "value": 51
+        },
+        {
+          "rank": 53,
           "name": "Circe",
           "value": 49
         },
         {
-          "rank": 53,
+          "rank": 54,
           "name": "CheshireCat",
           "value": 47
         },
         {
-          "rank": 54,
-          "name": "Midori",
-          "value": 46
-        },
-        {
           "rank": 55,
-          "name": "Nicky",
+          "name": "Midori",
           "value": 46
         },
         {
@@ -527,7 +527,7 @@
         {
           "rank": 4,
           "name": "Mikachuu",
-          "value": 742
+          "value": 741
         },
         {
           "rank": 5,
@@ -617,17 +617,17 @@
         {
           "rank": 22,
           "name": "Youlan",
-          "value": 69
+          "value": 68
         },
         {
           "rank": 23,
           "name": "Elle Cy",
-          "value": 66
+          "value": 65
         },
         {
           "rank": 24,
           "name": "Sugarsop",
-          "value": 51
+          "value": 53
         },
         {
           "rank": 25,
@@ -641,18 +641,18 @@
         },
         {
           "rank": 27,
+          "name": "Nicky",
+          "value": 39
+        },
+        {
+          "rank": 28,
           "name": "Corais",
           "value": 38
         },
         {
-          "rank": 28,
+          "rank": 29,
           "name": "Lilliana",
           "value": 38
-        },
-        {
-          "rank": 29,
-          "name": "Nicky",
-          "value": 37
         },
         {
           "rank": 30,
@@ -751,12 +751,12 @@
         },
         {
           "rank": 49,
-          "name": "Alluka",
-          "value": 17
+          "name": "Aennyl",
+          "value": 16
         },
         {
           "rank": 50,
-          "name": "Aennyl",
+          "name": "Alluka",
           "value": 16
         },
         {
@@ -1032,12 +1032,12 @@
         {
           "rank": 4,
           "name": "Mikachuu",
-          "value": 520
+          "value": 519
         },
         {
           "rank": 5,
           "name": "Aloy",
-          "value": 334
+          "value": 333
         },
         {
           "rank": 6,
@@ -1082,7 +1082,7 @@
         {
           "rank": 14,
           "name": "Nicky",
-          "value": 24
+          "value": 25
         },
         {
           "rank": 15,
@@ -1126,13 +1126,13 @@
         },
         {
           "rank": 23,
-          "name": "Yumi",
+          "name": "Sugarsop",
           "value": 14
         },
         {
           "rank": 24,
-          "name": "Sugarsop",
-          "value": 13
+          "name": "Yumi",
+          "value": 14
         },
         {
           "rank": 25,
@@ -1532,7 +1532,7 @@
         {
           "rank": 3,
           "name": "Leonie Quin",
-          "value": 107
+          "value": 106
         },
         {
           "rank": 4,
@@ -1562,7 +1562,7 @@
         {
           "rank": 9,
           "name": "Nicky",
-          "value": 4
+          "value": 5
         },
         {
           "rank": 10,
@@ -1632,7 +1632,7 @@
         {
           "rank": 4,
           "name": "Mikachuu",
-          "value": 174093493
+          "value": 174292201
         },
         {
           "rank": 5,
@@ -1647,7 +1647,7 @@
         {
           "rank": 7,
           "name": "Jennifer",
-          "value": 101717651
+          "value": 101533897
         },
         {
           "rank": 8,
@@ -1657,7 +1657,7 @@
         {
           "rank": 9,
           "name": "Enznya",
-          "value": 95945155
+          "value": 95945648
         },
         {
           "rank": 10,
@@ -1672,7 +1672,7 @@
         {
           "rank": 12,
           "name": "Youlan",
-          "value": 68658755
+          "value": 68469877
         },
         {
           "rank": 13,
@@ -1702,7 +1702,7 @@
         {
           "rank": 18,
           "name": "Jenna",
-          "value": 47678030
+          "value": 47501917
         },
         {
           "rank": 19,
@@ -1722,12 +1722,12 @@
         {
           "rank": 22,
           "name": "Sugarsop",
-          "value": 36561159
+          "value": 36944674
         },
         {
           "rank": 23,
           "name": "KayTee",
-          "value": 31003052
+          "value": 30806527
         },
         {
           "rank": 24,
@@ -1742,7 +1742,7 @@
         {
           "rank": 26,
           "name": "Cryst\u03b1lR\u03b1in",
-          "value": 29091933
+          "value": 28902164
         },
         {
           "rank": 27,
@@ -1777,7 +1777,7 @@
         {
           "rank": 33,
           "name": "Bluebell",
-          "value": 20279063
+          "value": 20093473
         },
         {
           "rank": 34,
@@ -1881,33 +1881,33 @@
         },
         {
           "rank": 54,
+          "name": "Nicky",
+          "value": 9889356
+        },
+        {
+          "rank": 55,
           "name": "CheshireCat",
           "value": 9879459
         },
         {
-          "rank": 55,
+          "rank": 56,
           "name": "Aennyl",
           "value": 9648434
         },
         {
-          "rank": 56,
+          "rank": 57,
           "name": "Nikkileaf",
           "value": 9444592
         },
         {
-          "rank": 57,
+          "rank": 58,
           "name": "Helena",
           "value": 9026863
         },
         {
-          "rank": 58,
+          "rank": 59,
           "name": "Ericka Abreu",
           "value": 8940554
-        },
-        {
-          "rank": 59,
-          "name": "Nicky",
-          "value": 8936920
         },
         {
           "rank": 60,
@@ -2122,17 +2122,17 @@
         {
           "rank": 1,
           "name": "Athena",
-          "value": 15857
+          "value": 15856
         },
         {
           "rank": 2,
           "name": "ViolettaDoll",
-          "value": 14625
+          "value": 14624
         },
         {
           "rank": 3,
           "name": "Leonie Quin",
-          "value": 14240
+          "value": 14238
         },
         {
           "rank": 4,
@@ -2142,37 +2142,37 @@
         {
           "rank": 5,
           "name": "Aloy",
-          "value": 10368
+          "value": 10365
         },
         {
           "rank": 6,
           "name": "Enznya",
-          "value": 5650
+          "value": 5649
         },
         {
           "rank": 7,
           "name": "yumi glitter",
-          "value": 5047
+          "value": 5044
         },
         {
           "rank": 8,
           "name": "Aethna O",
-          "value": 4606
+          "value": 4605
         },
         {
           "rank": 9,
           "name": "Jennifer",
-          "value": 4282
+          "value": 4278
         },
         {
           "rank": 10,
           "name": "Aria",
-          "value": 4136
+          "value": 4134
         },
         {
           "rank": 11,
           "name": "Frost Flora",
-          "value": 3353
+          "value": 3351
         },
         {
           "rank": 12,
@@ -2182,42 +2182,42 @@
         {
           "rank": 13,
           "name": "AliceMadCat",
-          "value": 3204
+          "value": 3202
         },
         {
           "rank": 14,
           "name": "Rynettw",
-          "value": 2546
+          "value": 2545
         },
         {
           "rank": 15,
           "name": "Youlan",
-          "value": 2292
+          "value": 2288
         },
         {
           "rank": 16,
           "name": "K\u0430rl Marx",
-          "value": 2146
+          "value": 2145
         },
         {
           "rank": 17,
           "name": "Elle Cy",
-          "value": 2128
+          "value": 2127
         },
         {
           "rank": 18,
           "name": "Silverivy13",
-          "value": 2059
+          "value": 2058
         },
         {
           "rank": 19,
           "name": "Camille",
-          "value": 2048
+          "value": 2047
         },
         {
           "rank": 20,
           "name": "EvelynLemus",
-          "value": 2006
+          "value": 2005
         },
         {
           "rank": 21,
@@ -2232,7 +2232,7 @@
         {
           "rank": 23,
           "name": "Jenna",
-          "value": 1506
+          "value": 1504
         },
         {
           "rank": 24,
@@ -2242,7 +2242,7 @@
         {
           "rank": 25,
           "name": "Sugarsop",
-          "value": 1292
+          "value": 1319
         },
         {
           "rank": 26,
@@ -2252,17 +2252,17 @@
         {
           "rank": 27,
           "name": "bae",
-          "value": 952
+          "value": 951
         },
         {
           "rank": 28,
-          "name": "KayTee",
-          "value": 889
+          "name": "Ruby Lissa",
+          "value": 888
         },
         {
           "rank": 29,
-          "name": "Ruby Lissa",
-          "value": 888
+          "name": "KayTee",
+          "value": 886
         },
         {
           "rank": 30,
@@ -2272,22 +2272,22 @@
         {
           "rank": 31,
           "name": "Mavourneen",
-          "value": 850
+          "value": 849
         },
         {
           "rank": 32,
           "name": "Bluebell",
-          "value": 822
+          "value": 821
         },
         {
           "rank": 33,
           "name": "Cryst\u03b1lR\u03b1in",
-          "value": 776
+          "value": 774
         },
         {
           "rank": 34,
           "name": "Orino Akeno",
-          "value": 774
+          "value": 771
         },
         {
           "rank": 35,
@@ -2306,28 +2306,28 @@
         },
         {
           "rank": 38,
+          "name": "Nicky",
+          "value": 690
+        },
+        {
+          "rank": 39,
           "name": "Selina",
           "value": 673
         },
         {
-          "rank": 39,
+          "rank": 40,
           "name": "BEANLOVER420",
           "value": 666
         },
         {
-          "rank": 40,
+          "rank": 41,
           "name": "Ariina",
           "value": 653
         },
         {
-          "rank": 41,
+          "rank": 42,
           "name": "Corais",
           "value": 650
-        },
-        {
-          "rank": 42,
-          "name": "Nicky",
-          "value": 646
         },
         {
           "rank": 43,
@@ -2337,7 +2337,7 @@
         {
           "rank": 44,
           "name": "Lori",
-          "value": 563
+          "value": 561
         },
         {
           "rank": 45,
@@ -2347,7 +2347,7 @@
         {
           "rank": 46,
           "name": "Aquarelle",
-          "value": 516
+          "value": 515
         },
         {
           "rank": 47,
@@ -2362,12 +2362,12 @@
         {
           "rank": 49,
           "name": "Edgecrusher",
-          "value": 472
+          "value": 471
         },
         {
           "rank": 50,
           "name": "Emma",
-          "value": 447
+          "value": 446
         },
         {
           "rank": 51,
@@ -2392,17 +2392,17 @@
         {
           "rank": 55,
           "name": "Lyra Talise",
-          "value": 343
+          "value": 342
         },
         {
           "rank": 56,
-          "name": "Alluka",
+          "name": "CheshireCat",
           "value": 328
         },
         {
           "rank": 57,
-          "name": "CheshireCat",
-          "value": 328
+          "name": "Alluka",
+          "value": 327
         },
         {
           "rank": 58,
@@ -2466,12 +2466,12 @@
         },
         {
           "rank": 70,
-          "name": "Midori",
-          "value": 260
+          "name": "Casaysha",
+          "value": 258
         },
         {
           "rank": 71,
-          "name": "Casaysha",
+          "name": "Midori",
           "value": 258
         },
         {
@@ -2492,7 +2492,7 @@
         {
           "rank": 75,
           "name": "Mouse",
-          "value": 240
+          "value": 239
         },
         {
           "rank": 76,
@@ -2557,7 +2557,7 @@
         {
           "rank": 88,
           "name": "WATER HOUSE",
-          "value": 179
+          "value": 178
         },
         {
           "rank": 89,
