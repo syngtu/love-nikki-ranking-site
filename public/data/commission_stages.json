@@ -2,7 +2,6 @@
   "mode": "commission",
   "stages": [
     {
-      "task_id": "1001",
       "label": "Chapter 1 Stage 1",
       "entries": [
         {
@@ -130,7 +129,6 @@
       "stage": 1
     },
     {
-      "task_id": "1002",
       "label": "Chapter 1 Stage 2",
       "entries": [
         {
@@ -258,7 +256,6 @@
       "stage": 2
     },
     {
-      "task_id": "1003",
       "label": "Chapter 1 Stage 3",
       "entries": [
         {
@@ -386,7 +383,6 @@
       "stage": 3
     },
     {
-      "task_id": "1004",
       "label": "Chapter 1 Stage 4",
       "entries": [
         {
@@ -514,7 +510,6 @@
       "stage": 4
     },
     {
-      "task_id": "1005",
       "label": "Chapter 1 Stage 5",
       "entries": [
         {
@@ -642,7 +637,6 @@
       "stage": 5
     },
     {
-      "task_id": "1006",
       "label": "Chapter 1 Stage 6",
       "entries": [
         {
@@ -770,7 +764,6 @@
       "stage": 6
     },
     {
-      "task_id": "1007",
       "label": "Chapter 1 Stage 7",
       "entries": [
         {
@@ -898,7 +891,6 @@
       "stage": 7
     },
     {
-      "task_id": "2001",
       "label": "Chapter 2 Stage 1",
       "entries": [
         {
@@ -1026,7 +1018,6 @@
       "stage": 1
     },
     {
-      "task_id": "2002",
       "label": "Chapter 2 Stage 2",
       "entries": [
         {
@@ -1154,7 +1145,6 @@
       "stage": 2
     },
     {
-      "task_id": "2003",
       "label": "Chapter 2 Stage 3",
       "entries": [
         {
@@ -1282,7 +1272,6 @@
       "stage": 3
     },
     {
-      "task_id": "2004",
       "label": "Chapter 2 Stage 4",
       "entries": [
         {
@@ -1410,7 +1399,6 @@
       "stage": 4
     },
     {
-      "task_id": "2005",
       "label": "Chapter 2 Stage 5",
       "entries": [
         {
@@ -1538,7 +1526,6 @@
       "stage": 5
     },
     {
-      "task_id": "2006",
       "label": "Chapter 2 Stage 6",
       "entries": [
         {
@@ -1666,7 +1653,6 @@
       "stage": 6
     },
     {
-      "task_id": "2007",
       "label": "Chapter 2 Stage 7",
       "entries": [
         {
@@ -1794,7 +1780,6 @@
       "stage": 7
     },
     {
-      "task_id": "3001",
       "label": "Chapter 3 Stage 1",
       "entries": [
         {
@@ -1922,7 +1907,6 @@
       "stage": 1
     },
     {
-      "task_id": "3002",
       "label": "Chapter 3 Stage 2",
       "entries": [
         {
@@ -2050,7 +2034,6 @@
       "stage": 2
     },
     {
-      "task_id": "3003",
       "label": "Chapter 3 Stage 3",
       "entries": [
         {
@@ -2178,7 +2161,6 @@
       "stage": 3
     },
     {
-      "task_id": "3004",
       "label": "Chapter 3 Stage 4",
       "entries": [
         {
@@ -2306,7 +2288,6 @@
       "stage": 4
     },
     {
-      "task_id": "3005",
       "label": "Chapter 3 Stage 5",
       "entries": [
         {
@@ -2434,7 +2415,6 @@
       "stage": 5
     },
     {
-      "task_id": "3006",
       "label": "Chapter 3 Stage 6",
       "entries": [
         {
@@ -2562,7 +2542,6 @@
       "stage": 6
     },
     {
-      "task_id": "3007",
       "label": "Chapter 3 Stage 7",
       "entries": [
         {
@@ -2690,7 +2669,6 @@
       "stage": 7
     },
     {
-      "task_id": "4001",
       "label": "Chapter 4 Stage 1",
       "entries": [
         {
@@ -2818,7 +2796,6 @@
       "stage": 1
     },
     {
-      "task_id": "4002",
       "label": "Chapter 4 Stage 2",
       "entries": [
         {
@@ -2946,7 +2923,6 @@
       "stage": 2
     },
     {
-      "task_id": "4003",
       "label": "Chapter 4 Stage 3",
       "entries": [
         {
@@ -3074,7 +3050,6 @@
       "stage": 3
     },
     {
-      "task_id": "4004",
       "label": "Chapter 4 Stage 4",
       "entries": [
         {
@@ -3202,7 +3177,6 @@
       "stage": 4
     },
     {
-      "task_id": "4005",
       "label": "Chapter 4 Stage 5",
       "entries": [
         {
@@ -3330,7 +3304,6 @@
       "stage": 5
     },
     {
-      "task_id": "4006",
       "label": "Chapter 4 Stage 6",
       "entries": [
         {
@@ -3458,7 +3431,6 @@
       "stage": 6
     },
     {
-      "task_id": "4007",
       "label": "Chapter 4 Stage 7",
       "entries": [
         {
@@ -3586,7 +3558,6 @@
       "stage": 7
     },
     {
-      "task_id": "5001",
       "label": "Chapter 5 Stage 1",
       "entries": [
         {
@@ -3714,7 +3685,6 @@
       "stage": 1
     },
     {
-      "task_id": "5002",
       "label": "Chapter 5 Stage 2",
       "entries": [
         {
@@ -3842,7 +3812,6 @@
       "stage": 2
     },
     {
-      "task_id": "5003",
       "label": "Chapter 5 Stage 3",
       "entries": [
         {
@@ -3970,7 +3939,6 @@
       "stage": 3
     },
     {
-      "task_id": "5004",
       "label": "Chapter 5 Stage 4",
       "entries": [
         {
@@ -4098,7 +4066,6 @@
       "stage": 4
     },
     {
-      "task_id": "5005",
       "label": "Chapter 5 Stage 5",
       "entries": [
         {
@@ -4226,7 +4193,6 @@
       "stage": 5
     },
     {
-      "task_id": "5006",
       "label": "Chapter 5 Stage 6",
       "entries": [
         {
@@ -4354,7 +4320,6 @@
       "stage": 6
     },
     {
-      "task_id": "5007",
       "label": "Chapter 5 Stage 7",
       "entries": [
         {
@@ -4482,7 +4447,6 @@
       "stage": 7
     },
     {
-      "task_id": "6001",
       "label": "Chapter 6 Stage 1",
       "entries": [
         {
@@ -4610,7 +4574,6 @@
       "stage": 1
     },
     {
-      "task_id": "6002",
       "label": "Chapter 6 Stage 2",
       "entries": [
         {
@@ -4738,7 +4701,6 @@
       "stage": 2
     },
     {
-      "task_id": "6003",
       "label": "Chapter 6 Stage 3",
       "entries": [
         {
@@ -4866,7 +4828,6 @@
       "stage": 3
     },
     {
-      "task_id": "6004",
       "label": "Chapter 6 Stage 4",
       "entries": [
         {
@@ -4994,7 +4955,6 @@
       "stage": 4
     },
     {
-      "task_id": "6005",
       "label": "Chapter 6 Stage 5",
       "entries": [
         {
@@ -5122,7 +5082,6 @@
       "stage": 5
     },
     {
-      "task_id": "6006",
       "label": "Chapter 6 Stage 6",
       "entries": [
         {
@@ -5250,7 +5209,6 @@
       "stage": 6
     },
     {
-      "task_id": "6007",
       "label": "Chapter 6 Stage 7",
       "entries": [
         {
@@ -5378,7 +5336,6 @@
       "stage": 7
     },
     {
-      "task_id": "7001",
       "label": "Chapter 7 Stage 1",
       "entries": [
         {
@@ -5506,7 +5463,6 @@
       "stage": 1
     },
     {
-      "task_id": "7002",
       "label": "Chapter 7 Stage 2",
       "entries": [
         {
@@ -5634,7 +5590,6 @@
       "stage": 2
     },
     {
-      "task_id": "7003",
       "label": "Chapter 7 Stage 3",
       "entries": [
         {
@@ -5762,7 +5717,6 @@
       "stage": 3
     },
     {
-      "task_id": "7004",
       "label": "Chapter 7 Stage 4",
       "entries": [
         {
@@ -5890,7 +5844,6 @@
       "stage": 4
     },
     {
-      "task_id": "7005",
       "label": "Chapter 7 Stage 5",
       "entries": [
         {
@@ -6018,7 +5971,6 @@
       "stage": 5
     },
     {
-      "task_id": "7006",
       "label": "Chapter 7 Stage 6",
       "entries": [
         {
@@ -6146,7 +6098,6 @@
       "stage": 6
     },
     {
-      "task_id": "7007",
       "label": "Chapter 7 Stage 7",
       "entries": [
         {
@@ -6274,7 +6225,6 @@
       "stage": 7
     },
     {
-      "task_id": "8001",
       "label": "Chapter 8 Stage 1",
       "entries": [
         {
@@ -6402,7 +6352,6 @@
       "stage": 1
     },
     {
-      "task_id": "8002",
       "label": "Chapter 8 Stage 2",
       "entries": [
         {
@@ -6530,7 +6479,6 @@
       "stage": 2
     },
     {
-      "task_id": "8003",
       "label": "Chapter 8 Stage 3",
       "entries": [
         {
@@ -6658,7 +6606,6 @@
       "stage": 3
     },
     {
-      "task_id": "8004",
       "label": "Chapter 8 Stage 4",
       "entries": [
         {
@@ -6786,7 +6733,6 @@
       "stage": 4
     },
     {
-      "task_id": "8005",
       "label": "Chapter 8 Stage 5",
       "entries": [
         {
@@ -6914,7 +6860,6 @@
       "stage": 5
     },
     {
-      "task_id": "8006",
       "label": "Chapter 8 Stage 6",
       "entries": [
         {
@@ -7042,7 +6987,6 @@
       "stage": 6
     },
     {
-      "task_id": "8007",
       "label": "Chapter 8 Stage 7",
       "entries": [
         {
@@ -7170,7 +7114,6 @@
       "stage": 7
     },
     {
-      "task_id": "9001",
       "label": "Chapter 9 Stage 1",
       "entries": [
         {
@@ -7298,7 +7241,6 @@
       "stage": 1
     },
     {
-      "task_id": "9002",
       "label": "Chapter 9 Stage 2",
       "entries": [
         {
@@ -7426,7 +7368,6 @@
       "stage": 2
     },
     {
-      "task_id": "9003",
       "label": "Chapter 9 Stage 3",
       "entries": [
         {
@@ -7554,7 +7495,6 @@
       "stage": 3
     },
     {
-      "task_id": "9004",
       "label": "Chapter 9 Stage 4",
       "entries": [
         {
@@ -7682,7 +7622,6 @@
       "stage": 4
     },
     {
-      "task_id": "9005",
       "label": "Chapter 9 Stage 5",
       "entries": [
         {
@@ -7810,7 +7749,6 @@
       "stage": 5
     },
     {
-      "task_id": "9006",
       "label": "Chapter 9 Stage 6",
       "entries": [
         {
@@ -7938,7 +7876,6 @@
       "stage": 6
     },
     {
-      "task_id": "9007",
       "label": "Chapter 9 Stage 7",
       "entries": [
         {
@@ -8066,7 +8003,6 @@
       "stage": 7
     },
     {
-      "task_id": "10001",
       "label": "Chapter 10 Stage 1",
       "entries": [
         {
@@ -8194,7 +8130,6 @@
       "stage": 1
     },
     {
-      "task_id": "10002",
       "label": "Chapter 10 Stage 2",
       "entries": [
         {
@@ -8322,7 +8257,6 @@
       "stage": 2
     },
     {
-      "task_id": "10003",
       "label": "Chapter 10 Stage 3",
       "entries": [
         {
@@ -8450,7 +8384,6 @@
       "stage": 3
     },
     {
-      "task_id": "10004",
       "label": "Chapter 10 Stage 4",
       "entries": [
         {
@@ -8578,7 +8511,6 @@
       "stage": 4
     },
     {
-      "task_id": "10005",
       "label": "Chapter 10 Stage 5",
       "entries": [
         {
@@ -8706,7 +8638,6 @@
       "stage": 5
     },
     {
-      "task_id": "10006",
       "label": "Chapter 10 Stage 6",
       "entries": [
         {
@@ -8834,7 +8765,6 @@
       "stage": 6
     },
     {
-      "task_id": "10007",
       "label": "Chapter 10 Stage 7",
       "entries": [
         {
@@ -8962,7 +8892,6 @@
       "stage": 7
     },
     {
-      "task_id": "11001",
       "label": "Chapter 11 Stage 1",
       "entries": [
         {
@@ -9090,7 +9019,6 @@
       "stage": 1
     },
     {
-      "task_id": "11002",
       "label": "Chapter 11 Stage 2",
       "entries": [
         {
@@ -9218,7 +9146,6 @@
       "stage": 2
     },
     {
-      "task_id": "11003",
       "label": "Chapter 11 Stage 3",
       "entries": [
         {
@@ -9346,7 +9273,6 @@
       "stage": 3
     },
     {
-      "task_id": "11004",
       "label": "Chapter 11 Stage 4",
       "entries": [
         {
@@ -9474,7 +9400,6 @@
       "stage": 4
     },
     {
-      "task_id": "11005",
       "label": "Chapter 11 Stage 5",
       "entries": [
         {
@@ -9602,7 +9527,6 @@
       "stage": 5
     },
     {
-      "task_id": "11006",
       "label": "Chapter 11 Stage 6",
       "entries": [
         {
@@ -9730,7 +9654,6 @@
       "stage": 6
     },
     {
-      "task_id": "11007",
       "label": "Chapter 11 Stage 7",
       "entries": [
         {
@@ -9858,7 +9781,6 @@
       "stage": 7
     },
     {
-      "task_id": "12001",
       "label": "Chapter 12 Stage 1",
       "entries": [
         {
@@ -9986,7 +9908,6 @@
       "stage": 1
     },
     {
-      "task_id": "12002",
       "label": "Chapter 12 Stage 2",
       "entries": [
         {
@@ -10114,7 +10035,6 @@
       "stage": 2
     },
     {
-      "task_id": "12003",
       "label": "Chapter 12 Stage 3",
       "entries": [
         {
@@ -10242,7 +10162,6 @@
       "stage": 3
     },
     {
-      "task_id": "12004",
       "label": "Chapter 12 Stage 4",
       "entries": [
         {
@@ -10370,7 +10289,6 @@
       "stage": 4
     },
     {
-      "task_id": "12005",
       "label": "Chapter 12 Stage 5",
       "entries": [
         {
@@ -10498,7 +10416,6 @@
       "stage": 5
     },
     {
-      "task_id": "12006",
       "label": "Chapter 12 Stage 6",
       "entries": [
         {
@@ -10626,7 +10543,6 @@
       "stage": 6
     },
     {
-      "task_id": "12007",
       "label": "Chapter 12 Stage 7",
       "entries": [
         {
@@ -10754,7 +10670,6 @@
       "stage": 7
     },
     {
-      "task_id": "13001",
       "label": "Chapter 13 Stage 1",
       "entries": [
         {
@@ -10882,7 +10797,6 @@
       "stage": 1
     },
     {
-      "task_id": "13002",
       "label": "Chapter 13 Stage 2",
       "entries": [
         {
@@ -11010,7 +10924,6 @@
       "stage": 2
     },
     {
-      "task_id": "13003",
       "label": "Chapter 13 Stage 3",
       "entries": [
         {
@@ -11138,7 +11051,6 @@
       "stage": 3
     },
     {
-      "task_id": "13004",
       "label": "Chapter 13 Stage 4",
       "entries": [
         {
@@ -11266,7 +11178,6 @@
       "stage": 4
     },
     {
-      "task_id": "13005",
       "label": "Chapter 13 Stage 5",
       "entries": [
         {
@@ -11394,7 +11305,6 @@
       "stage": 5
     },
     {
-      "task_id": "13006",
       "label": "Chapter 13 Stage 6",
       "entries": [
         {
@@ -11522,7 +11432,6 @@
       "stage": 6
     },
     {
-      "task_id": "13007",
       "label": "Chapter 13 Stage 7",
       "entries": [
         {
@@ -11650,7 +11559,6 @@
       "stage": 7
     },
     {
-      "task_id": "14001",
       "label": "Chapter 14 Stage 1",
       "entries": [
         {
@@ -11778,7 +11686,6 @@
       "stage": 1
     },
     {
-      "task_id": "14002",
       "label": "Chapter 14 Stage 2",
       "entries": [
         {
@@ -11906,7 +11813,6 @@
       "stage": 2
     },
     {
-      "task_id": "14003",
       "label": "Chapter 14 Stage 3",
       "entries": [
         {
@@ -12034,7 +11940,6 @@
       "stage": 3
     },
     {
-      "task_id": "14004",
       "label": "Chapter 14 Stage 4",
       "entries": [
         {
@@ -12162,7 +12067,6 @@
       "stage": 4
     },
     {
-      "task_id": "14005",
       "label": "Chapter 14 Stage 5",
       "entries": [
         {
@@ -12290,7 +12194,6 @@
       "stage": 5
     },
     {
-      "task_id": "14006",
       "label": "Chapter 14 Stage 6",
       "entries": [
         {
@@ -12418,7 +12321,6 @@
       "stage": 6
     },
     {
-      "task_id": "14007",
       "label": "Chapter 14 Stage 7",
       "entries": [
         {
@@ -12546,7 +12448,6 @@
       "stage": 7
     },
     {
-      "task_id": "15001",
       "label": "Chapter 15 Stage 1",
       "entries": [
         {
@@ -12674,7 +12575,6 @@
       "stage": 1
     },
     {
-      "task_id": "15002",
       "label": "Chapter 15 Stage 2",
       "entries": [
         {
@@ -12802,7 +12702,6 @@
       "stage": 2
     },
     {
-      "task_id": "15003",
       "label": "Chapter 15 Stage 3",
       "entries": [
         {
@@ -12930,7 +12829,6 @@
       "stage": 3
     },
     {
-      "task_id": "15004",
       "label": "Chapter 15 Stage 4",
       "entries": [
         {
@@ -13058,7 +12956,6 @@
       "stage": 4
     },
     {
-      "task_id": "15005",
       "label": "Chapter 15 Stage 5",
       "entries": [
         {
@@ -13186,7 +13083,6 @@
       "stage": 5
     },
     {
-      "task_id": "15006",
       "label": "Chapter 15 Stage 6",
       "entries": [
         {
@@ -13314,7 +13210,6 @@
       "stage": 6
     },
     {
-      "task_id": "15007",
       "label": "Chapter 15 Stage 7",
       "entries": [
         {
@@ -13442,7 +13337,6 @@
       "stage": 7
     },
     {
-      "task_id": "16001",
       "label": "Chapter 16 Stage 1",
       "entries": [
         {
@@ -13570,7 +13464,6 @@
       "stage": 1
     },
     {
-      "task_id": "16002",
       "label": "Chapter 16 Stage 2",
       "entries": [
         {
@@ -13698,7 +13591,6 @@
       "stage": 2
     },
     {
-      "task_id": "16003",
       "label": "Chapter 16 Stage 3",
       "entries": [
         {
@@ -13826,7 +13718,6 @@
       "stage": 3
     },
     {
-      "task_id": "16004",
       "label": "Chapter 16 Stage 4",
       "entries": [
         {
@@ -13954,7 +13845,6 @@
       "stage": 4
     },
     {
-      "task_id": "16005",
       "label": "Chapter 16 Stage 5",
       "entries": [
         {
@@ -14082,7 +13972,6 @@
       "stage": 5
     },
     {
-      "task_id": "16006",
       "label": "Chapter 16 Stage 6",
       "entries": [
         {
@@ -14210,7 +14099,6 @@
       "stage": 6
     },
     {
-      "task_id": "16007",
       "label": "Chapter 16 Stage 7",
       "entries": [
         {
@@ -14338,7 +14226,6 @@
       "stage": 7
     },
     {
-      "task_id": "17001",
       "label": "Chapter 17 Stage 1",
       "entries": [
         {
@@ -14466,7 +14353,6 @@
       "stage": 1
     },
     {
-      "task_id": "17002",
       "label": "Chapter 17 Stage 2",
       "entries": [
         {
@@ -14594,7 +14480,6 @@
       "stage": 2
     },
     {
-      "task_id": "17003",
       "label": "Chapter 17 Stage 3",
       "entries": [
         {
@@ -14722,7 +14607,6 @@
       "stage": 3
     },
     {
-      "task_id": "17004",
       "label": "Chapter 17 Stage 4",
       "entries": [
         {
@@ -14850,7 +14734,6 @@
       "stage": 4
     },
     {
-      "task_id": "17005",
       "label": "Chapter 17 Stage 5",
       "entries": [
         {
@@ -14978,7 +14861,6 @@
       "stage": 5
     },
     {
-      "task_id": "17006",
       "label": "Chapter 17 Stage 6",
       "entries": [
         {
@@ -15106,7 +14988,6 @@
       "stage": 6
     },
     {
-      "task_id": "17007",
       "label": "Chapter 17 Stage 7",
       "entries": [
         {
@@ -15234,7 +15115,6 @@
       "stage": 7
     },
     {
-      "task_id": "18001",
       "label": "Chapter 18 Stage 1",
       "entries": [
         {
@@ -15362,7 +15242,6 @@
       "stage": 1
     },
     {
-      "task_id": "18002",
       "label": "Chapter 18 Stage 2",
       "entries": [
         {
@@ -15490,7 +15369,6 @@
       "stage": 2
     },
     {
-      "task_id": "18003",
       "label": "Chapter 18 Stage 3",
       "entries": [
         {
@@ -15618,7 +15496,6 @@
       "stage": 3
     },
     {
-      "task_id": "18004",
       "label": "Chapter 18 Stage 4",
       "entries": [
         {
@@ -15746,7 +15623,6 @@
       "stage": 4
     },
     {
-      "task_id": "18005",
       "label": "Chapter 18 Stage 5",
       "entries": [
         {
@@ -15874,7 +15750,6 @@
       "stage": 5
     },
     {
-      "task_id": "18006",
       "label": "Chapter 18 Stage 6",
       "entries": [
         {
@@ -16002,7 +15877,6 @@
       "stage": 6
     },
     {
-      "task_id": "18007",
       "label": "Chapter 18 Stage 7",
       "entries": [
         {
@@ -16130,7 +16004,6 @@
       "stage": 7
     },
     {
-      "task_id": "19001",
       "label": "Chapter 19 Stage 1",
       "entries": [
         {
@@ -16258,7 +16131,6 @@
       "stage": 1
     },
     {
-      "task_id": "19002",
       "label": "Chapter 19 Stage 2",
       "entries": [
         {
@@ -16386,7 +16258,6 @@
       "stage": 2
     },
     {
-      "task_id": "19003",
       "label": "Chapter 19 Stage 3",
       "entries": [
         {
@@ -16514,7 +16385,6 @@
       "stage": 3
     },
     {
-      "task_id": "19004",
       "label": "Chapter 19 Stage 4",
       "entries": [
         {
@@ -16642,7 +16512,6 @@
       "stage": 4
     },
     {
-      "task_id": "19005",
       "label": "Chapter 19 Stage 5",
       "entries": [
         {
@@ -16770,7 +16639,6 @@
       "stage": 5
     },
     {
-      "task_id": "19006",
       "label": "Chapter 19 Stage 6",
       "entries": [
         {
@@ -16898,7 +16766,6 @@
       "stage": 6
     },
     {
-      "task_id": "19007",
       "label": "Chapter 19 Stage 7",
       "entries": [
         {
@@ -17026,7 +16893,6 @@
       "stage": 7
     },
     {
-      "task_id": "20001",
       "label": "Chapter 20 Stage 1",
       "entries": [
         {
@@ -17154,7 +17020,6 @@
       "stage": 1
     },
     {
-      "task_id": "20002",
       "label": "Chapter 20 Stage 2",
       "entries": [
         {
@@ -17282,7 +17147,6 @@
       "stage": 2
     },
     {
-      "task_id": "20003",
       "label": "Chapter 20 Stage 3",
       "entries": [
         {
@@ -17410,7 +17274,6 @@
       "stage": 3
     },
     {
-      "task_id": "20004",
       "label": "Chapter 20 Stage 4",
       "entries": [
         {
@@ -17538,7 +17401,6 @@
       "stage": 4
     },
     {
-      "task_id": "20005",
       "label": "Chapter 20 Stage 5",
       "entries": [
         {
@@ -17666,7 +17528,6 @@
       "stage": 5
     },
     {
-      "task_id": "20006",
       "label": "Chapter 20 Stage 6",
       "entries": [
         {
@@ -17794,7 +17655,6 @@
       "stage": 6
     },
     {
-      "task_id": "20007",
       "label": "Chapter 20 Stage 7",
       "entries": [
         {

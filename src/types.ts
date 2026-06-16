@@ -23,7 +23,6 @@ export interface StageEntry {
 }
 
 export interface StoryStageData {
-  task_id: string;
   label: string;
   volume: number;
   chapter: number;
@@ -34,7 +33,6 @@ export interface StoryStageData {
 }
 
 export interface CommissionStageData {
-  task_id: string;
   label: string;
   chapter: number;
   stage: number;

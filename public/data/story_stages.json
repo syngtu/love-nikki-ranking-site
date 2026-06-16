@@ -2,7 +2,6 @@
   "mode": "story",
   "stages": [
     {
-      "task_id": "0010011",
       "label": "Volume I 1-1 Maiden",
       "entries": [
         {
@@ -113,7 +112,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0010012",
       "label": "Volume I 1-1 Princess",
       "entries": [
         {
@@ -224,7 +222,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0010021",
       "label": "Volume I 1-2 Maiden",
       "entries": [
         {
@@ -335,7 +332,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0010022",
       "label": "Volume I 1-2 Princess",
       "entries": [
         {
@@ -446,7 +442,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0010031",
       "label": "Volume I 1-3 Maiden",
       "entries": [
         {
@@ -557,7 +552,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0010032",
       "label": "Volume I 1-3 Princess",
       "entries": [
         {
@@ -668,7 +662,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0010041",
       "label": "Volume I 1-4 Maiden",
       "entries": [
         {
@@ -779,7 +772,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0010042",
       "label": "Volume I 1-4 Princess",
       "entries": [
         {
@@ -890,7 +882,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0010051",
       "label": "Volume I 1-5 Maiden",
       "entries": [
         {
@@ -1001,7 +992,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0010052",
       "label": "Volume I 1-5 Princess",
       "entries": [
         {
@@ -1112,7 +1102,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0010061",
       "label": "Volume I 1-6 Maiden",
       "entries": [
         {
@@ -1223,7 +1212,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0010062",
       "label": "Volume I 1-6 Princess",
       "entries": [
         {
@@ -1334,7 +1322,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0010071",
       "label": "Volume I 1-7 Maiden",
       "entries": [
         {
@@ -1445,7 +1432,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0010072",
       "label": "Volume I 1-7 Princess",
       "entries": [
         {
@@ -1556,7 +1542,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0010081",
       "label": "Volume I 1-8 Maiden",
       "entries": [
         {
@@ -1667,7 +1652,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0010082",
       "label": "Volume I 1-8 Princess",
       "entries": [
         {
@@ -1778,7 +1762,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0010091",
       "label": "Volume I 1-9 Maiden",
       "entries": [
         {
@@ -1889,7 +1872,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0010092",
       "label": "Volume I 1-9 Princess",
       "entries": [
         {
@@ -2000,7 +1982,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0020011",
       "label": "Volume I 2-1 Maiden",
       "entries": [
         {
@@ -2111,7 +2092,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0020012",
       "label": "Volume I 2-1 Princess",
       "entries": [
         {
@@ -2222,7 +2202,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0020021",
       "label": "Volume I 2-2 Maiden",
       "entries": [
         {
@@ -2333,7 +2312,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0020022",
       "label": "Volume I 2-2 Princess",
       "entries": [
         {
@@ -2444,7 +2422,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0020031",
       "label": "Volume I 2-3 Maiden",
       "entries": [
         {
@@ -2555,7 +2532,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0020032",
       "label": "Volume I 2-3 Princess",
       "entries": [
         {
@@ -2666,7 +2642,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0020041",
       "label": "Volume I 2-4 Maiden",
       "entries": [
         {
@@ -2777,7 +2752,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0020042",
       "label": "Volume I 2-4 Princess",
       "entries": [
         {
@@ -2888,7 +2862,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0020051",
       "label": "Volume I 2-5 Maiden",
       "entries": [
         {
@@ -2999,7 +2972,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0020052",
       "label": "Volume I 2-5 Princess",
       "entries": [
         {
@@ -3110,7 +3082,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0020061",
       "label": "Volume I 2-6 Maiden",
       "entries": [
         {
@@ -3221,7 +3192,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0020062",
       "label": "Volume I 2-6 Princess",
       "entries": [
         {
@@ -3332,7 +3302,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0020071",
       "label": "Volume I 2-7 Maiden",
       "entries": [
         {
@@ -3443,7 +3412,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0020072",
       "label": "Volume I 2-7 Princess",
       "entries": [
         {
@@ -3554,7 +3522,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0020081",
       "label": "Volume I 2-8 Maiden",
       "entries": [
         {
@@ -3665,7 +3632,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0020082",
       "label": "Volume I 2-8 Princess",
       "entries": [
         {
@@ -3776,7 +3742,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0020091",
       "label": "Volume I 2-9 Maiden",
       "entries": [
         {
@@ -3887,7 +3852,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0020092",
       "label": "Volume I 2-9 Princess",
       "entries": [
         {
@@ -3998,7 +3962,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0026011",
       "label": "Volume I 2-S1 Maiden",
       "entries": [
         {
@@ -4109,7 +4072,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0026012",
       "label": "Volume I 2-S1 Princess",
       "entries": [
         {
@@ -4220,7 +4182,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0026021",
       "label": "Volume I 2-S2 Maiden",
       "entries": [
         {
@@ -4331,7 +4292,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0026022",
       "label": "Volume I 2-S2 Princess",
       "entries": [
         {
@@ -4442,7 +4402,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0030011",
       "label": "Volume I 3-1 Maiden",
       "entries": [
         {
@@ -4553,7 +4512,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0030012",
       "label": "Volume I 3-1 Princess",
       "entries": [
         {
@@ -4664,7 +4622,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0030021",
       "label": "Volume I 3-2 Maiden",
       "entries": [
         {
@@ -4775,7 +4732,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0030022",
       "label": "Volume I 3-2 Princess",
       "entries": [
         {
@@ -4886,7 +4842,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0030031",
       "label": "Volume I 3-3 Maiden",
       "entries": [
         {
@@ -4997,7 +4952,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0030032",
       "label": "Volume I 3-3 Princess",
       "entries": [
         {
@@ -5108,7 +5062,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0030041",
       "label": "Volume I 3-4 Maiden",
       "entries": [
         {
@@ -5219,7 +5172,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0030042",
       "label": "Volume I 3-4 Princess",
       "entries": [
         {
@@ -5330,7 +5282,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0030051",
       "label": "Volume I 3-5 Maiden",
       "entries": [
         {
@@ -5441,7 +5392,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0030052",
       "label": "Volume I 3-5 Princess",
       "entries": [
         {
@@ -5552,7 +5502,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0030061",
       "label": "Volume I 3-6 Maiden",
       "entries": [
         {
@@ -5663,7 +5612,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0030062",
       "label": "Volume I 3-6 Princess",
       "entries": [
         {
@@ -5774,7 +5722,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0030071",
       "label": "Volume I 3-7 Maiden",
       "entries": [
         {
@@ -5885,7 +5832,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0030072",
       "label": "Volume I 3-7 Princess",
       "entries": [
         {
@@ -5996,7 +5942,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0030081",
       "label": "Volume I 3-8 Maiden",
       "entries": [
         {
@@ -6107,7 +6052,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0030082",
       "label": "Volume I 3-8 Princess",
       "entries": [
         {
@@ -6218,7 +6162,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0030091",
       "label": "Volume I 3-9 Maiden",
       "entries": [
         {
@@ -6329,7 +6272,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0030092",
       "label": "Volume I 3-9 Princess",
       "entries": [
         {
@@ -6440,7 +6382,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0030101",
       "label": "Volume I 3-10 Maiden",
       "entries": [
         {
@@ -6551,7 +6492,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0030102",
       "label": "Volume I 3-10 Princess",
       "entries": [
         {
@@ -6662,7 +6602,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0030111",
       "label": "Volume I 3-11 Maiden",
       "entries": [
         {
@@ -6773,7 +6712,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0030112",
       "label": "Volume I 3-11 Princess",
       "entries": [
         {
@@ -6884,7 +6822,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0030121",
       "label": "Volume I 3-12 Maiden",
       "entries": [
         {
@@ -6995,7 +6932,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0030122",
       "label": "Volume I 3-12 Princess",
       "entries": [
         {
@@ -7106,7 +7042,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0036011",
       "label": "Volume I 3-S1 Maiden",
       "entries": [
         {
@@ -7217,7 +7152,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0036012",
       "label": "Volume I 3-S1 Princess",
       "entries": [
         {
@@ -7328,7 +7262,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0036021",
       "label": "Volume I 3-S2 Maiden",
       "entries": [
         {
@@ -7439,7 +7372,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0036022",
       "label": "Volume I 3-S2 Princess",
       "entries": [
         {
@@ -7550,7 +7482,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0040011",
       "label": "Volume I 4-1 Maiden",
       "entries": [
         {
@@ -7661,7 +7592,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0040012",
       "label": "Volume I 4-1 Princess",
       "entries": [
         {
@@ -7772,7 +7702,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0040021",
       "label": "Volume I 4-2 Maiden",
       "entries": [
         {
@@ -7883,7 +7812,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0040022",
       "label": "Volume I 4-2 Princess",
       "entries": [
         {
@@ -7994,7 +7922,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0040031",
       "label": "Volume I 4-3 Maiden",
       "entries": [
         {
@@ -8105,7 +8032,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0040032",
       "label": "Volume I 4-3 Princess",
       "entries": [
         {
@@ -8216,7 +8142,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0040041",
       "label": "Volume I 4-4 Maiden",
       "entries": [
         {
@@ -8327,7 +8252,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0040042",
       "label": "Volume I 4-4 Princess",
       "entries": [
         {
@@ -8438,7 +8362,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0040051",
       "label": "Volume I 4-5 Maiden",
       "entries": [
         {
@@ -8549,7 +8472,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0040052",
       "label": "Volume I 4-5 Princess",
       "entries": [
         {
@@ -8660,7 +8582,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0040061",
       "label": "Volume I 4-6 Maiden",
       "entries": [
         {
@@ -8771,7 +8692,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0040062",
       "label": "Volume I 4-6 Princess",
       "entries": [
         {
@@ -8882,7 +8802,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0040071",
       "label": "Volume I 4-7 Maiden",
       "entries": [
         {
@@ -8993,7 +8912,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0040072",
       "label": "Volume I 4-7 Princess",
       "entries": [
         {
@@ -9104,7 +9022,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0040081",
       "label": "Volume I 4-8 Maiden",
       "entries": [
         {
@@ -9215,7 +9132,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0040082",
       "label": "Volume I 4-8 Princess",
       "entries": [
         {
@@ -9326,7 +9242,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0040091",
       "label": "Volume I 4-9 Maiden",
       "entries": [
         {
@@ -9437,7 +9352,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0040092",
       "label": "Volume I 4-9 Princess",
       "entries": [
         {
@@ -9548,7 +9462,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0040101",
       "label": "Volume I 4-10 Maiden",
       "entries": [
         {
@@ -9659,7 +9572,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0040102",
       "label": "Volume I 4-10 Princess",
       "entries": [
         {
@@ -9770,7 +9682,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0040111",
       "label": "Volume I 4-11 Maiden",
       "entries": [
         {
@@ -9881,7 +9792,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0040112",
       "label": "Volume I 4-11 Princess",
       "entries": [
         {
@@ -9992,7 +9902,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0040121",
       "label": "Volume I 4-12 Maiden",
       "entries": [
         {
@@ -10103,7 +10012,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0040122",
       "label": "Volume I 4-12 Princess",
       "entries": [
         {
@@ -10214,7 +10122,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0046011",
       "label": "Volume I 4-S1 Maiden",
       "entries": [
         {
@@ -10325,7 +10232,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0046012",
       "label": "Volume I 4-S1 Princess",
       "entries": [
         {
@@ -10436,7 +10342,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0046021",
       "label": "Volume I 4-S2 Maiden",
       "entries": [
         {
@@ -10547,7 +10452,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0046022",
       "label": "Volume I 4-S2 Princess",
       "entries": [
         {
@@ -10658,7 +10562,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0046031",
       "label": "Volume I 4-S3 Maiden",
       "entries": [
         {
@@ -10769,7 +10672,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0046032",
       "label": "Volume I 4-S3 Princess",
       "entries": [
         {
@@ -10880,7 +10782,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0050011",
       "label": "Volume I 5-1 Maiden",
       "entries": [
         {
@@ -10991,7 +10892,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0050012",
       "label": "Volume I 5-1 Princess",
       "entries": [
         {
@@ -11102,7 +11002,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0050021",
       "label": "Volume I 5-2 Maiden",
       "entries": [
         {
@@ -11213,7 +11112,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0050022",
       "label": "Volume I 5-2 Princess",
       "entries": [
         {
@@ -11324,7 +11222,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0050031",
       "label": "Volume I 5-3 Maiden",
       "entries": [
         {
@@ -11435,7 +11332,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0050032",
       "label": "Volume I 5-3 Princess",
       "entries": [
         {
@@ -11546,7 +11442,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0050041",
       "label": "Volume I 5-4 Maiden",
       "entries": [
         {
@@ -11657,7 +11552,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0050042",
       "label": "Volume I 5-4 Princess",
       "entries": [
         {
@@ -11768,7 +11662,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0050051",
       "label": "Volume I 5-5 Maiden",
       "entries": [
         {
@@ -11879,7 +11772,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0050052",
       "label": "Volume I 5-5 Princess",
       "entries": [
         {
@@ -11990,7 +11882,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0050061",
       "label": "Volume I 5-6 Maiden",
       "entries": [
         {
@@ -12101,7 +11992,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0050062",
       "label": "Volume I 5-6 Princess",
       "entries": [
         {
@@ -12212,7 +12102,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0050071",
       "label": "Volume I 5-7 Maiden",
       "entries": [
         {
@@ -12323,7 +12212,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0050072",
       "label": "Volume I 5-7 Princess",
       "entries": [
         {
@@ -12434,7 +12322,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0050081",
       "label": "Volume I 5-8 Maiden",
       "entries": [
         {
@@ -12545,7 +12432,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0050082",
       "label": "Volume I 5-8 Princess",
       "entries": [
         {
@@ -12656,7 +12542,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0050091",
       "label": "Volume I 5-9 Maiden",
       "entries": [
         {
@@ -12767,7 +12652,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0050092",
       "label": "Volume I 5-9 Princess",
       "entries": [
         {
@@ -12878,7 +12762,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0050101",
       "label": "Volume I 5-10 Maiden",
       "entries": [
         {
@@ -12989,7 +12872,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0050102",
       "label": "Volume I 5-10 Princess",
       "entries": [
         {
@@ -13100,7 +12982,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0050111",
       "label": "Volume I 5-11 Maiden",
       "entries": [
         {
@@ -13211,7 +13092,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0050112",
       "label": "Volume I 5-11 Princess",
       "entries": [
         {
@@ -13322,7 +13202,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0050121",
       "label": "Volume I 5-12 Maiden",
       "entries": [
         {
@@ -13433,7 +13312,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0050122",
       "label": "Volume I 5-12 Princess",
       "entries": [
         {
@@ -13544,7 +13422,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0056011",
       "label": "Volume I 5-S1 Maiden",
       "entries": [
         {
@@ -13655,7 +13532,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0056012",
       "label": "Volume I 5-S1 Princess",
       "entries": [
         {
@@ -13766,7 +13642,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0056021",
       "label": "Volume I 5-S2 Maiden",
       "entries": [
         {
@@ -13877,7 +13752,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0056022",
       "label": "Volume I 5-S2 Princess",
       "entries": [
         {
@@ -13988,7 +13862,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0056031",
       "label": "Volume I 5-S3 Maiden",
       "entries": [
         {
@@ -14099,7 +13972,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0056032",
       "label": "Volume I 5-S3 Princess",
       "entries": [
         {
@@ -14210,7 +14082,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0060011",
       "label": "Volume I 6-1 Maiden",
       "entries": [
         {
@@ -14321,7 +14192,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0060012",
       "label": "Volume I 6-1 Princess",
       "entries": [
         {
@@ -14432,7 +14302,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0060021",
       "label": "Volume I 6-2 Maiden",
       "entries": [
         {
@@ -14543,7 +14412,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0060022",
       "label": "Volume I 6-2 Princess",
       "entries": [
         {
@@ -14654,7 +14522,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0060031",
       "label": "Volume I 6-3 Maiden",
       "entries": [
         {
@@ -14765,7 +14632,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0060032",
       "label": "Volume I 6-3 Princess",
       "entries": [
         {
@@ -14876,7 +14742,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0060041",
       "label": "Volume I 6-4 Maiden",
       "entries": [
         {
@@ -14987,7 +14852,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0060042",
       "label": "Volume I 6-4 Princess",
       "entries": [
         {
@@ -15098,7 +14962,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0060051",
       "label": "Volume I 6-5 Maiden",
       "entries": [
         {
@@ -15209,7 +15072,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0060052",
       "label": "Volume I 6-5 Princess",
       "entries": [
         {
@@ -15320,7 +15182,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0060061",
       "label": "Volume I 6-6 Maiden",
       "entries": [
         {
@@ -15431,7 +15292,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0060062",
       "label": "Volume I 6-6 Princess",
       "entries": [
         {
@@ -15542,7 +15402,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0060071",
       "label": "Volume I 6-7 Maiden",
       "entries": [
         {
@@ -15653,7 +15512,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0060072",
       "label": "Volume I 6-7 Princess",
       "entries": [
         {
@@ -15764,7 +15622,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0060081",
       "label": "Volume I 6-8 Maiden",
       "entries": [
         {
@@ -15875,7 +15732,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0060082",
       "label": "Volume I 6-8 Princess",
       "entries": [
         {
@@ -15986,7 +15842,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0060091",
       "label": "Volume I 6-9 Maiden",
       "entries": [
         {
@@ -16097,7 +15952,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0060092",
       "label": "Volume I 6-9 Princess",
       "entries": [
         {
@@ -16208,7 +16062,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0060101",
       "label": "Volume I 6-10 Maiden",
       "entries": [
         {
@@ -16319,7 +16172,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0060102",
       "label": "Volume I 6-10 Princess",
       "entries": [
         {
@@ -16430,7 +16282,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0060111",
       "label": "Volume I 6-11 Maiden",
       "entries": [
         {
@@ -16541,7 +16392,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0060112",
       "label": "Volume I 6-11 Princess",
       "entries": [
         {
@@ -16652,7 +16502,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0066011",
       "label": "Volume I 6-S1 Maiden",
       "entries": [
         {
@@ -16763,7 +16612,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0066012",
       "label": "Volume I 6-S1 Princess",
       "entries": [
         {
@@ -16874,7 +16722,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0066021",
       "label": "Volume I 6-S2 Maiden",
       "entries": [
         {
@@ -16985,7 +16832,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0066022",
       "label": "Volume I 6-S2 Princess",
       "entries": [
         {
@@ -17096,7 +16942,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0066031",
       "label": "Volume I 6-S3 Maiden",
       "entries": [
         {
@@ -17207,7 +17052,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0066032",
       "label": "Volume I 6-S3 Princess",
       "entries": [
         {
@@ -17318,7 +17162,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0070011",
       "label": "Volume I 7-1 Maiden",
       "entries": [
         {
@@ -17429,7 +17272,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0070012",
       "label": "Volume I 7-1 Princess",
       "entries": [
         {
@@ -17540,7 +17382,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0070021",
       "label": "Volume I 7-2 Maiden",
       "entries": [
         {
@@ -17651,7 +17492,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0070022",
       "label": "Volume I 7-2 Princess",
       "entries": [
         {
@@ -17762,7 +17602,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0070031",
       "label": "Volume I 7-3 Maiden",
       "entries": [
         {
@@ -17873,7 +17712,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0070032",
       "label": "Volume I 7-3 Princess",
       "entries": [
         {
@@ -17984,7 +17822,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0070041",
       "label": "Volume I 7-4 Maiden",
       "entries": [
         {
@@ -18095,7 +17932,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0070042",
       "label": "Volume I 7-4 Princess",
       "entries": [
         {
@@ -18206,7 +18042,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0070051",
       "label": "Volume I 7-5 Maiden",
       "entries": [
         {
@@ -18317,7 +18152,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0070052",
       "label": "Volume I 7-5 Princess",
       "entries": [
         {
@@ -18428,7 +18262,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0070061",
       "label": "Volume I 7-6 Maiden",
       "entries": [
         {
@@ -18539,7 +18372,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0070062",
       "label": "Volume I 7-6 Princess",
       "entries": [
         {
@@ -18650,7 +18482,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0070071",
       "label": "Volume I 7-7 Maiden",
       "entries": [
         {
@@ -18761,7 +18592,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0070072",
       "label": "Volume I 7-7 Princess",
       "entries": [
         {
@@ -18872,7 +18702,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0070081",
       "label": "Volume I 7-8 Maiden",
       "entries": [
         {
@@ -18983,7 +18812,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0070082",
       "label": "Volume I 7-8 Princess",
       "entries": [
         {
@@ -19094,7 +18922,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0070091",
       "label": "Volume I 7-9 Maiden",
       "entries": [
         {
@@ -19205,7 +19032,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0070092",
       "label": "Volume I 7-9 Princess",
       "entries": [
         {
@@ -19316,7 +19142,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0076011",
       "label": "Volume I 7-S1 Maiden",
       "entries": [
         {
@@ -19427,7 +19252,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0076012",
       "label": "Volume I 7-S1 Princess",
       "entries": [
         {
@@ -19538,7 +19362,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0076021",
       "label": "Volume I 7-S2 Maiden",
       "entries": [
         {
@@ -19649,7 +19472,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0076022",
       "label": "Volume I 7-S2 Princess",
       "entries": [
         {
@@ -19760,7 +19582,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0076031",
       "label": "Volume I 7-S3 Maiden",
       "entries": [
         {
@@ -19871,7 +19692,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0076032",
       "label": "Volume I 7-S3 Princess",
       "entries": [
         {
@@ -19982,7 +19802,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0076041",
       "label": "Volume I 7-S4 Maiden",
       "entries": [
         {
@@ -20093,7 +19912,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0076042",
       "label": "Volume I 7-S4 Princess",
       "entries": [
         {
@@ -20204,7 +20022,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0076051",
       "label": "Volume I 7-S5 Maiden",
       "entries": [
         {
@@ -20315,7 +20132,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0076052",
       "label": "Volume I 7-S5 Princess",
       "entries": [
         {
@@ -20426,7 +20242,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0080011",
       "label": "Volume I 8-1 Maiden",
       "entries": [
         {
@@ -20537,7 +20352,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0080012",
       "label": "Volume I 8-1 Princess",
       "entries": [
         {
@@ -20648,7 +20462,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0080021",
       "label": "Volume I 8-2 Maiden",
       "entries": [
         {
@@ -20759,7 +20572,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0080022",
       "label": "Volume I 8-2 Princess",
       "entries": [
         {
@@ -20870,7 +20682,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0080031",
       "label": "Volume I 8-3 Maiden",
       "entries": [
         {
@@ -20981,7 +20792,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0080032",
       "label": "Volume I 8-3 Princess",
       "entries": [
         {
@@ -21092,7 +20902,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0080041",
       "label": "Volume I 8-4 Maiden",
       "entries": [
         {
@@ -21203,7 +21012,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0080042",
       "label": "Volume I 8-4 Princess",
       "entries": [
         {
@@ -21314,7 +21122,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0080051",
       "label": "Volume I 8-5 Maiden",
       "entries": [
         {
@@ -21425,7 +21232,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0080052",
       "label": "Volume I 8-5 Princess",
       "entries": [
         {
@@ -21536,7 +21342,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0080061",
       "label": "Volume I 8-6 Maiden",
       "entries": [
         {
@@ -21647,7 +21452,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0080062",
       "label": "Volume I 8-6 Princess",
       "entries": [
         {
@@ -21758,7 +21562,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0080071",
       "label": "Volume I 8-7 Maiden",
       "entries": [
         {
@@ -21869,7 +21672,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0080072",
       "label": "Volume I 8-7 Princess",
       "entries": [
         {
@@ -21980,7 +21782,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0080081",
       "label": "Volume I 8-8 Maiden",
       "entries": [
         {
@@ -22091,7 +21892,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0080082",
       "label": "Volume I 8-8 Princess",
       "entries": [
         {
@@ -22202,7 +22002,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0080091",
       "label": "Volume I 8-9 Maiden",
       "entries": [
         {
@@ -22313,7 +22112,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0080092",
       "label": "Volume I 8-9 Princess",
       "entries": [
         {
@@ -22424,7 +22222,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0086011",
       "label": "Volume I 8-S1 Maiden",
       "entries": [
         {
@@ -22535,7 +22332,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0086012",
       "label": "Volume I 8-S1 Princess",
       "entries": [
         {
@@ -22646,7 +22442,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0086021",
       "label": "Volume I 8-S2 Maiden",
       "entries": [
         {
@@ -22757,7 +22552,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0086022",
       "label": "Volume I 8-S2 Princess",
       "entries": [
         {
@@ -22868,7 +22662,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0086031",
       "label": "Volume I 8-S3 Maiden",
       "entries": [
         {
@@ -22979,7 +22772,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0086032",
       "label": "Volume I 8-S3 Princess",
       "entries": [
         {
@@ -23090,7 +22882,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0090011",
       "label": "Volume I 9-1 Maiden",
       "entries": [
         {
@@ -23201,7 +22992,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0090012",
       "label": "Volume I 9-1 Princess",
       "entries": [
         {
@@ -23312,7 +23102,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0090021",
       "label": "Volume I 9-2 Maiden",
       "entries": [
         {
@@ -23423,7 +23212,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0090022",
       "label": "Volume I 9-2 Princess",
       "entries": [
         {
@@ -23534,7 +23322,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0090031",
       "label": "Volume I 9-3 Maiden",
       "entries": [
         {
@@ -23645,7 +23432,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0090032",
       "label": "Volume I 9-3 Princess",
       "entries": [
         {
@@ -23756,7 +23542,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0090041",
       "label": "Volume I 9-4 Maiden",
       "entries": [
         {
@@ -23867,7 +23652,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0090042",
       "label": "Volume I 9-4 Princess",
       "entries": [
         {
@@ -23978,7 +23762,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0090051",
       "label": "Volume I 9-5 Maiden",
       "entries": [
         {
@@ -24089,7 +23872,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0090052",
       "label": "Volume I 9-5 Princess",
       "entries": [
         {
@@ -24200,7 +23982,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0090061",
       "label": "Volume I 9-6 Maiden",
       "entries": [
         {
@@ -24311,7 +24092,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0090062",
       "label": "Volume I 9-6 Princess",
       "entries": [
         {
@@ -24422,7 +24202,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0090071",
       "label": "Volume I 9-7 Maiden",
       "entries": [
         {
@@ -24533,7 +24312,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0090072",
       "label": "Volume I 9-7 Princess",
       "entries": [
         {
@@ -24644,7 +24422,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0090081",
       "label": "Volume I 9-8 Maiden",
       "entries": [
         {
@@ -24755,7 +24532,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0090082",
       "label": "Volume I 9-8 Princess",
       "entries": [
         {
@@ -24866,7 +24642,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0090091",
       "label": "Volume I 9-9 Maiden",
       "entries": [
         {
@@ -24977,7 +24752,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0090092",
       "label": "Volume I 9-9 Princess",
       "entries": [
         {
@@ -25088,7 +24862,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0096011",
       "label": "Volume I 9-S1 Maiden",
       "entries": [
         {
@@ -25199,7 +24972,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0096012",
       "label": "Volume I 9-S1 Princess",
       "entries": [
         {
@@ -25310,7 +25082,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0096021",
       "label": "Volume I 9-S2 Maiden",
       "entries": [
         {
@@ -25421,7 +25192,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0096022",
       "label": "Volume I 9-S2 Princess",
       "entries": [
         {
@@ -25532,7 +25302,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0096031",
       "label": "Volume I 9-S3 Maiden",
       "entries": [
         {
@@ -25643,7 +25412,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0096032",
       "label": "Volume I 9-S3 Princess",
       "entries": [
         {
@@ -25754,7 +25522,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0100011",
       "label": "Volume I 10-1 Maiden",
       "entries": [
         {
@@ -25865,7 +25632,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0100012",
       "label": "Volume I 10-1 Princess",
       "entries": [
         {
@@ -25976,7 +25742,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0100021",
       "label": "Volume I 10-2 Maiden",
       "entries": [
         {
@@ -26087,7 +25852,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0100022",
       "label": "Volume I 10-2 Princess",
       "entries": [
         {
@@ -26198,7 +25962,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0100031",
       "label": "Volume I 10-3 Maiden",
       "entries": [
         {
@@ -26309,7 +26072,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0100032",
       "label": "Volume I 10-3 Princess",
       "entries": [
         {
@@ -26420,7 +26182,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0100041",
       "label": "Volume I 10-4 Maiden",
       "entries": [
         {
@@ -26531,7 +26292,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0100042",
       "label": "Volume I 10-4 Princess",
       "entries": [
         {
@@ -26642,7 +26402,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0100051",
       "label": "Volume I 10-5 Maiden",
       "entries": [
         {
@@ -26753,7 +26512,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0100052",
       "label": "Volume I 10-5 Princess",
       "entries": [
         {
@@ -26864,7 +26622,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0100061",
       "label": "Volume I 10-6 Maiden",
       "entries": [
         {
@@ -26975,7 +26732,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0100062",
       "label": "Volume I 10-6 Princess",
       "entries": [
         {
@@ -27086,7 +26842,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0100071",
       "label": "Volume I 10-7 Maiden",
       "entries": [
         {
@@ -27197,7 +26952,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0100072",
       "label": "Volume I 10-7 Princess",
       "entries": [
         {
@@ -27308,7 +27062,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0100081",
       "label": "Volume I 10-8 Maiden",
       "entries": [
         {
@@ -27419,7 +27172,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0100082",
       "label": "Volume I 10-8 Princess",
       "entries": [
         {
@@ -27530,7 +27282,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0100091",
       "label": "Volume I 10-9 Maiden",
       "entries": [
         {
@@ -27641,7 +27392,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0100092",
       "label": "Volume I 10-9 Princess",
       "entries": [
         {
@@ -27752,7 +27502,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0106011",
       "label": "Volume I 10-S1 Maiden",
       "entries": [
         {
@@ -27863,7 +27612,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0106012",
       "label": "Volume I 10-S1 Princess",
       "entries": [
         {
@@ -27974,7 +27722,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0106021",
       "label": "Volume I 10-S2 Maiden",
       "entries": [
         {
@@ -28085,7 +27832,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0106022",
       "label": "Volume I 10-S2 Princess",
       "entries": [
         {
@@ -28196,7 +27942,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0106031",
       "label": "Volume I 10-S3 Maiden",
       "entries": [
         {
@@ -28307,7 +28052,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0106032",
       "label": "Volume I 10-S3 Princess",
       "entries": [
         {
@@ -28418,7 +28162,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0110011",
       "label": "Volume I 11-1 Maiden",
       "entries": [
         {
@@ -28529,7 +28272,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0110012",
       "label": "Volume I 11-1 Princess",
       "entries": [
         {
@@ -28640,7 +28382,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0110021",
       "label": "Volume I 11-2 Maiden",
       "entries": [
         {
@@ -28751,7 +28492,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0110022",
       "label": "Volume I 11-2 Princess",
       "entries": [
         {
@@ -28862,7 +28602,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0110031",
       "label": "Volume I 11-3 Maiden",
       "entries": [
         {
@@ -28973,7 +28712,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0110032",
       "label": "Volume I 11-3 Princess",
       "entries": [
         {
@@ -29084,7 +28822,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0110041",
       "label": "Volume I 11-4 Maiden",
       "entries": [
         {
@@ -29195,7 +28932,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0110042",
       "label": "Volume I 11-4 Princess",
       "entries": [
         {
@@ -29306,7 +29042,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0110051",
       "label": "Volume I 11-5 Maiden",
       "entries": [
         {
@@ -29417,7 +29152,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0110052",
       "label": "Volume I 11-5 Princess",
       "entries": [
         {
@@ -29528,7 +29262,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0110061",
       "label": "Volume I 11-6 Maiden",
       "entries": [
         {
@@ -29639,7 +29372,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0110062",
       "label": "Volume I 11-6 Princess",
       "entries": [
         {
@@ -29750,7 +29482,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0110071",
       "label": "Volume I 11-7 Maiden",
       "entries": [
         {
@@ -29861,7 +29592,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0110072",
       "label": "Volume I 11-7 Princess",
       "entries": [
         {
@@ -29972,7 +29702,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0110081",
       "label": "Volume I 11-8 Maiden",
       "entries": [
         {
@@ -30083,7 +29812,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0110082",
       "label": "Volume I 11-8 Princess",
       "entries": [
         {
@@ -30194,7 +29922,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0110091",
       "label": "Volume I 11-9 Maiden",
       "entries": [
         {
@@ -30305,7 +30032,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0110092",
       "label": "Volume I 11-9 Princess",
       "entries": [
         {
@@ -30416,7 +30142,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0116011",
       "label": "Volume I 11-S1 Maiden",
       "entries": [
         {
@@ -30527,7 +30252,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0116012",
       "label": "Volume I 11-S1 Princess",
       "entries": [
         {
@@ -30638,7 +30362,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0116021",
       "label": "Volume I 11-S2 Maiden",
       "entries": [
         {
@@ -30749,7 +30472,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0116022",
       "label": "Volume I 11-S2 Princess",
       "entries": [
         {
@@ -30860,7 +30582,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0116031",
       "label": "Volume I 11-S3 Maiden",
       "entries": [
         {
@@ -30971,7 +30692,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0116032",
       "label": "Volume I 11-S3 Princess",
       "entries": [
         {
@@ -31082,7 +30802,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0120011",
       "label": "Volume I 12-1 Maiden",
       "entries": [
         {
@@ -31193,7 +30912,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0120012",
       "label": "Volume I 12-1 Princess",
       "entries": [
         {
@@ -31304,7 +31022,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0120021",
       "label": "Volume I 12-2 Maiden",
       "entries": [
         {
@@ -31415,7 +31132,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0120022",
       "label": "Volume I 12-2 Princess",
       "entries": [
         {
@@ -31526,7 +31242,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0120031",
       "label": "Volume I 12-3 Maiden",
       "entries": [
         {
@@ -31637,7 +31352,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0120032",
       "label": "Volume I 12-3 Princess",
       "entries": [
         {
@@ -31748,7 +31462,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0120041",
       "label": "Volume I 12-4 Maiden",
       "entries": [
         {
@@ -31859,7 +31572,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0120042",
       "label": "Volume I 12-4 Princess",
       "entries": [
         {
@@ -31970,7 +31682,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0120051",
       "label": "Volume I 12-5 Maiden",
       "entries": [
         {
@@ -32081,7 +31792,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0120052",
       "label": "Volume I 12-5 Princess",
       "entries": [
         {
@@ -32192,7 +31902,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0120061",
       "label": "Volume I 12-6 Maiden",
       "entries": [
         {
@@ -32303,7 +32012,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0120062",
       "label": "Volume I 12-6 Princess",
       "entries": [
         {
@@ -32414,7 +32122,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0120071",
       "label": "Volume I 12-7 Maiden",
       "entries": [
         {
@@ -32525,7 +32232,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0120072",
       "label": "Volume I 12-7 Princess",
       "entries": [
         {
@@ -32636,7 +32342,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0120081",
       "label": "Volume I 12-8 Maiden",
       "entries": [
         {
@@ -32747,7 +32452,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0120082",
       "label": "Volume I 12-8 Princess",
       "entries": [
         {
@@ -32858,7 +32562,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0120091",
       "label": "Volume I 12-9 Maiden",
       "entries": [
         {
@@ -32969,7 +32672,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0120092",
       "label": "Volume I 12-9 Princess",
       "entries": [
         {
@@ -33080,7 +32782,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0126011",
       "label": "Volume I 12-S1 Maiden",
       "entries": [
         {
@@ -33191,7 +32892,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0126012",
       "label": "Volume I 12-S1 Princess",
       "entries": [
         {
@@ -33302,7 +33002,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0126021",
       "label": "Volume I 12-S2 Maiden",
       "entries": [
         {
@@ -33413,7 +33112,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0126022",
       "label": "Volume I 12-S2 Princess",
       "entries": [
         {
@@ -33524,7 +33222,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0126031",
       "label": "Volume I 12-S3 Maiden",
       "entries": [
         {
@@ -33635,7 +33332,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0126032",
       "label": "Volume I 12-S3 Princess",
       "entries": [
         {
@@ -33746,7 +33442,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0130011",
       "label": "Volume I 13-1 Maiden",
       "entries": [
         {
@@ -33857,7 +33552,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0130012",
       "label": "Volume I 13-1 Princess",
       "entries": [
         {
@@ -33968,7 +33662,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0130021",
       "label": "Volume I 13-2 Maiden",
       "entries": [
         {
@@ -34079,7 +33772,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0130022",
       "label": "Volume I 13-2 Princess",
       "entries": [
         {
@@ -34190,7 +33882,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0130031",
       "label": "Volume I 13-3 Maiden",
       "entries": [
         {
@@ -34301,7 +33992,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0130032",
       "label": "Volume I 13-3 Princess",
       "entries": [
         {
@@ -34412,7 +34102,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0130041",
       "label": "Volume I 13-4 Maiden",
       "entries": [
         {
@@ -34523,7 +34212,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0130042",
       "label": "Volume I 13-4 Princess",
       "entries": [
         {
@@ -34634,7 +34322,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0130051",
       "label": "Volume I 13-5 Maiden",
       "entries": [
         {
@@ -34745,7 +34432,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0130052",
       "label": "Volume I 13-5 Princess",
       "entries": [
         {
@@ -34856,7 +34542,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0130061",
       "label": "Volume I 13-6 Maiden",
       "entries": [
         {
@@ -34967,7 +34652,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0130062",
       "label": "Volume I 13-6 Princess",
       "entries": [
         {
@@ -35078,7 +34762,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0130071",
       "label": "Volume I 13-7 Maiden",
       "entries": [
         {
@@ -35189,7 +34872,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0130072",
       "label": "Volume I 13-7 Princess",
       "entries": [
         {
@@ -35300,7 +34982,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0130081",
       "label": "Volume I 13-8 Maiden",
       "entries": [
         {
@@ -35411,7 +35092,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0130082",
       "label": "Volume I 13-8 Princess",
       "entries": [
         {
@@ -35522,7 +35202,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0130091",
       "label": "Volume I 13-9 Maiden",
       "entries": [
         {
@@ -35633,7 +35312,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0130092",
       "label": "Volume I 13-9 Princess",
       "entries": [
         {
@@ -35744,7 +35422,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0136011",
       "label": "Volume I 13-S1 Maiden",
       "entries": [
         {
@@ -35855,7 +35532,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0136012",
       "label": "Volume I 13-S1 Princess",
       "entries": [
         {
@@ -35966,7 +35642,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0136021",
       "label": "Volume I 13-S2 Maiden",
       "entries": [
         {
@@ -36077,7 +35752,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0136022",
       "label": "Volume I 13-S2 Princess",
       "entries": [
         {
@@ -36188,7 +35862,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0136031",
       "label": "Volume I 13-S3 Maiden",
       "entries": [
         {
@@ -36299,7 +35972,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0136032",
       "label": "Volume I 13-S3 Princess",
       "entries": [
         {
@@ -36410,7 +36082,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0140011",
       "label": "Volume I 14-1 Maiden",
       "entries": [
         {
@@ -36521,7 +36192,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0140012",
       "label": "Volume I 14-1 Princess",
       "entries": [
         {
@@ -36632,7 +36302,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0140021",
       "label": "Volume I 14-2 Maiden",
       "entries": [
         {
@@ -36743,7 +36412,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0140022",
       "label": "Volume I 14-2 Princess",
       "entries": [
         {
@@ -36854,7 +36522,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0140031",
       "label": "Volume I 14-3 Maiden",
       "entries": [
         {
@@ -36965,7 +36632,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0140032",
       "label": "Volume I 14-3 Princess",
       "entries": [
         {
@@ -37076,7 +36742,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0140041",
       "label": "Volume I 14-4 Maiden",
       "entries": [
         {
@@ -37187,7 +36852,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0140042",
       "label": "Volume I 14-4 Princess",
       "entries": [
         {
@@ -37298,7 +36962,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0140051",
       "label": "Volume I 14-5 Maiden",
       "entries": [
         {
@@ -37409,7 +37072,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0140052",
       "label": "Volume I 14-5 Princess",
       "entries": [
         {
@@ -37520,7 +37182,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0140061",
       "label": "Volume I 14-6 Maiden",
       "entries": [
         {
@@ -37631,7 +37292,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0140062",
       "label": "Volume I 14-6 Princess",
       "entries": [
         {
@@ -37742,7 +37402,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0140071",
       "label": "Volume I 14-7 Maiden",
       "entries": [
         {
@@ -37853,7 +37512,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0140072",
       "label": "Volume I 14-7 Princess",
       "entries": [
         {
@@ -37964,7 +37622,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0140081",
       "label": "Volume I 14-8 Maiden",
       "entries": [
         {
@@ -38075,7 +37732,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0140082",
       "label": "Volume I 14-8 Princess",
       "entries": [
         {
@@ -38186,7 +37842,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0140091",
       "label": "Volume I 14-9 Maiden",
       "entries": [
         {
@@ -38297,7 +37952,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0140092",
       "label": "Volume I 14-9 Princess",
       "entries": [
         {
@@ -38408,7 +38062,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0146011",
       "label": "Volume I 14-S1 Maiden",
       "entries": [
         {
@@ -38519,7 +38172,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0146012",
       "label": "Volume I 14-S1 Princess",
       "entries": [
         {
@@ -38630,7 +38282,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0146021",
       "label": "Volume I 14-S2 Maiden",
       "entries": [
         {
@@ -38741,7 +38392,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0146022",
       "label": "Volume I 14-S2 Princess",
       "entries": [
         {
@@ -38852,7 +38502,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0146031",
       "label": "Volume I 14-S3 Maiden",
       "entries": [
         {
@@ -38963,7 +38612,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0146032",
       "label": "Volume I 14-S3 Princess",
       "entries": [
         {
@@ -39074,7 +38722,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0150011",
       "label": "Volume I 15-1 Maiden",
       "entries": [
         {
@@ -39185,7 +38832,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0150012",
       "label": "Volume I 15-1 Princess",
       "entries": [
         {
@@ -39296,7 +38942,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0150021",
       "label": "Volume I 15-2 Maiden",
       "entries": [
         {
@@ -39407,7 +39052,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0150022",
       "label": "Volume I 15-2 Princess",
       "entries": [
         {
@@ -39518,7 +39162,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0150031",
       "label": "Volume I 15-3 Maiden",
       "entries": [
         {
@@ -39629,7 +39272,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0150032",
       "label": "Volume I 15-3 Princess",
       "entries": [
         {
@@ -39740,7 +39382,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0150041",
       "label": "Volume I 15-4 Maiden",
       "entries": [
         {
@@ -39851,7 +39492,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0150042",
       "label": "Volume I 15-4 Princess",
       "entries": [
         {
@@ -39962,7 +39602,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0150051",
       "label": "Volume I 15-5 Maiden",
       "entries": [
         {
@@ -40073,7 +39712,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0150052",
       "label": "Volume I 15-5 Princess",
       "entries": [
         {
@@ -40184,7 +39822,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0150061",
       "label": "Volume I 15-6 Maiden",
       "entries": [
         {
@@ -40295,7 +39932,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0150062",
       "label": "Volume I 15-6 Princess",
       "entries": [
         {
@@ -40406,7 +40042,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0150071",
       "label": "Volume I 15-7 Maiden",
       "entries": [
         {
@@ -40517,7 +40152,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0150072",
       "label": "Volume I 15-7 Princess",
       "entries": [
         {
@@ -40628,7 +40262,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0150081",
       "label": "Volume I 15-8 Maiden",
       "entries": [
         {
@@ -40739,7 +40372,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0150082",
       "label": "Volume I 15-8 Princess",
       "entries": [
         {
@@ -40850,7 +40482,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0150091",
       "label": "Volume I 15-9 Maiden",
       "entries": [
         {
@@ -40961,7 +40592,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0150092",
       "label": "Volume I 15-9 Princess",
       "entries": [
         {
@@ -41072,7 +40702,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0156011",
       "label": "Volume I 15-S1 Maiden",
       "entries": [
         {
@@ -41183,7 +40812,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0156012",
       "label": "Volume I 15-S1 Princess",
       "entries": [
         {
@@ -41294,7 +40922,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0156021",
       "label": "Volume I 15-S2 Maiden",
       "entries": [
         {
@@ -41405,7 +41032,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0156022",
       "label": "Volume I 15-S2 Princess",
       "entries": [
         {
@@ -41516,7 +41142,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0156031",
       "label": "Volume I 15-S3 Maiden",
       "entries": [
         {
@@ -41627,7 +41252,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0156032",
       "label": "Volume I 15-S3 Princess",
       "entries": [
         {
@@ -41738,7 +41362,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0160011",
       "label": "Volume I 16-1 Maiden",
       "entries": [
         {
@@ -41849,7 +41472,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0160012",
       "label": "Volume I 16-1 Princess",
       "entries": [
         {
@@ -41960,7 +41582,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0160021",
       "label": "Volume I 16-2 Maiden",
       "entries": [
         {
@@ -42071,7 +41692,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0160022",
       "label": "Volume I 16-2 Princess",
       "entries": [
         {
@@ -42182,7 +41802,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0160031",
       "label": "Volume I 16-3 Maiden",
       "entries": [
         {
@@ -42293,7 +41912,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0160032",
       "label": "Volume I 16-3 Princess",
       "entries": [
         {
@@ -42404,7 +42022,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0160041",
       "label": "Volume I 16-4 Maiden",
       "entries": [
         {
@@ -42515,7 +42132,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0160042",
       "label": "Volume I 16-4 Princess",
       "entries": [
         {
@@ -42626,7 +42242,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0160051",
       "label": "Volume I 16-5 Maiden",
       "entries": [
         {
@@ -42737,7 +42352,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0160052",
       "label": "Volume I 16-5 Princess",
       "entries": [
         {
@@ -42848,7 +42462,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0160061",
       "label": "Volume I 16-6 Maiden",
       "entries": [
         {
@@ -42959,7 +42572,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0160062",
       "label": "Volume I 16-6 Princess",
       "entries": [
         {
@@ -43070,7 +42682,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0160071",
       "label": "Volume I 16-7 Maiden",
       "entries": [
         {
@@ -43181,7 +42792,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0160072",
       "label": "Volume I 16-7 Princess",
       "entries": [
         {
@@ -43292,7 +42902,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0160081",
       "label": "Volume I 16-8 Maiden",
       "entries": [
         {
@@ -43403,7 +43012,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0160082",
       "label": "Volume I 16-8 Princess",
       "entries": [
         {
@@ -43514,7 +43122,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0160091",
       "label": "Volume I 16-9 Maiden",
       "entries": [
         {
@@ -43625,7 +43232,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0160092",
       "label": "Volume I 16-9 Princess",
       "entries": [
         {
@@ -43736,7 +43342,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0166011",
       "label": "Volume I 16-S1 Maiden",
       "entries": [
         {
@@ -43847,7 +43452,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0166012",
       "label": "Volume I 16-S1 Princess",
       "entries": [
         {
@@ -43958,7 +43562,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0166021",
       "label": "Volume I 16-S2 Maiden",
       "entries": [
         {
@@ -44069,7 +43672,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0166022",
       "label": "Volume I 16-S2 Princess",
       "entries": [
         {
@@ -44180,7 +43782,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0166031",
       "label": "Volume I 16-S3 Maiden",
       "entries": [
         {
@@ -44291,7 +43892,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0166032",
       "label": "Volume I 16-S3 Princess",
       "entries": [
         {
@@ -44402,7 +44002,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0170011",
       "label": "Volume I 17-1 Maiden",
       "entries": [
         {
@@ -44513,7 +44112,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0170012",
       "label": "Volume I 17-1 Princess",
       "entries": [
         {
@@ -44624,7 +44222,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0170021",
       "label": "Volume I 17-2 Maiden",
       "entries": [
         {
@@ -44735,7 +44332,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0170022",
       "label": "Volume I 17-2 Princess",
       "entries": [
         {
@@ -44846,7 +44442,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0170031",
       "label": "Volume I 17-3 Maiden",
       "entries": [
         {
@@ -44957,7 +44552,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0170032",
       "label": "Volume I 17-3 Princess",
       "entries": [
         {
@@ -45068,7 +44662,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0170041",
       "label": "Volume I 17-4 Maiden",
       "entries": [
         {
@@ -45179,7 +44772,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0170042",
       "label": "Volume I 17-4 Princess",
       "entries": [
         {
@@ -45290,7 +44882,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0170051",
       "label": "Volume I 17-5 Maiden",
       "entries": [
         {
@@ -45401,7 +44992,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0170052",
       "label": "Volume I 17-5 Princess",
       "entries": [
         {
@@ -45512,7 +45102,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0170061",
       "label": "Volume I 17-6 Maiden",
       "entries": [
         {
@@ -45623,7 +45212,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0170062",
       "label": "Volume I 17-6 Princess",
       "entries": [
         {
@@ -45734,7 +45322,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0170071",
       "label": "Volume I 17-7 Maiden",
       "entries": [
         {
@@ -45845,7 +45432,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0170072",
       "label": "Volume I 17-7 Princess",
       "entries": [
         {
@@ -45956,7 +45542,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0170081",
       "label": "Volume I 17-8 Maiden",
       "entries": [
         {
@@ -46067,7 +45652,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0170082",
       "label": "Volume I 17-8 Princess",
       "entries": [
         {
@@ -46178,7 +45762,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0170091",
       "label": "Volume I 17-9 Maiden",
       "entries": [
         {
@@ -46289,7 +45872,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0170092",
       "label": "Volume I 17-9 Princess",
       "entries": [
         {
@@ -46400,7 +45982,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0176011",
       "label": "Volume I 17-S1 Maiden",
       "entries": [
         {
@@ -46511,7 +46092,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0176012",
       "label": "Volume I 17-S1 Princess",
       "entries": [
         {
@@ -46622,7 +46202,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0176021",
       "label": "Volume I 17-S2 Maiden",
       "entries": [
         {
@@ -46733,7 +46312,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0176022",
       "label": "Volume I 17-S2 Princess",
       "entries": [
         {
@@ -46844,7 +46422,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0176031",
       "label": "Volume I 17-S3 Maiden",
       "entries": [
         {
@@ -46955,7 +46532,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0176032",
       "label": "Volume I 17-S3 Princess",
       "entries": [
         {
@@ -47066,7 +46642,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0180011",
       "label": "Volume I 18-1 Maiden",
       "entries": [
         {
@@ -47177,7 +46752,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0180012",
       "label": "Volume I 18-1 Princess",
       "entries": [
         {
@@ -47288,7 +46862,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0180021",
       "label": "Volume I 18-2 Maiden",
       "entries": [
         {
@@ -47399,7 +46972,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0180022",
       "label": "Volume I 18-2 Princess",
       "entries": [
         {
@@ -47510,7 +47082,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0180031",
       "label": "Volume I 18-3 Maiden",
       "entries": [
         {
@@ -47621,7 +47192,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0180032",
       "label": "Volume I 18-3 Princess",
       "entries": [
         {
@@ -47732,7 +47302,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0180041",
       "label": "Volume I 18-4 Maiden",
       "entries": [
         {
@@ -47843,7 +47412,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0180042",
       "label": "Volume I 18-4 Princess",
       "entries": [
         {
@@ -47954,7 +47522,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0180051",
       "label": "Volume I 18-5 Maiden",
       "entries": [
         {
@@ -48065,7 +47632,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0180052",
       "label": "Volume I 18-5 Princess",
       "entries": [
         {
@@ -48176,7 +47742,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0180061",
       "label": "Volume I 18-6 Maiden",
       "entries": [
         {
@@ -48287,7 +47852,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0180062",
       "label": "Volume I 18-6 Princess",
       "entries": [
         {
@@ -48398,7 +47962,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0180071",
       "label": "Volume I 18-7 Maiden",
       "entries": [
         {
@@ -48509,7 +48072,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0180072",
       "label": "Volume I 18-7 Princess",
       "entries": [
         {
@@ -48620,7 +48182,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0180081",
       "label": "Volume I 18-8 Maiden",
       "entries": [
         {
@@ -48731,7 +48292,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0180082",
       "label": "Volume I 18-8 Princess",
       "entries": [
         {
@@ -48842,7 +48402,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0180091",
       "label": "Volume I 18-9 Maiden",
       "entries": [
         {
@@ -48953,7 +48512,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0180092",
       "label": "Volume I 18-9 Princess",
       "entries": [
         {
@@ -49064,7 +48622,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0186011",
       "label": "Volume I 18-S1 Maiden",
       "entries": [
         {
@@ -49175,7 +48732,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0186012",
       "label": "Volume I 18-S1 Princess",
       "entries": [
         {
@@ -49286,7 +48842,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0186021",
       "label": "Volume I 18-S2 Maiden",
       "entries": [
         {
@@ -49397,7 +48952,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0186022",
       "label": "Volume I 18-S2 Princess",
       "entries": [
         {
@@ -49508,7 +49062,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0186031",
       "label": "Volume I 18-S3 Maiden",
       "entries": [
         {
@@ -49619,7 +49172,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0186032",
       "label": "Volume I 18-S3 Princess",
       "entries": [
         {
@@ -49730,7 +49282,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0190011",
       "label": "Volume I 19-1 Maiden",
       "entries": [
         {
@@ -49841,7 +49392,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0190012",
       "label": "Volume I 19-1 Princess",
       "entries": [
         {
@@ -49952,7 +49502,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0190021",
       "label": "Volume I 19-2 Maiden",
       "entries": [
         {
@@ -50063,7 +49612,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0190022",
       "label": "Volume I 19-2 Princess",
       "entries": [
         {
@@ -50174,7 +49722,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0190031",
       "label": "Volume I 19-3 Maiden",
       "entries": [
         {
@@ -50285,7 +49832,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0190032",
       "label": "Volume I 19-3 Princess",
       "entries": [
         {
@@ -50396,7 +49942,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0190041",
       "label": "Volume I 19-4 Maiden",
       "entries": [
         {
@@ -50507,7 +50052,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0190042",
       "label": "Volume I 19-4 Princess",
       "entries": [
         {
@@ -50618,7 +50162,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0190051",
       "label": "Volume I 19-5 Maiden",
       "entries": [
         {
@@ -50729,7 +50272,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0190052",
       "label": "Volume I 19-5 Princess",
       "entries": [
         {
@@ -50840,7 +50382,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0190061",
       "label": "Volume I 19-6 Maiden",
       "entries": [
         {
@@ -50951,7 +50492,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0190062",
       "label": "Volume I 19-6 Princess",
       "entries": [
         {
@@ -51062,7 +50602,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0190071",
       "label": "Volume I 19-7 Maiden",
       "entries": [
         {
@@ -51173,7 +50712,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0190072",
       "label": "Volume I 19-7 Princess",
       "entries": [
         {
@@ -51284,7 +50822,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0190081",
       "label": "Volume I 19-8 Maiden",
       "entries": [
         {
@@ -51395,7 +50932,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0190082",
       "label": "Volume I 19-8 Princess",
       "entries": [
         {
@@ -51506,7 +51042,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0190091",
       "label": "Volume I 19-9 Maiden",
       "entries": [
         {
@@ -51617,7 +51152,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0190092",
       "label": "Volume I 19-9 Princess",
       "entries": [
         {
@@ -51728,7 +51262,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0196011",
       "label": "Volume I 19-S1 Maiden",
       "entries": [
         {
@@ -51839,7 +51372,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0196012",
       "label": "Volume I 19-S1 Princess",
       "entries": [
         {
@@ -51950,7 +51482,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0196021",
       "label": "Volume I 19-S2 Maiden",
       "entries": [
         {
@@ -52061,7 +51592,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0196022",
       "label": "Volume I 19-S2 Princess",
       "entries": [
         {
@@ -52172,7 +51702,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "0196031",
       "label": "Volume I 19-S3 Maiden",
       "entries": [
         {
@@ -52283,7 +51812,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "0196032",
       "label": "Volume I 19-S3 Princess",
       "entries": [
         {
@@ -52394,7 +51922,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "1010011",
       "label": "Volume II 1-1 Maiden",
       "entries": [
         {
@@ -52505,7 +52032,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "1010012",
       "label": "Volume II 1-1 Princess",
       "entries": [
         {
@@ -52616,7 +52142,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "1010021",
       "label": "Volume II 1-2 Maiden",
       "entries": [
         {
@@ -52727,7 +52252,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "1010022",
       "label": "Volume II 1-2 Princess",
       "entries": [
         {
@@ -52838,7 +52362,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "1010031",
       "label": "Volume II 1-3 Maiden",
       "entries": [
         {
@@ -52949,7 +52472,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "1010032",
       "label": "Volume II 1-3 Princess",
       "entries": [
         {
@@ -53060,7 +52582,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "1010041",
       "label": "Volume II 1-4 Maiden",
       "entries": [
         {
@@ -53171,7 +52692,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "1010042",
       "label": "Volume II 1-4 Princess",
       "entries": [
         {
@@ -53282,7 +52802,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "1010051",
       "label": "Volume II 1-5 Maiden",
       "entries": [
         {
@@ -53393,7 +52912,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "1010052",
       "label": "Volume II 1-5 Princess",
       "entries": [
         {
@@ -53504,7 +53022,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "1010061",
       "label": "Volume II 1-6 Maiden",
       "entries": [
         {
@@ -53615,7 +53132,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "1010062",
       "label": "Volume II 1-6 Princess",
       "entries": [
         {
@@ -53726,7 +53242,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "1010071",
       "label": "Volume II 1-7 Maiden",
       "entries": [
         {
@@ -53837,7 +53352,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "1010072",
       "label": "Volume II 1-7 Princess",
       "entries": [
         {
@@ -53948,7 +53462,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "1016011",
       "label": "Volume II 1-S1 Maiden",
       "entries": [
         {
@@ -54059,7 +53572,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "1016012",
       "label": "Volume II 1-S1 Princess",
       "entries": [
         {
@@ -54170,7 +53682,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "1016021",
       "label": "Volume II 1-S2 Maiden",
       "entries": [
         {
@@ -54281,7 +53792,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "1016022",
       "label": "Volume II 1-S2 Princess",
       "entries": [
         {
@@ -54392,7 +53902,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "1016031",
       "label": "Volume II 1-S3 Maiden",
       "entries": [
         {
@@ -54503,7 +54012,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "1016032",
       "label": "Volume II 1-S3 Princess",
       "entries": [
         {
@@ -54614,7 +54122,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "1020011",
       "label": "Volume II 2-1 Maiden",
       "entries": [
         {
@@ -54725,7 +54232,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "1020012",
       "label": "Volume II 2-1 Princess",
       "entries": [
         {
@@ -54836,7 +54342,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "1020021",
       "label": "Volume II 2-2 Maiden",
       "entries": [
         {
@@ -54947,7 +54452,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "1020022",
       "label": "Volume II 2-2 Princess",
       "entries": [
         {
@@ -55058,7 +54562,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "1020031",
       "label": "Volume II 2-3 Maiden",
       "entries": [
         {
@@ -55169,7 +54672,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "1020032",
       "label": "Volume II 2-3 Princess",
       "entries": [
         {
@@ -55280,7 +54782,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "1020041",
       "label": "Volume II 2-4 Maiden",
       "entries": [
         {
@@ -55391,7 +54892,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "1020042",
       "label": "Volume II 2-4 Princess",
       "entries": [
         {
@@ -55502,7 +55002,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "1020051",
       "label": "Volume II 2-5 Maiden",
       "entries": [
         {
@@ -55613,7 +55112,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "1020052",
       "label": "Volume II 2-5 Princess",
       "entries": [
         {
@@ -55724,7 +55222,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "1020061",
       "label": "Volume II 2-6 Maiden",
       "entries": [
         {
@@ -55835,7 +55332,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "1020062",
       "label": "Volume II 2-6 Princess",
       "entries": [
         {
@@ -55946,7 +55442,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "1020071",
       "label": "Volume II 2-7 Maiden",
       "entries": [
         {
@@ -56057,7 +55552,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "1020072",
       "label": "Volume II 2-7 Princess",
       "entries": [
         {
@@ -56168,7 +55662,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "1026011",
       "label": "Volume II 2-S1 Maiden",
       "entries": [
         {
@@ -56279,7 +55772,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "1026012",
       "label": "Volume II 2-S1 Princess",
       "entries": [
         {
@@ -56390,7 +55882,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "1026021",
       "label": "Volume II 2-S2 Maiden",
       "entries": [
         {
@@ -56501,7 +55992,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "1026022",
       "label": "Volume II 2-S2 Princess",
       "entries": [
         {
@@ -56612,7 +56102,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "1026031",
       "label": "Volume II 2-S3 Maiden",
       "entries": [
         {
@@ -56723,7 +56212,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "1026032",
       "label": "Volume II 2-S3 Princess",
       "entries": [
         {
@@ -56834,7 +56322,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "1030011",
       "label": "Volume II 3-1 Maiden",
       "entries": [
         {
@@ -56945,7 +56432,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "1030012",
       "label": "Volume II 3-1 Princess",
       "entries": [
         {
@@ -57056,7 +56542,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "1030021",
       "label": "Volume II 3-2 Maiden",
       "entries": [
         {
@@ -57167,7 +56652,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "1030022",
       "label": "Volume II 3-2 Princess",
       "entries": [
         {
@@ -57278,7 +56762,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "1030031",
       "label": "Volume II 3-3 Maiden",
       "entries": [
         {
@@ -57389,7 +56872,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "1030032",
       "label": "Volume II 3-3 Princess",
       "entries": [
         {
@@ -57500,7 +56982,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "1030041",
       "label": "Volume II 3-4 Maiden",
       "entries": [
         {
@@ -57611,7 +57092,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "1030042",
       "label": "Volume II 3-4 Princess",
       "entries": [
         {
@@ -57722,7 +57202,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "1030051",
       "label": "Volume II 3-5 Maiden",
       "entries": [
         {
@@ -57833,7 +57312,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "1030052",
       "label": "Volume II 3-5 Princess",
       "entries": [
         {
@@ -57944,7 +57422,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "1030061",
       "label": "Volume II 3-6 Maiden",
       "entries": [
         {
@@ -58055,7 +57532,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "1030062",
       "label": "Volume II 3-6 Princess",
       "entries": [
         {
@@ -58166,7 +57642,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "1030071",
       "label": "Volume II 3-7 Maiden",
       "entries": [
         {
@@ -58277,7 +57752,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "1030072",
       "label": "Volume II 3-7 Princess",
       "entries": [
         {
@@ -58388,7 +57862,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "1036011",
       "label": "Volume II 3-S1 Maiden",
       "entries": [
         {
@@ -58499,7 +57972,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "1036012",
       "label": "Volume II 3-S1 Princess",
       "entries": [
         {
@@ -58610,7 +58082,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "1036021",
       "label": "Volume II 3-S2 Maiden",
       "entries": [
         {
@@ -58721,7 +58192,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "1036022",
       "label": "Volume II 3-S2 Princess",
       "entries": [
         {
@@ -58832,7 +58302,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "1036031",
       "label": "Volume II 3-S3 Maiden",
       "entries": [
         {
@@ -58943,7 +58412,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "1036032",
       "label": "Volume II 3-S3 Princess",
       "entries": [
         {
@@ -59054,7 +58522,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "1040011",
       "label": "Volume II 4-1 Maiden",
       "entries": [
         {
@@ -59165,7 +58632,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "1040012",
       "label": "Volume II 4-1 Princess",
       "entries": [
         {
@@ -59276,7 +58742,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "1040021",
       "label": "Volume II 4-2 Maiden",
       "entries": [
         {
@@ -59387,7 +58852,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "1040022",
       "label": "Volume II 4-2 Princess",
       "entries": [
         {
@@ -59498,7 +58962,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "1040031",
       "label": "Volume II 4-3 Maiden",
       "entries": [
         {
@@ -59609,7 +59072,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "1040032",
       "label": "Volume II 4-3 Princess",
       "entries": [
         {
@@ -59720,7 +59182,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "1040041",
       "label": "Volume II 4-4 Maiden",
       "entries": [
         {
@@ -59831,7 +59292,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "1040042",
       "label": "Volume II 4-4 Princess",
       "entries": [
         {
@@ -59942,7 +59402,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "1040051",
       "label": "Volume II 4-5 Maiden",
       "entries": [
         {
@@ -60053,7 +59512,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "1040052",
       "label": "Volume II 4-5 Princess",
       "entries": [
         {
@@ -60164,7 +59622,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "1040061",
       "label": "Volume II 4-6 Maiden",
       "entries": [
         {
@@ -60275,7 +59732,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "1040062",
       "label": "Volume II 4-6 Princess",
       "entries": [
         {
@@ -60386,7 +59842,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "1040071",
       "label": "Volume II 4-7 Maiden",
       "entries": [
         {
@@ -60497,7 +59952,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "1040072",
       "label": "Volume II 4-7 Princess",
       "entries": [
         {
@@ -60608,7 +60062,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "1046011",
       "label": "Volume II 4-S1 Maiden",
       "entries": [
         {
@@ -60719,7 +60172,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "1046012",
       "label": "Volume II 4-S1 Princess",
       "entries": [
         {
@@ -60830,7 +60282,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "1046021",
       "label": "Volume II 4-S2 Maiden",
       "entries": [
         {
@@ -60941,7 +60392,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "1046022",
       "label": "Volume II 4-S2 Princess",
       "entries": [
         {
@@ -61052,7 +60502,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "1046031",
       "label": "Volume II 4-S3 Maiden",
       "entries": [
         {
@@ -61163,7 +60612,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "1046032",
       "label": "Volume II 4-S3 Princess",
       "entries": [
         {
@@ -61274,7 +60722,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "1050011",
       "label": "Volume II 5-1 Maiden",
       "entries": [
         {
@@ -61385,7 +60832,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "1050012",
       "label": "Volume II 5-1 Princess",
       "entries": [
         {
@@ -61496,7 +60942,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "1050021",
       "label": "Volume II 5-2 Maiden",
       "entries": [
         {
@@ -61607,7 +61052,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "1050022",
       "label": "Volume II 5-2 Princess",
       "entries": [
         {
@@ -61718,7 +61162,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "1050031",
       "label": "Volume II 5-3 Maiden",
       "entries": [
         {
@@ -61829,7 +61272,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "1050032",
       "label": "Volume II 5-3 Princess",
       "entries": [
         {
@@ -61940,7 +61382,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "1050041",
       "label": "Volume II 5-4 Maiden",
       "entries": [
         {
@@ -62051,7 +61492,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "1050042",
       "label": "Volume II 5-4 Princess",
       "entries": [
         {
@@ -62162,7 +61602,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "1050051",
       "label": "Volume II 5-5 Maiden",
       "entries": [
         {
@@ -62273,7 +61712,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "1050052",
       "label": "Volume II 5-5 Princess",
       "entries": [
         {
@@ -62384,7 +61822,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "1050061",
       "label": "Volume II 5-6 Maiden",
       "entries": [
         {
@@ -62495,7 +61932,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "1050062",
       "label": "Volume II 5-6 Princess",
       "entries": [
         {
@@ -62606,7 +62042,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "1050071",
       "label": "Volume II 5-7 Maiden",
       "entries": [
         {
@@ -62717,7 +62152,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "1050072",
       "label": "Volume II 5-7 Princess",
       "entries": [
         {
@@ -62828,7 +62262,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "1056011",
       "label": "Volume II 5-S1 Maiden",
       "entries": [
         {
@@ -62939,7 +62372,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "1056012",
       "label": "Volume II 5-S1 Princess",
       "entries": [
         {
@@ -63050,7 +62482,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "1056021",
       "label": "Volume II 5-S2 Maiden",
       "entries": [
         {
@@ -63161,7 +62592,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "1056022",
       "label": "Volume II 5-S2 Princess",
       "entries": [
         {
@@ -63272,7 +62702,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "1056031",
       "label": "Volume II 5-S3 Maiden",
       "entries": [
         {
@@ -63383,7 +62812,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "1056032",
       "label": "Volume II 5-S3 Princess",
       "entries": [
         {
@@ -63494,7 +62922,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "1060011",
       "label": "Volume II 6-1 Maiden",
       "entries": [
         {
@@ -63605,7 +63032,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "1060012",
       "label": "Volume II 6-1 Princess",
       "entries": [
         {
@@ -63716,7 +63142,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "1060021",
       "label": "Volume II 6-3 Maiden",
       "entries": [
         {
@@ -63827,7 +63252,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "1060022",
       "label": "Volume II 6-3 Princess",
       "entries": [
         {
@@ -63938,7 +63362,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "1060041",
       "label": "Volume II 6-4 Maiden",
       "entries": [
         {
@@ -64049,7 +63472,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "1060042",
       "label": "Volume II 6-4 Princess",
       "entries": [
         {
@@ -64160,7 +63582,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "1060051",
       "label": "Volume II 6-5 Maiden",
       "entries": [
         {
@@ -64271,7 +63692,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "1060052",
       "label": "Volume II 6-5 Princess",
       "entries": [
         {
@@ -64382,7 +63802,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "1060061",
       "label": "Volume II 6-6 Maiden",
       "entries": [
         {
@@ -64493,7 +63912,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "1060062",
       "label": "Volume II 6-6 Princess",
       "entries": [
         {
@@ -64604,7 +64022,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "1066011",
       "label": "Volume II 6-S1 Maiden",
       "entries": [
         {
@@ -64715,7 +64132,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "1066012",
       "label": "Volume II 6-S1 Princess",
       "entries": [
         {
@@ -64826,7 +64242,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "1066021",
       "label": "Volume II 6-S2 Maiden",
       "entries": [
         {
@@ -64937,7 +64352,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "1066022",
       "label": "Volume II 6-S2 Princess",
       "entries": [
         {
@@ -65048,7 +64462,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "1066031",
       "label": "Volume II 6-S3 Maiden",
       "entries": [
         {
@@ -65159,7 +64572,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "1066032",
       "label": "Volume II 6-S3 Princess",
       "entries": [
         {
@@ -65270,7 +64682,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "1066041",
       "label": "Volume II 6-S4 Maiden",
       "entries": [
         {
@@ -65381,7 +64792,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "1066042",
       "label": "Volume II 6-S4 Princess",
       "entries": [
         {
@@ -65492,7 +64902,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "1066051",
       "label": "Volume II 6-S5 Maiden",
       "entries": [
         {
@@ -65603,7 +65012,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "1066052",
       "label": "Volume II 6-S5 Princess",
       "entries": [
         {
@@ -65714,7 +65122,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "1066061",
       "label": "Volume II 6-S6 Maiden",
       "entries": [
         {
@@ -65825,7 +65232,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "1066062",
       "label": "Volume II 6-S6 Princess",
       "entries": [
         {
@@ -65936,7 +65342,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "1066071",
       "label": "Volume II 6-S7 Maiden",
       "entries": [
         {
@@ -66047,7 +65452,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "1066072",
       "label": "Volume II 6-S7 Princess",
       "entries": [
         {
@@ -66158,7 +65562,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "1070011",
       "label": "Volume II 7-1 Maiden",
       "entries": [
         {
@@ -66269,7 +65672,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "1070012",
       "label": "Volume II 7-1 Princess",
       "entries": [
         {
@@ -66380,7 +65782,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "1070021",
       "label": "Volume II 7-2 Maiden",
       "entries": [
         {
@@ -66491,7 +65892,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "1070022",
       "label": "Volume II 7-2 Princess",
       "entries": [
         {
@@ -66602,7 +66002,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "1070031",
       "label": "Volume II 7-3 Maiden",
       "entries": [
         {
@@ -66713,7 +66112,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "1070032",
       "label": "Volume II 7-3 Princess",
       "entries": [
         {
@@ -66824,7 +66222,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "1070041",
       "label": "Volume II 7-4 Maiden",
       "entries": [
         {
@@ -66935,7 +66332,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "1070042",
       "label": "Volume II 7-4 Princess",
       "entries": [
         {
@@ -67046,7 +66442,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "1070051",
       "label": "Volume II 7-5 Maiden",
       "entries": [
         {
@@ -67157,7 +66552,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "1070052",
       "label": "Volume II 7-5 Princess",
       "entries": [
         {
@@ -67268,7 +66662,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "1070061",
       "label": "Volume II 7-6 Maiden",
       "entries": [
         {
@@ -67379,7 +66772,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "1070062",
       "label": "Volume II 7-6 Princess",
       "entries": [
         {
@@ -67490,7 +66882,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "1070071",
       "label": "Volume II 7-7 Maiden",
       "entries": [
         {
@@ -67601,7 +66992,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "1070072",
       "label": "Volume II 7-7 Princess",
       "entries": [
         {
@@ -67712,7 +67102,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "1076011",
       "label": "Volume II 7-S1 Maiden",
       "entries": [
         {
@@ -67823,7 +67212,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "1076012",
       "label": "Volume II 7-S1 Princess",
       "entries": [
         {
@@ -67934,7 +67322,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "1076021",
       "label": "Volume II 7-S2 Maiden",
       "entries": [
         {
@@ -68045,7 +67432,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "1076022",
       "label": "Volume II 7-S2 Princess",
       "entries": [
         {
@@ -68156,7 +67542,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "1076031",
       "label": "Volume II 7-S3 Maiden",
       "entries": [
         {
@@ -68267,7 +67652,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "1076032",
       "label": "Volume II 7-S3 Princess",
       "entries": [
         {
@@ -68378,7 +67762,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "1080011",
       "label": "Volume II 8-1 Maiden",
       "entries": [
         {
@@ -68489,7 +67872,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "1080012",
       "label": "Volume II 8-1 Princess",
       "entries": [
         {
@@ -68600,7 +67982,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "1080021",
       "label": "Volume II 8-2 Maiden",
       "entries": [
         {
@@ -68711,7 +68092,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "1080022",
       "label": "Volume II 8-2 Princess",
       "entries": [
         {
@@ -68822,7 +68202,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "1080031",
       "label": "Volume II 8-3 Maiden",
       "entries": [
         {
@@ -68933,7 +68312,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "1080032",
       "label": "Volume II 8-3 Princess",
       "entries": [
         {
@@ -69044,7 +68422,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "1080041",
       "label": "Volume II 8-4 Maiden",
       "entries": [
         {
@@ -69155,7 +68532,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "1080042",
       "label": "Volume II 8-4 Princess",
       "entries": [
         {
@@ -69266,7 +68642,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "1080051",
       "label": "Volume II 8-5 Maiden",
       "entries": [
         {
@@ -69377,7 +68752,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "1080052",
       "label": "Volume II 8-5 Princess",
       "entries": [
         {
@@ -69488,7 +68862,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "1080061",
       "label": "Volume II 8-6 Maiden",
       "entries": [
         {
@@ -69599,7 +68972,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "1080062",
       "label": "Volume II 8-6 Princess",
       "entries": [
         {
@@ -69710,7 +69082,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "1080071",
       "label": "Volume II 8-7 Maiden",
       "entries": [
         {
@@ -69821,7 +69192,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "1080072",
       "label": "Volume II 8-7 Princess",
       "entries": [
         {
@@ -69932,7 +69302,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "1086011",
       "label": "Volume II 8-S1 Maiden",
       "entries": [
         {
@@ -70043,7 +69412,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "1086012",
       "label": "Volume II 8-S1 Princess",
       "entries": [
         {
@@ -70154,7 +69522,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "1086021",
       "label": "Volume II 8-S2 Maiden",
       "entries": [
         {
@@ -70265,7 +69632,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "1086022",
       "label": "Volume II 8-S2 Princess",
       "entries": [
         {
@@ -70376,7 +69742,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "1086031",
       "label": "Volume II 8-S3 Maiden",
       "entries": [
         {
@@ -70487,7 +69852,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "1086032",
       "label": "Volume II 8-S3 Princess",
       "entries": [
         {
@@ -70598,7 +69962,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "1090011",
       "label": "Volume II 9-1 Maiden",
       "entries": [
         {
@@ -70709,7 +70072,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "1090012",
       "label": "Volume II 9-1 Princess",
       "entries": [
         {
@@ -70820,7 +70182,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "1090021",
       "label": "Volume II 9-2 Maiden",
       "entries": [
         {
@@ -70931,7 +70292,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "1090022",
       "label": "Volume II 9-2 Princess",
       "entries": [
         {
@@ -71042,7 +70402,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "1090031",
       "label": "Volume II 9-3 Maiden",
       "entries": [
         {
@@ -71153,7 +70512,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "1090032",
       "label": "Volume II 9-3 Princess",
       "entries": [
         {
@@ -71264,7 +70622,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "1090041",
       "label": "Volume II 9-4 Maiden",
       "entries": [
         {
@@ -71375,7 +70732,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "1090042",
       "label": "Volume II 9-4 Princess",
       "entries": [
         {
@@ -71486,7 +70842,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "1090051",
       "label": "Volume II 9-5 Maiden",
       "entries": [
         {
@@ -71597,7 +70952,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "1090052",
       "label": "Volume II 9-5 Princess",
       "entries": [
         {
@@ -71708,7 +71062,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "1090061",
       "label": "Volume II 9-6 Maiden",
       "entries": [
         {
@@ -71819,7 +71172,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "1090062",
       "label": "Volume II 9-6 Princess",
       "entries": [
         {
@@ -71930,7 +71282,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "1090071",
       "label": "Volume II 9-7 Maiden",
       "entries": [
         {
@@ -72041,7 +71392,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "1090072",
       "label": "Volume II 9-7 Princess",
       "entries": [
         {
@@ -72152,7 +71502,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "1096011",
       "label": "Volume II 9-S1 Maiden",
       "entries": [
         {
@@ -72263,7 +71612,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "1096012",
       "label": "Volume II 9-S1 Princess",
       "entries": [
         {
@@ -72374,7 +71722,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "1096021",
       "label": "Volume II 9-S2 Maiden",
       "entries": [
         {
@@ -72485,7 +71832,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "1096022",
       "label": "Volume II 9-S2 Princess",
       "entries": [
         {
@@ -72596,7 +71942,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "1096031",
       "label": "Volume II 9-S3 Maiden",
       "entries": [
         {
@@ -72707,7 +72052,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "1096032",
       "label": "Volume II 9-S3 Princess",
       "entries": [
         {
@@ -72818,7 +72162,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "1100011",
       "label": "Volume II 10-1 Maiden",
       "entries": [
         {
@@ -72929,7 +72272,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "1100012",
       "label": "Volume II 10-1 Princess",
       "entries": [
         {
@@ -73040,7 +72382,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "1100021",
       "label": "Volume II 10-2 Maiden",
       "entries": [
         {
@@ -73151,7 +72492,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "1100022",
       "label": "Volume II 10-2 Princess",
       "entries": [
         {
@@ -73262,7 +72602,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "1100031",
       "label": "Volume II 10-3 Maiden",
       "entries": [
         {
@@ -73373,7 +72712,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "1100032",
       "label": "Volume II 10-3 Princess",
       "entries": [
         {
@@ -73484,7 +72822,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "1100041",
       "label": "Volume II 10-4 Maiden",
       "entries": [
         {
@@ -73595,7 +72932,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "1100042",
       "label": "Volume II 10-4 Princess",
       "entries": [
         {
@@ -73706,7 +73042,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "1100051",
       "label": "Volume II 10-5 Maiden",
       "entries": [
         {
@@ -73817,7 +73152,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "1100052",
       "label": "Volume II 10-5 Princess",
       "entries": [
         {
@@ -73928,7 +73262,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "1100061",
       "label": "Volume II 10-6 Maiden",
       "entries": [
         {
@@ -74039,7 +73372,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "1100062",
       "label": "Volume II 10-6 Princess",
       "entries": [
         {
@@ -74150,7 +73482,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "1100071",
       "label": "Volume II 10-7 Maiden",
       "entries": [
         {
@@ -74261,7 +73592,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "1100072",
       "label": "Volume II 10-7 Princess",
       "entries": [
         {
@@ -74372,7 +73702,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "1106011",
       "label": "Volume II 10-S1 Maiden",
       "entries": [
         {
@@ -74483,7 +73812,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "1106012",
       "label": "Volume II 10-S1 Princess",
       "entries": [
         {
@@ -74594,7 +73922,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "1106021",
       "label": "Volume II 10-S2 Maiden",
       "entries": [
         {
@@ -74705,7 +74032,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "1106022",
       "label": "Volume II 10-S2 Princess",
       "entries": [
         {
@@ -74816,7 +74142,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "1106031",
       "label": "Volume II 10-S3 Maiden",
       "entries": [
         {
@@ -74927,7 +74252,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "1106032",
       "label": "Volume II 10-S3 Princess",
       "entries": [
         {
@@ -75038,7 +74362,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "1110011",
       "label": "Volume II 11-1 Maiden",
       "entries": [
         {
@@ -75149,7 +74472,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "1110012",
       "label": "Volume II 11-1 Princess",
       "entries": [
         {
@@ -75260,7 +74582,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "1110021",
       "label": "Volume II 11-2 Maiden",
       "entries": [
         {
@@ -75371,7 +74692,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "1110022",
       "label": "Volume II 11-2 Princess",
       "entries": [
         {
@@ -75482,7 +74802,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "1110031",
       "label": "Volume II 11-3 Maiden",
       "entries": [
         {
@@ -75593,7 +74912,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "1110032",
       "label": "Volume II 11-3 Princess",
       "entries": [
         {
@@ -75704,7 +75022,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "1110041",
       "label": "Volume II 11-4 Maiden",
       "entries": [
         {
@@ -75815,7 +75132,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "1110042",
       "label": "Volume II 11-4 Princess",
       "entries": [
         {
@@ -75926,7 +75242,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "1110051",
       "label": "Volume II 11-5 Maiden",
       "entries": [
         {
@@ -76037,7 +75352,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "1110052",
       "label": "Volume II 11-5 Princess",
       "entries": [
         {
@@ -76148,7 +75462,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "1110061",
       "label": "Volume II 11-6 Maiden",
       "entries": [
         {
@@ -76259,7 +75572,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "1110062",
       "label": "Volume II 11-6 Princess",
       "entries": [
         {
@@ -76370,7 +75682,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "1110071",
       "label": "Volume II 11-7 Maiden",
       "entries": [
         {
@@ -76481,7 +75792,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "1110072",
       "label": "Volume II 11-7 Princess",
       "entries": [
         {
@@ -76592,7 +75902,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "1116011",
       "label": "Volume II 11-S1 Maiden",
       "entries": [
         {
@@ -76703,7 +76012,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "1116012",
       "label": "Volume II 11-S1 Princess",
       "entries": [
         {
@@ -76814,7 +76122,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "1116021",
       "label": "Volume II 11-S2 Maiden",
       "entries": [
         {
@@ -76925,7 +76232,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "1116022",
       "label": "Volume II 11-S2 Princess",
       "entries": [
         {
@@ -77036,7 +76342,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "1116031",
       "label": "Volume II 11-S3 Maiden",
       "entries": [
         {
@@ -77147,7 +76452,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "1116032",
       "label": "Volume II 11-S3 Princess",
       "entries": [
         {
@@ -77258,7 +76562,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "1120011",
       "label": "Volume II 12-1 Maiden",
       "entries": [
         {
@@ -77369,7 +76672,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "1120012",
       "label": "Volume II 12-1 Princess",
       "entries": [
         {
@@ -77480,7 +76782,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "1120021",
       "label": "Volume II 12-2 Maiden",
       "entries": [
         {
@@ -77591,7 +76892,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "1120022",
       "label": "Volume II 12-2 Princess",
       "entries": [
         {
@@ -77702,7 +77002,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "1120031",
       "label": "Volume II 12-3 Maiden",
       "entries": [
         {
@@ -77813,7 +77112,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "1120032",
       "label": "Volume II 12-3 Princess",
       "entries": [
         {
@@ -77924,7 +77222,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "1120041",
       "label": "Volume II 12-4 Maiden",
       "entries": [
         {
@@ -78035,7 +77332,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "1120042",
       "label": "Volume II 12-4 Princess",
       "entries": [
         {
@@ -78146,7 +77442,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "1120051",
       "label": "Volume II 12-5 Maiden",
       "entries": [
         {
@@ -78257,7 +77552,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "1120052",
       "label": "Volume II 12-5 Princess",
       "entries": [
         {
@@ -78368,7 +77662,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "1120061",
       "label": "Volume II 12-6 Maiden",
       "entries": [
         {
@@ -78479,7 +77772,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "1120062",
       "label": "Volume II 12-6 Princess",
       "entries": [
         {
@@ -78590,7 +77882,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "1120071",
       "label": "Volume II 12-7 Maiden",
       "entries": [
         {
@@ -78701,7 +77992,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "1120072",
       "label": "Volume II 12-7 Princess",
       "entries": [
         {
@@ -78812,7 +78102,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "1126011",
       "label": "Volume II 12-S1 Maiden",
       "entries": [
         {
@@ -78923,7 +78212,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "1126012",
       "label": "Volume II 12-S1 Princess",
       "entries": [
         {
@@ -79034,7 +78322,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "1126021",
       "label": "Volume II 12-S2 Maiden",
       "entries": [
         {
@@ -79145,7 +78432,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "1126022",
       "label": "Volume II 12-S2 Princess",
       "entries": [
         {
@@ -79256,7 +78542,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "1126031",
       "label": "Volume II 12-S3 Maiden",
       "entries": [
         {
@@ -79367,7 +78652,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "1126032",
       "label": "Volume II 12-S3 Princess",
       "entries": [
         {
@@ -79478,7 +78762,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "1130011",
       "label": "Volume II 13-1 Maiden",
       "entries": [
         {
@@ -79589,7 +78872,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "1130012",
       "label": "Volume II 13-1 Princess",
       "entries": [
         {
@@ -79700,7 +78982,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "1130021",
       "label": "Volume II 13-2 Maiden",
       "entries": [
         {
@@ -79811,7 +79092,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "1130022",
       "label": "Volume II 13-2 Princess",
       "entries": [
         {
@@ -79922,7 +79202,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "1130031",
       "label": "Volume II 13-3 Maiden",
       "entries": [
         {
@@ -80033,7 +79312,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "1130032",
       "label": "Volume II 13-3 Princess",
       "entries": [
         {
@@ -80144,7 +79422,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "1130041",
       "label": "Volume II 13-4 Maiden",
       "entries": [
         {
@@ -80255,7 +79532,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "1130042",
       "label": "Volume II 13-4 Princess",
       "entries": [
         {
@@ -80366,7 +79642,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "1130051",
       "label": "Volume II 13-5 Maiden",
       "entries": [
         {
@@ -80477,7 +79752,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "1130052",
       "label": "Volume II 13-5 Princess",
       "entries": [
         {
@@ -80588,7 +79862,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "1130061",
       "label": "Volume II 13-6 Maiden",
       "entries": [
         {
@@ -80699,7 +79972,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "1130062",
       "label": "Volume II 13-6 Princess",
       "entries": [
         {
@@ -80810,7 +80082,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "1130071",
       "label": "Volume II 13-7 Maiden",
       "entries": [
         {
@@ -80921,7 +80192,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "1130072",
       "label": "Volume II 13-7 Princess",
       "entries": [
         {
@@ -81032,7 +80302,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "1136011",
       "label": "Volume II 13-S1 Maiden",
       "entries": [
         {
@@ -81143,7 +80412,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "1136012",
       "label": "Volume II 13-S1 Princess",
       "entries": [
         {
@@ -81254,7 +80522,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "1136021",
       "label": "Volume II 13-S2 Maiden",
       "entries": [
         {
@@ -81365,7 +80632,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "1136022",
       "label": "Volume II 13-S2 Princess",
       "entries": [
         {
@@ -81476,7 +80742,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "1136031",
       "label": "Volume II 13-S3 Maiden",
       "entries": [
         {
@@ -81587,7 +80852,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "1136032",
       "label": "Volume II 13-S3 Princess",
       "entries": [
         {
@@ -81698,7 +80962,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "1140011",
       "label": "Volume II 14-1 Maiden",
       "entries": [
         {
@@ -81809,7 +81072,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "1140012",
       "label": "Volume II 14-1 Princess",
       "entries": [
         {
@@ -81920,7 +81182,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "1140021",
       "label": "Volume II 14-2 Maiden",
       "entries": [
         {
@@ -82031,7 +81292,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "1140022",
       "label": "Volume II 14-2 Princess",
       "entries": [
         {
@@ -82142,7 +81402,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "1140031",
       "label": "Volume II 14-3 Maiden",
       "entries": [
         {
@@ -82253,7 +81512,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "1140032",
       "label": "Volume II 14-3 Princess",
       "entries": [
         {
@@ -82364,7 +81622,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "1140041",
       "label": "Volume II 14-4 Maiden",
       "entries": [
         {
@@ -82475,7 +81732,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "1140042",
       "label": "Volume II 14-4 Princess",
       "entries": [
         {
@@ -82586,7 +81842,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "1140051",
       "label": "Volume II 14-5 Maiden",
       "entries": [
         {
@@ -82697,7 +81952,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "1140052",
       "label": "Volume II 14-5 Princess",
       "entries": [
         {
@@ -82808,7 +82062,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "1140061",
       "label": "Volume II 14-6 Maiden",
       "entries": [
         {
@@ -82919,7 +82172,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "1140062",
       "label": "Volume II 14-6 Princess",
       "entries": [
         {
@@ -83030,7 +82282,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "1140071",
       "label": "Volume II 14-7 Maiden",
       "entries": [
         {
@@ -83141,7 +82392,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "1140072",
       "label": "Volume II 14-7 Princess",
       "entries": [
         {
@@ -83252,7 +82502,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "1146011",
       "label": "Volume II 14-S1 Maiden",
       "entries": [
         {
@@ -83363,7 +82612,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "1146012",
       "label": "Volume II 14-S1 Princess",
       "entries": [
         {
@@ -83474,7 +82722,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "1146021",
       "label": "Volume II 14-S2 Maiden",
       "entries": [
         {
@@ -83585,7 +82832,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "1146022",
       "label": "Volume II 14-S2 Princess",
       "entries": [
         {
@@ -83696,7 +82942,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "1146031",
       "label": "Volume II 14-S3 Maiden",
       "entries": [
         {
@@ -83807,7 +83052,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "1146032",
       "label": "Volume II 14-S3 Princess",
       "entries": [
         {
@@ -83918,7 +83162,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "1150011",
       "label": "Volume II 15-1 Maiden",
       "entries": [
         {
@@ -84029,7 +83272,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "1150012",
       "label": "Volume II 15-1 Princess",
       "entries": [
         {
@@ -84140,7 +83382,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "1150021",
       "label": "Volume II 15-2 Maiden",
       "entries": [
         {
@@ -84251,7 +83492,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "1150022",
       "label": "Volume II 15-2 Princess",
       "entries": [
         {
@@ -84362,7 +83602,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "1150031",
       "label": "Volume II 15-3 Maiden",
       "entries": [
         {
@@ -84473,7 +83712,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "1150032",
       "label": "Volume II 15-3 Princess",
       "entries": [
         {
@@ -84584,7 +83822,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "1150041",
       "label": "Volume II 15-4 Maiden",
       "entries": [
         {
@@ -84695,7 +83932,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "1150042",
       "label": "Volume II 15-4 Princess",
       "entries": [
         {
@@ -84806,7 +84042,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "1150051",
       "label": "Volume II 15-5 Maiden",
       "entries": [
         {
@@ -84917,7 +84152,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "1150052",
       "label": "Volume II 15-5 Princess",
       "entries": [
         {
@@ -85028,7 +84262,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "1150061",
       "label": "Volume II 15-6 Maiden",
       "entries": [
         {
@@ -85139,7 +84372,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "1150062",
       "label": "Volume II 15-6 Princess",
       "entries": [
         {
@@ -85250,7 +84482,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "1150071",
       "label": "Volume II 15-7 Maiden",
       "entries": [
         {
@@ -85361,7 +84592,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "1150072",
       "label": "Volume II 15-7 Princess",
       "entries": [
         {
@@ -85472,7 +84702,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "1156011",
       "label": "Volume II 15-S1 Maiden",
       "entries": [
         {
@@ -85583,7 +84812,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "1156012",
       "label": "Volume II 15-S1 Princess",
       "entries": [
         {
@@ -85694,7 +84922,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "1156021",
       "label": "Volume II 15-S2 Maiden",
       "entries": [
         {
@@ -85805,7 +85032,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "1156022",
       "label": "Volume II 15-S2 Princess",
       "entries": [
         {
@@ -85916,7 +85142,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "1156031",
       "label": "Volume II 15-S3 Maiden",
       "entries": [
         {
@@ -86027,7 +85252,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "1156032",
       "label": "Volume II 15-S3 Princess",
       "entries": [
         {
@@ -86138,7 +85362,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "2010011",
       "label": "Volume III 1-1 Maiden",
       "entries": [
         {
@@ -86249,7 +85472,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "2010012",
       "label": "Volume III 1-1 Princess",
       "entries": [
         {
@@ -86360,7 +85582,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "2010021",
       "label": "Volume III 1-2 Maiden",
       "entries": [
         {
@@ -86471,7 +85692,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "2010022",
       "label": "Volume III 1-2 Princess",
       "entries": [
         {
@@ -86582,7 +85802,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "2010031",
       "label": "Volume III 1-3 Maiden",
       "entries": [
         {
@@ -86693,7 +85912,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "2010032",
       "label": "Volume III 1-3 Princess",
       "entries": [
         {
@@ -86804,7 +86022,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "2010041",
       "label": "Volume III 1-4 Maiden",
       "entries": [
         {
@@ -86915,7 +86132,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "2010042",
       "label": "Volume III 1-4 Princess",
       "entries": [
         {
@@ -87026,7 +86242,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "2010051",
       "label": "Volume III 1-5 Maiden",
       "entries": [
         {
@@ -87137,7 +86352,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "2010052",
       "label": "Volume III 1-5 Princess",
       "entries": [
         {
@@ -87248,7 +86462,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "2010061",
       "label": "Volume III 1-6 Maiden",
       "entries": [
         {
@@ -87359,7 +86572,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "2010062",
       "label": "Volume III 1-6 Princess",
       "entries": [
         {
@@ -87470,7 +86682,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "2010071",
       "label": "Volume III 1-7 Maiden",
       "entries": [
         {
@@ -87581,7 +86792,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "2010072",
       "label": "Volume III 1-7 Princess",
       "entries": [
         {
@@ -87692,7 +86902,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "2016011",
       "label": "Volume III 1-S1 Maiden",
       "entries": [
         {
@@ -87803,7 +87012,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "2016012",
       "label": "Volume III 1-S1 Princess",
       "entries": [
         {
@@ -87914,7 +87122,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "2016021",
       "label": "Volume III 1-S2 Maiden",
       "entries": [
         {
@@ -88025,7 +87232,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "2016022",
       "label": "Volume III 1-S2 Princess",
       "entries": [
         {
@@ -88136,7 +87342,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "2016031",
       "label": "Volume III 1-S3 Maiden",
       "entries": [
         {
@@ -88247,7 +87452,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "2016032",
       "label": "Volume III 1-S3 Princess",
       "entries": [
         {
@@ -88358,7 +87562,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "2020011",
       "label": "Volume III 2-1 Maiden",
       "entries": [
         {
@@ -88469,7 +87672,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "2020012",
       "label": "Volume III 2-1 Princess",
       "entries": [
         {
@@ -88580,7 +87782,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "2020021",
       "label": "Volume III 2-2 Maiden",
       "entries": [
         {
@@ -88691,7 +87892,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "2020022",
       "label": "Volume III 2-2 Princess",
       "entries": [
         {
@@ -88802,7 +88002,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "2020031",
       "label": "Volume III 2-3 Maiden",
       "entries": [
         {
@@ -88913,7 +88112,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "2020032",
       "label": "Volume III 2-3 Princess",
       "entries": [
         {
@@ -89024,7 +88222,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "2020041",
       "label": "Volume III 2-4 Maiden",
       "entries": [
         {
@@ -89135,7 +88332,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "2020042",
       "label": "Volume III 2-4 Princess",
       "entries": [
         {
@@ -89246,7 +88442,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "2020051",
       "label": "Volume III 2-5 Maiden",
       "entries": [
         {
@@ -89357,7 +88552,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "2020052",
       "label": "Volume III 2-5 Princess",
       "entries": [
         {
@@ -89468,7 +88662,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "2020061",
       "label": "Volume III 2-6 Maiden",
       "entries": [
         {
@@ -89579,7 +88772,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "2020062",
       "label": "Volume III 2-6 Princess",
       "entries": [
         {
@@ -89690,7 +88882,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "2020071",
       "label": "Volume III 2-7 Maiden",
       "entries": [
         {
@@ -89801,7 +88992,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "2020072",
       "label": "Volume III 2-7 Princess",
       "entries": [
         {
@@ -89912,7 +89102,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "2026011",
       "label": "Volume III 2-S1 Maiden",
       "entries": [
         {
@@ -90023,7 +89212,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "2026012",
       "label": "Volume III 2-S1 Princess",
       "entries": [
         {
@@ -90134,7 +89322,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "2026021",
       "label": "Volume III 2-S2 Maiden",
       "entries": [
         {
@@ -90245,7 +89432,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "2026022",
       "label": "Volume III 2-S2 Princess",
       "entries": [
         {
@@ -90356,7 +89542,6 @@
       "difficulty": "princess"
     },
     {
-      "task_id": "2026031",
       "label": "Volume III 2-S3 Maiden",
       "entries": [
         {
@@ -90467,7 +89652,6 @@
       "difficulty": "maiden"
     },
     {
-      "task_id": "2026032",
       "label": "Volume III 2-S3 Princess",
       "entries": [
         {
