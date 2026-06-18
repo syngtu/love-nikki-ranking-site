@@ -5,7 +5,7 @@ export function AboutView() {
                 <section className="about-section">
                     <h3 className="about-section-title">What is this site?</h3>
                     <div className="about-section-body">
-                        This site is a fan-made site showing a leaderboard for
+                        This is a fan-made site showing a leaderboard for
                         the story and commission rankings of the game Love
                         Nikki.
                     </div>
