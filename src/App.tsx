@@ -5,6 +5,7 @@ import {
   loadMeta,
   loadStages,
 } from "./data";
+import { AboutView } from "./components/AboutView";
 import { LeaderboardsView } from "./components/LeaderboardsView";
 import { StageRankingsView } from "./components/StageRankingsView";
 import type { LeaderboardsData, MetaData, Mode, StagesData, View } from "./types";
@@ -59,9 +60,15 @@ function App() {
         >
           Commission Stages
         </button>
+        <button
+          className={`tab ${mode === "about" ? "active" : ""}`}
+          onClick={() => setMode("about")}
+        >
+          About
+        </button>
       </nav>
 
-      <nav className="subtabs">
+      {mode !== "about" && <nav className="subtabs">
         <button
           className={`subtab ${view === "leaderboards" ? "active" : ""}`}
           onClick={() => setView("leaderboards")}
@@ -74,9 +81,11 @@ function App() {
         >
           Stage Rankings
         </button>
-      </nav>
+      </nav>}
 
-      {view === "leaderboards" ? (
+      {mode === "about" ? (
+        <AboutView />
+      ) : view === "leaderboards" ? (
         mode === "commission" ? (
           <div className="leaderboard-sections">
             <section className="leaderboard-section">

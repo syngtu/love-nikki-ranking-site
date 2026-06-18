@@ -50,7 +50,7 @@ export interface MetaData {
   last_updated: string;
 }
 
-export type Mode = "story" | "commission";
+export type Mode = "story" | "commission" | "about";
 export type View = "leaderboards" | "stages";
 
 export const LEADERBOARD_KEYS = [

@@ -438,6 +438,92 @@ button {
   margin: 0 0 1rem;
 }
 
+.about {
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+  overflow: hidden;
+}
+
+.about-header {
+  padding: 1.75rem 1.5rem 1.25rem;
+  background: var(--accent-light);
+  border-bottom: 1px solid var(--border);
+}
+
+.about-title {
+  font-size: 1.35rem;
+  font-weight: 700;
+  color: var(--accent-dark);
+  letter-spacing: -0.02em;
+}
+
+.about-lead {
+  margin-top: 0.5rem;
+  font-size: 0.95rem;
+  color: var(--text-muted);
+  line-height: 1.6;
+}
+
+.about-lead:empty {
+  display: none;
+}
+
+.about-sections {
+  display: flex;
+  flex-direction: column;
+}
+
+.about-section {
+  padding: 1.25rem 1.5rem;
+  border-bottom: 1px solid var(--border);
+}
+
+.about-section:last-child {
+  border-bottom: none;
+}
+
+.about-section-title {
+  font-size: 0.95rem;
+  font-weight: 700;
+  color: var(--accent-dark);
+  margin-bottom: 0.5rem;
+}
+
+.about-section-body {
+  font-size: 0.9rem;
+  color: var(--text);
+  line-height: 1.65;
+}
+
+.about-section-body:empty {
+  min-height: 1.65rem;
+}
+
+.about-section-body p + p {
+  margin-top: 0.75rem;
+}
+
+.about-section-body ul,
+.about-section-body ol {
+  margin-top: 0.5rem;
+  padding-left: 1.25rem;
+}
+
+.about-section-body li + li {
+  margin-top: 0.35rem;
+}
+
+.about-section-body a {
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+
+.about-section-body a:hover {
+  color: var(--accent);
+}
+
 @media (max-width: 640px) {
   .leaderboard-grid {
     grid-template-columns: 1fr;
