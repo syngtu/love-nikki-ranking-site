@@ -17,7 +17,7 @@
         {
           "rank": 3,
           "guild": "Unknown",
-          "value": 461
+          "value": 465
         },
         {
           "rank": 4,
@@ -27,7 +27,7 @@
         {
           "rank": 5,
           "guild": "HIGHGARDEN",
-          "value": 229
+          "value": 228
         },
         {
           "rank": 6,
@@ -47,7 +47,7 @@
         {
           "rank": 9,
           "guild": "Midnight Sky",
-          "value": 43
+          "value": 46
         },
         {
           "rank": 10,
@@ -97,7 +97,7 @@
         {
           "rank": 19,
           "guild": "\u591a\u4e91\u5c0f\u96e8",
-          "value": 12
+          "value": 11
         },
         {
           "rank": 20,
@@ -116,22 +116,22 @@
         },
         {
           "rank": 23,
-          "guild": "MomoFanciers",
-          "value": 9
-        },
-        {
-          "rank": 24,
           "guild": "PapoteMalot3",
           "value": 9
         },
         {
-          "rank": 25,
+          "rank": 24,
           "guild": "blossoms",
           "value": 9
         },
         {
-          "rank": 26,
+          "rank": 25,
           "guild": "Dreamy Queen",
+          "value": 8
+        },
+        {
+          "rank": 26,
+          "guild": "MomoFanciers",
           "value": 8
         },
         {
@@ -196,332 +196,332 @@
         },
         {
           "rank": 39,
-          "guild": "\u30e9\u30e0\u30cd",
-          "value": 5
-        },
-        {
-          "rank": 40,
           "guild": "Interce",
           "value": 4
         },
         {
-          "rank": 41,
+          "rank": 40,
           "guild": "Seamrialhy",
           "value": 4
         },
         {
-          "rank": 42,
+          "rank": 41,
           "guild": "Dragon Weyr",
           "value": 3
         },
         {
-          "rank": 43,
+          "rank": 42,
           "guild": "Ethereal",
           "value": 3
         },
         {
-          "rank": 44,
+          "rank": 43,
           "guild": "PapoteMalot2",
           "value": 3
         },
         {
-          "rank": 45,
+          "rank": 44,
           "guild": "Straw Hat",
           "value": 3
         },
         {
-          "rank": 46,
+          "rank": 45,
           "guild": "Vorpals",
           "value": 3
         },
         {
-          "rank": 47,
+          "rank": 46,
           "guild": "Wildflower",
           "value": 3
         },
         {
-          "rank": 48,
+          "rank": 47,
           "guild": "\u5f20\u5bb6\u754c",
           "value": 3
         },
         {
-          "rank": 49,
+          "rank": 48,
           "guild": "ANTHOS",
           "value": 2
         },
         {
-          "rank": 50,
+          "rank": 49,
           "guild": "Ashryver",
           "value": 2
         },
         {
-          "rank": 51,
+          "rank": 50,
           "guild": "Crystal",
           "value": 2
         },
         {
-          "rank": 52,
+          "rank": 51,
           "guild": "Dragons Lair",
           "value": 2
         },
         {
-          "rank": 53,
+          "rank": 52,
           "guild": "Dreamy Angel",
           "value": 2
         },
         {
-          "rank": 54,
+          "rank": 53,
           "guild": "Elysea",
           "value": 2
         },
         {
-          "rank": 55,
+          "rank": 54,
           "guild": "Faeryland",
           "value": 2
         },
         {
-          "rank": 56,
+          "rank": 55,
           "guild": "MiraRoseZ",
           "value": 2
         },
         {
-          "rank": 57,
+          "rank": 56,
           "guild": "STARburst",
           "value": 2
         },
         {
-          "rank": 58,
+          "rank": 57,
           "guild": "Sawle",
           "value": 2
         },
         {
-          "rank": 59,
+          "rank": 58,
           "guild": "Witch Hazel",
           "value": 2
         },
         {
-          "rank": 60,
+          "rank": 59,
           "guild": "Yaaas Queen",
           "value": 2
         },
         {
-          "rank": 61,
+          "rank": 60,
           "guild": "\u03b1q\u03c5\u03b5\u2113\u03b1rr\u03b5",
           "value": 2
         },
         {
-          "rank": 62,
+          "rank": 61,
           "guild": "ARTEMIS",
           "value": 1
         },
         {
-          "rank": 63,
+          "rank": 62,
           "guild": "BlackHawk",
           "value": 1
         },
         {
-          "rank": 64,
+          "rank": 63,
           "guild": "Coconuts",
           "value": 1
         },
         {
-          "rank": 65,
+          "rank": 64,
           "guild": "CubbyNeko",
           "value": 1
         },
         {
-          "rank": 66,
+          "rank": 65,
           "guild": "DEVOID",
           "value": 1
         },
         {
-          "rank": 67,
+          "rank": 66,
           "guild": "Dragonfell",
           "value": 1
         },
         {
-          "rank": 68,
+          "rank": 67,
           "guild": "DragonsLayer",
           "value": 1
         },
         {
-          "rank": 69,
+          "rank": 68,
           "guild": "EL Kingdom 2",
           "value": 1
         },
         {
-          "rank": 70,
+          "rank": 69,
           "guild": "EvilKitties",
           "value": 1
         },
         {
-          "rank": 71,
+          "rank": 70,
           "guild": "Gear5Momo",
           "value": 1
         },
         {
-          "rank": 72,
+          "rank": 71,
           "guild": "HAPPINESS 2",
           "value": 1
         },
         {
-          "rank": 73,
+          "rank": 72,
           "guild": "H\u026a\u0262\u029cB\u029f\u1d0fss\u1d0f\u1d0d",
           "value": 1
         },
         {
-          "rank": 74,
+          "rank": 73,
           "guild": "Idfc",
           "value": 1
         },
         {
-          "rank": 75,
+          "rank": 74,
           "guild": "LOVELYNIKKI",
           "value": 1
         },
         {
-          "rank": 76,
+          "rank": 75,
           "guild": "LittleMoon",
           "value": 1
         },
         {
-          "rank": 77,
+          "rank": 76,
           "guild": "Lunar",
           "value": 1
         },
         {
-          "rank": 78,
+          "rank": 77,
           "guild": "MAJESTICS",
           "value": 1
         },
         {
-          "rank": 79,
+          "rank": 78,
           "guild": "Magic Style",
           "value": 1
         },
         {
-          "rank": 80,
+          "rank": 79,
           "guild": "Maid Latt\u00e9",
           "value": 1
         },
         {
-          "rank": 81,
+          "rank": 80,
           "guild": "MelonPan",
           "value": 1
         },
         {
-          "rank": 82,
+          "rank": 81,
           "guild": "OctoNoodle",
           "value": 1
         },
         {
-          "rank": 83,
+          "rank": 82,
           "guild": "OrionNebula",
           "value": 1
         },
         {
-          "rank": 84,
+          "rank": 83,
           "guild": "PATD",
           "value": 1
         },
         {
-          "rank": 85,
+          "rank": 84,
           "guild": "Queens Isle",
           "value": 1
         },
         {
-          "rank": 86,
+          "rank": 85,
           "guild": "Red Dynasty",
           "value": 1
         },
         {
-          "rank": 87,
+          "rank": 86,
           "guild": "Royal Beauty",
           "value": 1
         },
         {
-          "rank": 88,
+          "rank": 87,
           "guild": "Secret Magic",
           "value": 1
         },
         {
-          "rank": 89,
+          "rank": 88,
           "guild": "Sky Wing",
           "value": 1
         },
         {
-          "rank": 90,
+          "rank": 89,
           "guild": "SkyNinja",
           "value": 1
         },
         {
-          "rank": 91,
+          "rank": 90,
           "guild": "SquirtyGuns",
           "value": 1
         },
         {
-          "rank": 92,
+          "rank": 91,
           "guild": "Star Seers",
           "value": 1
         },
         {
-          "rank": 93,
+          "rank": 92,
           "guild": "Stargazers\u671b\u661f",
           "value": 1
         },
         {
-          "rank": 94,
+          "rank": 93,
           "guild": "StyIe",
           "value": 1
         },
         {
-          "rank": 95,
+          "rank": 94,
           "guild": "SummerBreeze",
           "value": 1
         },
         {
-          "rank": 96,
+          "rank": 95,
           "guild": "SweetTamago",
           "value": 1
         },
         {
-          "rank": 97,
+          "rank": 96,
           "guild": "Unicornzz",
           "value": 1
         },
         {
-          "rank": 98,
+          "rank": 97,
           "guild": "Untouchables",
           "value": 1
         },
         {
-          "rank": 99,
+          "rank": 98,
           "guild": "Valyriashore",
           "value": 1
         },
         {
-          "rank": 100,
+          "rank": 99,
           "guild": "Waterfall",
           "value": 1
         },
         {
-          "rank": 101,
+          "rank": 100,
           "guild": "meal",
           "value": 1
         },
         {
-          "rank": 102,
+          "rank": 101,
           "guild": "sel lili",
           "value": 1
         },
         {
-          "rank": 103,
+          "rank": 102,
           "guild": "shapeshifter",
           "value": 1
         },
         {
-          "rank": 104,
+          "rank": 103,
           "guild": "trinity",
+          "value": 1
+        },
+        {
+          "rank": 104,
+          "guild": "\u30e9\u30e0\u30cd",
           "value": 1
         }
       ]
@@ -542,7 +542,7 @@
         {
           "rank": 3,
           "guild": "Unknown",
-          "value": 189
+          "value": 190
         },
         {
           "rank": 4,
@@ -566,13 +566,13 @@
         },
         {
           "rank": 8,
-          "guild": "et\u00ebrnal",
-          "value": 18
+          "guild": "Midnight Sky",
+          "value": 19
         },
         {
           "rank": 9,
-          "guild": "Midnight Sky",
-          "value": 17
+          "guild": "et\u00ebrnal",
+          "value": 18
         },
         {
           "rank": 10,
@@ -651,126 +651,116 @@
         },
         {
           "rank": 25,
-          "guild": "\u30e9\u30e0\u30cd",
-          "value": 2
-        },
-        {
-          "rank": 26,
           "guild": "Bunny Beans",
           "value": 1
         },
         {
-          "rank": 27,
+          "rank": 26,
           "guild": "Dragon Weyr",
           "value": 1
         },
         {
-          "rank": 28,
+          "rank": 27,
           "guild": "Dragons Lair",
           "value": 1
         },
         {
-          "rank": 29,
+          "rank": 28,
           "guild": "Dreamy Queen",
           "value": 1
         },
         {
-          "rank": 30,
+          "rank": 29,
           "guild": "EL Kingdom",
           "value": 1
         },
         {
-          "rank": 31,
+          "rank": 30,
           "guild": "Elysea",
           "value": 1
         },
         {
-          "rank": 32,
+          "rank": 31,
           "guild": "GenAtomics",
           "value": 1
         },
         {
-          "rank": 33,
+          "rank": 32,
           "guild": "HAPPINESS 2",
           "value": 1
         },
         {
-          "rank": 34,
-          "guild": "LOVELYNIKKI",
-          "value": 1
-        },
-        {
-          "rank": 35,
+          "rank": 33,
           "guild": "Mosaic",
           "value": 1
         },
         {
-          "rank": 36,
+          "rank": 34,
           "guild": "PapoteMalot2",
           "value": 1
         },
         {
-          "rank": 37,
+          "rank": 35,
           "guild": "PapoteMalot3",
           "value": 1
         },
         {
-          "rank": 38,
+          "rank": 36,
           "guild": "Queens Isle",
           "value": 1
         },
         {
-          "rank": 39,
+          "rank": 37,
           "guild": "Royal Beauty",
           "value": 1
         },
         {
-          "rank": 40,
+          "rank": 38,
           "guild": "RuinedWaffle",
           "value": 1
         },
         {
-          "rank": 41,
+          "rank": 39,
           "guild": "Sawle",
           "value": 1
         },
         {
-          "rank": 42,
+          "rank": 40,
           "guild": "Seamrialhy",
           "value": 1
         },
         {
-          "rank": 43,
+          "rank": 41,
           "guild": "Serenity",
           "value": 1
         },
         {
-          "rank": 44,
+          "rank": 42,
           "guild": "Straw Hat",
           "value": 1
         },
         {
-          "rank": 45,
+          "rank": 43,
           "guild": "Waterfall",
           "value": 1
         },
         {
-          "rank": 46,
+          "rank": 44,
           "guild": "Wildflower",
           "value": 1
         },
         {
-          "rank": 47,
+          "rank": 45,
           "guild": "astrokiwi",
           "value": 1
         },
         {
-          "rank": 48,
+          "rank": 46,
           "guild": "blossoms",
           "value": 1
         },
         {
-          "rank": 49,
+          "rank": 47,
           "guild": "meal",
           "value": 1
         }
@@ -797,7 +787,7 @@
         {
           "rank": 4,
           "guild": "Unknown",
-          "value": 72
+          "value": 73
         },
         {
           "rank": 5,
@@ -878,11 +868,6 @@
           "rank": 20,
           "guild": "et\u00ebrnal",
           "value": 1
-        },
-        {
-          "rank": 21,
-          "guild": "\u30e9\u30e0\u30cd",
-          "value": 1
         }
       ]
     },
@@ -942,17 +927,17 @@
         {
           "rank": 3,
           "guild": "Unknown",
-          "value": 61667237
+          "value": 62221962
         },
         {
           "rank": 4,
-          "guild": "HIGHGARDEN",
-          "value": 31376953
+          "guild": "Capital",
+          "value": 31365887
         },
         {
           "rank": 5,
-          "guild": "Capital",
-          "value": 31365887
+          "guild": "HIGHGARDEN",
+          "value": 31256574
         },
         {
           "rank": 6,
@@ -972,7 +957,7 @@
         {
           "rank": 9,
           "guild": "Midnight Sky",
-          "value": 5695723
+          "value": 6089867
         },
         {
           "rank": 10,
@@ -1021,13 +1006,13 @@
         },
         {
           "rank": 19,
-          "guild": "\u591a\u4e91\u5c0f\u96e8",
-          "value": 1533164
+          "guild": "Nova Nexa",
+          "value": 1518030
         },
         {
           "rank": 20,
-          "guild": "Nova Nexa",
-          "value": 1518030
+          "guild": "\u591a\u4e91\u5c0f\u96e8",
+          "value": 1426402
         },
         {
           "rank": 21,
@@ -1046,23 +1031,23 @@
         },
         {
           "rank": 24,
-          "guild": "MomoFanciers",
-          "value": 1169732
-        },
-        {
-          "rank": 25,
           "guild": "blossoms",
           "value": 1155054
         },
         {
-          "rank": 26,
+          "rank": 25,
           "guild": "RuinedWaffle",
           "value": 1091493
         },
         {
-          "rank": 27,
+          "rank": 26,
           "guild": "Dreamy Queen",
           "value": 1082947
+        },
+        {
+          "rank": 27,
+          "guild": "MomoFanciers",
+          "value": 1016835
         },
         {
           "rank": 28,
@@ -1087,7 +1072,7 @@
         {
           "rank": 32,
           "guild": "Angel Stars",
-          "value": 928383
+          "value": 929989
         },
         {
           "rank": 33,
@@ -1106,138 +1091,138 @@
         },
         {
           "rank": 36,
-          "guild": "\u30e9\u30e0\u30cd",
-          "value": 718371
-        },
-        {
-          "rank": 37,
           "guild": "Stardust",
           "value": 709967
         },
         {
-          "rank": 38,
+          "rank": 37,
           "guild": "GenAtomics",
           "value": 709240
         },
         {
-          "rank": 39,
+          "rank": 38,
           "guild": "ZEPHYR",
           "value": 657300
         },
         {
-          "rank": 40,
+          "rank": 39,
           "guild": "Seamrialhy",
           "value": 561374
         },
         {
-          "rank": 41,
+          "rank": 40,
           "guild": "Interce",
           "value": 547590
         },
         {
-          "rank": 42,
+          "rank": 41,
           "guild": "Wildflower",
           "value": 475340
         },
         {
-          "rank": 43,
+          "rank": 42,
           "guild": "Vorpals",
           "value": 427379
         },
         {
-          "rank": 44,
+          "rank": 43,
           "guild": "Ethereal",
           "value": 423021
         },
         {
-          "rank": 45,
+          "rank": 44,
           "guild": "PapoteMalot2",
           "value": 413900
         },
         {
-          "rank": 46,
+          "rank": 45,
           "guild": "\u5f20\u5bb6\u754c",
           "value": 408812
         },
         {
-          "rank": 47,
+          "rank": 46,
           "guild": "Straw Hat",
           "value": 403571
         },
         {
-          "rank": 48,
+          "rank": 47,
           "guild": "Dragon Weyr",
           "value": 356112
         },
         {
-          "rank": 49,
+          "rank": 48,
           "guild": "Ashryver",
           "value": 313642
         },
         {
-          "rank": 50,
+          "rank": 49,
           "guild": "Faeryland",
           "value": 307404
         },
         {
-          "rank": 51,
+          "rank": 50,
           "guild": "Dreamy Angel",
           "value": 300018
         },
         {
-          "rank": 52,
+          "rank": 51,
           "guild": "Elysea",
           "value": 289696
         },
         {
-          "rank": 53,
+          "rank": 52,
           "guild": "ANTHOS",
           "value": 287407
         },
         {
-          "rank": 54,
+          "rank": 53,
           "guild": "\u03b1q\u03c5\u03b5\u2113\u03b1rr\u03b5",
           "value": 271312
         },
         {
-          "rank": 55,
+          "rank": 54,
           "guild": "STARburst",
           "value": 271218
         },
         {
-          "rank": 56,
+          "rank": 55,
           "guild": "Witch Hazel",
           "value": 266635
         },
         {
-          "rank": 57,
+          "rank": 56,
           "guild": "Dragons Lair",
           "value": 250821
         },
         {
-          "rank": 58,
+          "rank": 57,
           "guild": "Sawle",
           "value": 246492
         },
         {
-          "rank": 59,
+          "rank": 58,
           "guild": "Yaaas Queen",
           "value": 245171
         },
         {
-          "rank": 60,
+          "rank": 59,
           "guild": "MiraRoseZ",
           "value": 243452
         },
         {
-          "rank": 61,
+          "rank": 60,
           "guild": "Crystal",
           "value": 233691
         },
         {
-          "rank": 62,
+          "rank": 61,
           "guild": "DragonsLayer",
           "value": 167630
+        },
+        {
+          "rank": 62,
+          "guild": "\u30e9\u30e0\u30cd",
+          "value": 163646
         },
         {
           "rank": 63,
@@ -1457,37 +1442,37 @@
         {
           "rank": 1,
           "guild": "Welton Glade",
-          "value": 7821
+          "value": 7818
         },
         {
           "rank": 2,
           "guild": "69",
-          "value": 6373
+          "value": 6368
         },
         {
           "rank": 3,
           "guild": "Unknown",
-          "value": 4171
+          "value": 4200
         },
         {
           "rank": 4,
           "guild": "HIGHGARDEN",
-          "value": 3180
+          "value": 3178
         },
         {
           "rank": 5,
           "guild": "Capital",
-          "value": 1766
+          "value": 1761
         },
         {
           "rank": 6,
           "guild": "H\u026a\u0262\u029cF\u1d0f\u0280\u1d07s\u1d1b",
-          "value": 1343
+          "value": 1342
         },
         {
           "rank": 7,
           "guild": "Smokethorn",
-          "value": 614
+          "value": 611
         },
         {
           "rank": 8,
@@ -1496,13 +1481,13 @@
         },
         {
           "rank": 9,
-          "guild": "Crow Police",
-          "value": 360
+          "guild": "Midnight Sky",
+          "value": 386
         },
         {
           "rank": 10,
-          "guild": "Midnight Sky",
-          "value": 354
+          "guild": "Crow Police",
+          "value": 360
         },
         {
           "rank": 11,
@@ -1552,7 +1537,7 @@
         {
           "rank": 20,
           "guild": "MomoFanciers",
-          "value": 65
+          "value": 64
         },
         {
           "rank": 21,
@@ -1591,73 +1576,73 @@
         },
         {
           "rank": 28,
-          "guild": "\u30e9\u30e0\u30cd",
-          "value": 47
-        },
-        {
-          "rank": 29,
           "guild": "Dreamy Queen",
           "value": 46
         },
         {
-          "rank": 30,
+          "rank": 29,
           "guild": "Mosaic",
           "value": 43
         },
         {
-          "rank": 31,
+          "rank": 30,
           "guild": "Serenity",
           "value": 43
         },
         {
-          "rank": 32,
+          "rank": 31,
           "guild": "EL Kingdom",
           "value": 39
         },
         {
-          "rank": 33,
+          "rank": 32,
           "guild": "astrokiwi",
           "value": 36
         },
         {
-          "rank": 34,
+          "rank": 33,
           "guild": "GenAtomics",
           "value": 33
         },
         {
-          "rank": 35,
-          "guild": "\u591a\u4e91\u5c0f\u96e8",
-          "value": 33
-        },
-        {
-          "rank": 36,
+          "rank": 34,
           "guild": "Ad Meliora",
           "value": 32
         },
         {
-          "rank": 37,
+          "rank": 35,
+          "guild": "\u591a\u4e91\u5c0f\u96e8",
+          "value": 32
+        },
+        {
+          "rank": 36,
           "guild": "Ethereal",
           "value": 31
         },
         {
-          "rank": 38,
+          "rank": 37,
           "guild": "Area51",
           "value": 28
         },
         {
-          "rank": 39,
+          "rank": 38,
           "guild": "Wildflower",
           "value": 27
         },
         {
-          "rank": 40,
+          "rank": 39,
           "guild": "Seamrialhy",
           "value": 25
         },
         {
+          "rank": 40,
+          "guild": "Angel Stars",
+          "value": 24
+        },
+        {
           "rank": 41,
           "guild": "Dragon Weyr",
-          "value": 24
+          "value": 23
         },
         {
           "rank": 42,
@@ -1666,142 +1651,142 @@
         },
         {
           "rank": 43,
-          "guild": "Angel Stars",
-          "value": 22
-        },
-        {
-          "rank": 44,
           "guild": "Dragons Lair",
           "value": 20
         },
         {
-          "rank": 45,
+          "rank": 44,
           "guild": "Elysea",
           "value": 20
         },
         {
-          "rank": 46,
+          "rank": 45,
           "guild": "Queens Isle",
           "value": 20
         },
         {
-          "rank": 47,
+          "rank": 46,
           "guild": "ZEPHYR",
           "value": 18
         },
         {
-          "rank": 48,
+          "rank": 47,
           "guild": "PapoteMalot2",
           "value": 17
         },
         {
-          "rank": 49,
+          "rank": 48,
           "guild": "Crystal",
           "value": 16
         },
         {
-          "rank": 50,
+          "rank": 49,
           "guild": "Sawle",
           "value": 16
         },
         {
-          "rank": 51,
+          "rank": 50,
           "guild": "\u5f20\u5bb6\u754c",
           "value": 16
         },
         {
-          "rank": 52,
+          "rank": 51,
           "guild": "HAPPINESS 2",
           "value": 15
         },
         {
-          "rank": 53,
+          "rank": 52,
           "guild": "meal",
           "value": 15
         },
         {
-          "rank": 54,
+          "rank": 53,
           "guild": "Waterfall",
           "value": 14
         },
         {
-          "rank": 55,
+          "rank": 54,
           "guild": "Yaaas Queen",
           "value": 14
         },
         {
-          "rank": 56,
+          "rank": 55,
           "guild": "Ashryver",
           "value": 13
         },
         {
-          "rank": 57,
+          "rank": 56,
           "guild": "Dreamy Angel",
           "value": 13
         },
         {
-          "rank": 58,
+          "rank": 57,
           "guild": "Royal Beauty",
           "value": 13
         },
         {
-          "rank": 59,
+          "rank": 58,
           "guild": "Vorpals",
           "value": 12
         },
         {
-          "rank": 60,
+          "rank": 59,
           "guild": "Interce",
           "value": 11
         },
         {
-          "rank": 61,
-          "guild": "LOVELYNIKKI",
-          "value": 11
-        },
-        {
-          "rank": 62,
+          "rank": 60,
           "guild": "ANTHOS",
           "value": 10
         },
         {
-          "rank": 63,
+          "rank": 61,
+          "guild": "LOVELYNIKKI",
+          "value": 10
+        },
+        {
+          "rank": 62,
           "guild": "Witch Hazel",
           "value": 10
         },
         {
-          "rank": 64,
+          "rank": 63,
           "guild": "BlackHawk",
           "value": 9
         },
         {
-          "rank": 65,
+          "rank": 64,
           "guild": "DragonsLayer",
           "value": 9
         },
         {
-          "rank": 66,
+          "rank": 65,
           "guild": "Idfc",
           "value": 9
         },
         {
-          "rank": 67,
+          "rank": 66,
           "guild": "OrionNebula",
           "value": 9
         },
         {
-          "rank": 68,
+          "rank": 67,
           "guild": "SweetTamago",
           "value": 9
         },
         {
-          "rank": 69,
+          "rank": 68,
           "guild": "Coconuts",
           "value": 7
         },
         {
-          "rank": 70,
+          "rank": 69,
           "guild": "shapeshifter",
+          "value": 7
+        },
+        {
+          "rank": 70,
+          "guild": "\u30e9\u30e0\u30cd",
           "value": 7
         },
         {
