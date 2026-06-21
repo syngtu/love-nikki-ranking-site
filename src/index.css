@@ -311,7 +311,7 @@ button {
   max-width: 280px;
 }
 
-.player-name {
+.stage-table .player-name {
   white-space: pre;
 }
 
