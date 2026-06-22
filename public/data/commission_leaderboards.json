@@ -228,33 +228,33 @@
         },
         {
           "rank": 38,
+          "name": "Melody",
+          "value": 11,
+          "guild": "XoXo"
+        },
+        {
+          "rank": 39,
           "name": "ch\u03b1i",
           "value": 11,
           "guild": "Rivulet"
         },
         {
-          "rank": 39,
+          "rank": 40,
           "name": "Indigo",
           "value": 10,
           "guild": "Bunny Beans"
         },
         {
-          "rank": 40,
+          "rank": 41,
           "name": "Lucy101",
           "value": 10,
           "guild": "Andorinhas"
         },
         {
-          "rank": 41,
+          "rank": 42,
           "name": "L\u03c5\u03b7\u03b1",
           "value": 10,
           "guild": "\u591a\u4e91\u5c0f\u96e8"
-        },
-        {
-          "rank": 42,
-          "name": "Melody",
-          "value": 10,
-          "guild": "XoXo"
         },
         {
           "rank": 43,
@@ -396,75 +396,75 @@
         },
         {
           "rank": 66,
-          "name": "\u1d0diss\u1d07mmy\u0280oo",
-          "value": 5,
-          "guild": "astrokiwi"
-        },
-        {
-          "rank": 67,
           "name": "\u51cc\u7f8e\u96ea",
           "value": 5,
           "guild": "Angel Stars"
         },
         {
-          "rank": 68,
+          "rank": 67,
           "name": "Elli Miku",
           "value": 4,
           "guild": "blossoms"
         },
         {
-          "rank": 69,
+          "rank": 68,
           "name": "Ellie Han",
           "value": 4,
           "guild": "Rivulet"
         },
         {
-          "rank": 70,
+          "rank": 69,
           "name": "Nai",
           "value": 4,
           "guild": ""
         },
         {
-          "rank": 71,
+          "rank": 70,
           "name": "PeachyFreak",
           "value": 4,
           "guild": "RuinedWaffle"
         },
         {
-          "rank": 72,
+          "rank": 71,
           "name": "Randomized",
           "value": 4,
           "guild": ""
         },
         {
-          "rank": 73,
+          "rank": 72,
           "name": "Saccha Cere",
           "value": 4,
           "guild": ""
         },
         {
-          "rank": 74,
+          "rank": 73,
           "name": "Sallie Rana",
           "value": 4,
           "guild": ""
         },
         {
-          "rank": 75,
+          "rank": 74,
           "name": "Yunyu",
           "value": 4,
           "guild": ""
         },
         {
-          "rank": 76,
+          "rank": 75,
           "name": "semireese",
           "value": 4,
           "guild": "Firesiders"
         },
         {
-          "rank": 77,
+          "rank": 76,
           "name": "yirouda",
           "value": 4,
           "guild": ""
+        },
+        {
+          "rank": 77,
+          "name": "\u1d0diss\u1d07mmy\u0280oo",
+          "value": 4,
+          "guild": "astrokiwi"
         },
         {
           "rank": 78,
@@ -2498,21 +2498,21 @@
         },
         {
           "rank": 36,
+          "name": "Melody",
+          "value": 1657968,
+          "guild": "XoXo"
+        },
+        {
+          "rank": 37,
           "name": "Alluka",
           "value": 1649386,
           "guild": "HAL"
         },
         {
-          "rank": 37,
+          "rank": 38,
           "name": "Jinie Bell",
           "value": 1596668,
           "guild": "Shadowmere"
-        },
-        {
-          "rank": 38,
-          "name": "Melody",
-          "value": 1501443,
-          "guild": "XoXo"
         },
         {
           "rank": 39,
@@ -2666,33 +2666,33 @@
         },
         {
           "rank": 64,
-          "name": "\u1d0diss\u1d07mmy\u0280oo",
-          "value": 725733,
-          "guild": "astrokiwi"
-        },
-        {
-          "rank": 65,
           "name": "Lyra Talise",
           "value": 683454,
           "guild": "Smokethorn"
         },
         {
-          "rank": 66,
+          "rank": 65,
           "name": "Kennyyyyy",
           "value": 657300,
           "guild": "ZEPHYR"
         },
         {
-          "rank": 67,
+          "rank": 66,
           "name": "Tegan",
           "value": 646393,
           "guild": ""
         },
         {
-          "rank": 68,
+          "rank": 67,
           "name": "Yunyu",
           "value": 620208,
           "guild": ""
+        },
+        {
+          "rank": 68,
+          "name": "\u1d0diss\u1d07mmy\u0280oo",
+          "value": 569476,
+          "guild": "astrokiwi"
         },
         {
           "rank": 69,
@@ -3920,7 +3920,7 @@
         {
           "rank": 30,
           "name": "Sazana",
-          "value": 120,
+          "value": 119,
           "guild": "White Wings"
         },
         {
@@ -3962,26 +3962,26 @@
         {
           "rank": 37,
           "name": "Mika",
-          "value": 73,
+          "value": 72,
           "guild": ""
         },
         {
           "rank": 38,
+          "name": "Melody",
+          "value": 67,
+          "guild": "XoXo"
+        },
+        {
+          "rank": 39,
           "name": "Mr Lance\u2113ot",
           "value": 67,
           "guild": "Welton Glade"
         },
         {
-          "rank": 39,
+          "rank": 40,
           "name": "Astr\u00e6a",
           "value": 64,
           "guild": "MomoFanciers"
-        },
-        {
-          "rank": 40,
-          "name": "Melody",
-          "value": 64,
-          "guild": "XoXo"
         },
         {
           "rank": 41,
@@ -4081,15 +4081,15 @@
         },
         {
           "rank": 57,
-          "name": "\u1d0diss\u1d07mmy\u0280oo",
-          "value": 36,
-          "guild": "astrokiwi"
-        },
-        {
-          "rank": 58,
           "name": "Popek",
           "value": 35,
           "guild": "Nova Nexa"
+        },
+        {
+          "rank": 58,
+          "name": "\u1d0diss\u1d07mmy\u0280oo",
+          "value": 35,
+          "guild": "astrokiwi"
         },
         {
           "rank": 59,
