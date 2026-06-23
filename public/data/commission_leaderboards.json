@@ -36,7 +36,7 @@
         },
         {
           "rank": 6,
-          "name": "boiledeggs",
+          "name": "TunaSandwich",
           "value": 127,
           "guild": "69"
         },
@@ -1505,7 +1505,7 @@
         },
         {
           "rank": 8,
-          "name": "boiledeggs",
+          "name": "TunaSandwich",
           "value": 77,
           "guild": "69"
         },
@@ -2032,7 +2032,7 @@
         },
         {
           "rank": 8,
-          "name": "boiledeggs",
+          "name": "TunaSandwich",
           "value": 29,
           "guild": "69"
         },
@@ -2277,7 +2277,7 @@
         },
         {
           "rank": 13,
-          "name": "boiledeggs",
+          "name": "TunaSandwich",
           "value": 1,
           "guild": "69"
         }
@@ -2318,7 +2318,7 @@
         },
         {
           "rank": 6,
-          "name": "boiledeggs",
+          "name": "TunaSandwich",
           "value": 17115890,
           "guild": "69"
         },
@@ -2637,7 +2637,7 @@
         {
           "rank": 59,
           "name": "\u51cc\u7f8e\u96ea",
-          "value": 809243,
+          "value": 810174,
           "guild": "Angel Stars"
         },
         {
@@ -3752,7 +3752,7 @@
         {
           "rank": 2,
           "name": "Athena",
-          "value": 2376,
+          "value": 2375,
           "guild": "Welton Glade"
         },
         {
@@ -3781,7 +3781,7 @@
         },
         {
           "rank": 7,
-          "name": "boiledeggs",
+          "name": "TunaSandwich",
           "value": 1490,
           "guild": "69"
         },
@@ -4165,21 +4165,21 @@
         },
         {
           "rank": 71,
+          "name": "\u51cc\u7f8e\u96ea",
+          "value": 23,
+          "guild": "Angel Stars"
+        },
+        {
+          "rank": 72,
           "name": "Eigencat",
           "value": 22,
           "guild": ""
         },
         {
-          "rank": 72,
+          "rank": 73,
           "name": "Sallie Rana",
           "value": 22,
           "guild": ""
-        },
-        {
-          "rank": 73,
-          "name": "\u51cc\u7f8e\u96ea",
-          "value": 22,
-          "guild": "Angel Stars"
         },
         {
           "rank": 74,
