@@ -532,7 +532,7 @@
         {
           "rank": 1,
           "guild": "Welton Glade",
-          "value": 391
+          "value": 392
         },
         {
           "rank": 2,
@@ -542,7 +542,7 @@
         {
           "rank": 3,
           "guild": "Unknown",
-          "value": 190
+          "value": 189
         },
         {
           "rank": 4,
@@ -877,7 +877,7 @@
         {
           "rank": 1,
           "guild": "Welton Glade",
-          "value": 78
+          "value": 77
         },
         {
           "rank": 2,
@@ -892,7 +892,7 @@
         {
           "rank": 4,
           "guild": "H\u026a\u0262\u029cF\u1d0f\u0280\u1d07s\u1d1b",
-          "value": 7
+          "value": 8
         },
         {
           "rank": 5,
@@ -917,7 +917,7 @@
         {
           "rank": 1,
           "guild": "Welton Glade",
-          "value": 84345400
+          "value": 84349406
         },
         {
           "rank": 2,
@@ -947,7 +947,7 @@
         {
           "rank": 7,
           "guild": "H\u026a\u0262\u029cF\u1d0f\u0280\u1d07s\u1d1b",
-          "value": 13552354
+          "value": 13565515
         },
         {
           "rank": 8,
@@ -1067,7 +1067,7 @@
         {
           "rank": 31,
           "guild": "Angel Stars",
-          "value": 930920
+          "value": 931494
         },
         {
           "rank": 32,
@@ -1442,7 +1442,7 @@
         {
           "rank": 1,
           "guild": "Welton Glade",
-          "value": 7817
+          "value": 7827
         },
         {
           "rank": 2,
@@ -1452,27 +1452,27 @@
         {
           "rank": 3,
           "guild": "Unknown",
-          "value": 4199
+          "value": 4196
         },
         {
           "rank": 4,
           "guild": "HIGHGARDEN",
-          "value": 3178
+          "value": 3174
         },
         {
           "rank": 5,
           "guild": "Capital",
-          "value": 1761
+          "value": 1758
         },
         {
           "rank": 6,
           "guild": "H\u026a\u0262\u029cF\u1d0f\u0280\u1d07s\u1d1b",
-          "value": 1342
+          "value": 1344
         },
         {
           "rank": 7,
           "guild": "Smokethorn",
-          "value": 611
+          "value": 610
         },
         {
           "rank": 8,
@@ -1482,7 +1482,7 @@
         {
           "rank": 9,
           "guild": "Midnight Sky",
-          "value": 386
+          "value": 385
         },
         {
           "rank": 10,
@@ -1546,13 +1546,13 @@
         },
         {
           "rank": 22,
-          "guild": "Andorinhas",
+          "guild": "Bunny Beans",
           "value": 58
         },
         {
           "rank": 23,
-          "guild": "Bunny Beans",
-          "value": 58
+          "guild": "Andorinhas",
+          "value": 57
         },
         {
           "rank": 24,
@@ -1592,7 +1592,7 @@
         {
           "rank": 31,
           "guild": "EL Kingdom",
-          "value": 39
+          "value": 38
         },
         {
           "rank": 32,
@@ -1621,18 +1621,18 @@
         },
         {
           "rank": 37,
-          "guild": "Area51",
+          "guild": "Angel Stars",
           "value": 28
         },
         {
           "rank": 38,
-          "guild": "Wildflower",
-          "value": 27
+          "guild": "Area51",
+          "value": 28
         },
         {
           "rank": 39,
-          "guild": "Angel Stars",
-          "value": 25
+          "guild": "Wildflower",
+          "value": 27
         },
         {
           "rank": 40,
@@ -1836,42 +1836,42 @@
         },
         {
           "rank": 80,
-          "guild": "SquirtyGuns",
-          "value": 5
-        },
-        {
-          "rank": 81,
           "guild": "Star Seers",
           "value": 5
         },
         {
-          "rank": 82,
+          "rank": 81,
           "guild": "Stargazers\u671b\u661f",
           "value": 5
         },
         {
-          "rank": 83,
+          "rank": 82,
           "guild": "Gear5Momo",
           "value": 4
         },
         {
-          "rank": 84,
+          "rank": 83,
           "guild": "LittleMoon",
           "value": 4
         },
         {
-          "rank": 85,
+          "rank": 84,
           "guild": "Magic Style",
           "value": 4
         },
         {
-          "rank": 86,
+          "rank": 85,
           "guild": "MelonPan",
           "value": 4
         },
         {
-          "rank": 87,
+          "rank": 86,
           "guild": "PATD",
+          "value": 4
+        },
+        {
+          "rank": 87,
+          "guild": "SquirtyGuns",
           "value": 4
         },
         {
