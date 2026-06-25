@@ -118,7 +118,7 @@ button {
 }
 
 .tab {
-  padding: 0.6rem 1.25rem;
+  padding: 0.5rem 1.25rem;
   border-radius: 999px;
   font-size: 0.95rem;
   font-weight: 600;
@@ -126,6 +126,7 @@ button {
   background: var(--bg-card);
   border: 1px solid var(--border);
   transition: all 0.15s ease;
+  text-decoration: none;
 }
 
 .tab:hover {
@@ -152,6 +153,7 @@ button {
   font-weight: 500;
   color: var(--text-muted);
   border: 1px solid transparent;
+  text-decoration: none;
 }
 
 .subtab:hover {
@@ -522,6 +524,327 @@ button {
 
 .about-section-body a:hover {
   color: var(--accent);
+}
+
+/* Data Viz */
+.data-viz-controls {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-end;
+  gap: 1rem 1.5rem;
+  margin-bottom: 1.5rem;
+}
+
+.data-viz-section {
+  margin-bottom: 2.5rem;
+}
+
+.data-viz-section .section-title {
+  margin-bottom: 0.75rem;
+}
+
+.searchable-select {
+  position: relative;
+  min-width: 220px;
+}
+
+.searchable-select-label {
+  display: block;
+  font-size: 0.8rem;
+  color: var(--text-muted);
+  margin-bottom: 0.25rem;
+}
+
+.searchable-select-input-wrap {
+  display: flex;
+  align-items: center;
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  background: var(--bg-card);
+  overflow: hidden;
+}
+
+.searchable-select-input {
+  flex: 1;
+  min-width: 0;
+  padding: 0.5rem 0.65rem;
+  border: none;
+  background: transparent;
+  color: var(--text);
+  font-size: 0.875rem;
+  font-family: inherit;
+}
+
+.searchable-select-input:focus {
+  outline: none;
+}
+
+.searchable-select-toggle {
+  padding: 0.5rem 0.6rem;
+  color: var(--text-muted);
+  font-size: 0.75rem;
+  border-left: 1px solid var(--border);
+}
+
+.searchable-select-toggle:hover {
+  background: var(--bg-card-hover);
+  color: var(--accent-dark);
+}
+
+.searchable-select-dropdown {
+  position: absolute;
+  top: calc(100% + 0.25rem);
+  left: 0;
+  right: 0;
+  z-index: 20;
+  max-height: 16rem;
+  overflow-y: auto;
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+  list-style: none;
+}
+
+.searchable-select-option {
+  padding: 0.45rem 0.65rem;
+  font-size: 0.8125rem;
+  cursor: pointer;
+  white-space: pre;
+}
+
+.searchable-select-option:hover,
+.searchable-select-option.highlighted {
+  background: var(--bg-card-hover);
+}
+
+.searchable-select-option.selected {
+  background: var(--accent-light);
+  color: var(--accent-dark);
+  font-weight: 600;
+}
+
+.searchable-select-empty {
+  position: absolute;
+  top: calc(100% + 0.25rem);
+  left: 0;
+  right: 0;
+  z-index: 20;
+  padding: 0.5rem 0.65rem;
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  font-size: 0.8125rem;
+  color: var(--text-muted);
+}
+
+.viz-toggle {
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+  font-size: 0.875rem;
+  color: var(--text);
+  cursor: pointer;
+  padding-bottom: 0.5rem;
+}
+
+.viz-toggle input {
+  accent-color: var(--accent);
+}
+
+.viz-mode-toggle {
+  display: flex;
+  gap: 0.5rem;
+  margin-bottom: 1.25rem;
+  flex-wrap: wrap;
+}
+
+.viz-mode-btn {
+  padding: 0.45rem 0.9rem;
+  border-radius: 999px;
+  font-size: 0.8125rem;
+  font-weight: 500;
+  color: var(--text-muted);
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  transition: all 0.15s ease;
+}
+
+.viz-mode-btn:hover {
+  background: var(--bg-card-hover);
+  color: var(--accent-dark);
+}
+
+.viz-mode-btn.active {
+  background: var(--accent);
+  color: white;
+  border-color: var(--accent);
+}
+
+.viz-summary {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem 1.25rem;
+  margin-bottom: 1rem;
+  padding: 0.75rem 1rem;
+  background: var(--bg-card);
+  border-radius: var(--radius);
+}
+
+.viz-summary-item {
+  display: flex;
+  flex-direction: column;
+  gap: 0.15rem;
+  min-width: 5rem;
+}
+
+.viz-summary-label {
+  font-size: 0.7rem;
+  font-weight: 600;
+  color: var(--text-muted);
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+}
+
+.viz-summary-value {
+  font-size: 0.95rem;
+  font-weight: 700;
+  color: var(--accent-dark);
+  font-variant-numeric: tabular-nums;
+}
+
+.heatmap-scroll {
+  overflow-x: auto;
+  margin-bottom: 1.25rem;
+  padding-bottom: 0.25rem;
+}
+
+.heatmap-wrapper {
+  display: inline-block;
+  min-width: min-content;
+}
+
+.heatmap-volume-title {
+  font-size: 0.9rem;
+  font-weight: 700;
+  color: var(--accent-dark);
+  margin-bottom: 0.35rem;
+}
+
+.heatmap-table {
+  display: inline-block;
+}
+
+.heatmap-row {
+  display: flex;
+  gap: 1px;
+  margin-bottom: 1px;
+}
+
+.heatmap-data-layout {
+  display: flex;
+  gap: 0;
+}
+
+.heatmap-row-labels {
+  display: flex;
+  flex-direction: column;
+  gap: 1px;
+  flex-shrink: 0;
+}
+
+.heatmap-cell-grid {
+  display: flex;
+  flex-direction: column;
+  gap: 1px;
+  background: #f3f3f3;
+}
+
+.heatmap-cell-row {
+  display: flex;
+  gap: 1px;
+}
+
+.heatmap-header-row,
+.heatmap-header-row-sub {
+  margin-left: 2.25rem;
+}
+
+.heatmap-row-label {
+  width: 2.25rem;
+  min-width: 2.25rem;
+  height: 1.5rem;
+  flex-shrink: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 0.7rem;
+  font-weight: 600;
+  color: var(--accent-dark);
+  background: var(--header-bg);
+}
+
+.heatmap-header-cell,
+.heatmap-header-sub,
+.heatmap-header-chapter {
+  width: 1.5rem;
+  min-width: 1.5rem;
+  height: 1.25rem;
+  flex-shrink: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 0.65rem;
+  font-weight: 600;
+  color: var(--accent-dark);
+  background: var(--header-bg);
+}
+
+.heatmap-header-chapter {
+  width: calc(1.5rem * 2 + 1px);
+  min-width: calc(1.5rem * 2 + 1px);
+}
+
+.heatmap-cell {
+  width: 1.5rem;
+  min-width: 1.5rem;
+  height: 1.5rem;
+  flex-shrink: 0;
+  padding: 0;
+  border: none;
+  font-size: 0.65rem;
+  font-weight: 600;
+  font-variant-numeric: tabular-nums;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: default;
+}
+
+.heatmap-cell.clickable {
+  cursor: pointer;
+}
+
+.heatmap-cell.clickable:hover {
+  filter: brightness(0.92);
+  outline: 1px solid var(--accent);
+  outline-offset: -1px;
+}
+
+.heatmap-cell:disabled {
+  cursor: default;
+}
+
+.guild-member-list {
+  overflow: hidden;
+}
+
+.guild-member-list .stage-table {
+  table-layout: auto;
+}
+
+.guild-member-list .empty-state {
+  padding: 1rem;
 }
 
 @media (max-width: 640px) {

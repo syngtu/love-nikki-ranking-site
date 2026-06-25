@@ -50,8 +50,26 @@ export interface MetaData {
   last_updated: string;
 }
 
-export type Mode = "story" | "commission" | "about";
+export type Mode = "story" | "commission" | "dataviz" | "about";
 export type View = "leaderboards" | "stages";
+export type DataVizTab = "individual" | "guild";
+
+export type StoryStageNav = {
+  mode: "story";
+  volume: number;
+  chapter: number;
+  stageType: "main" | "side";
+  stage: number;
+  difficulty: "maiden" | "princess";
+};
+
+export type CommissionStageNav = {
+  mode: "commission";
+  chapter: number;
+  stage: number;
+};
+
+export type StageNavTarget = StoryStageNav | CommissionStageNav;
 
 export const LEADERBOARD_KEYS = [
   "points",

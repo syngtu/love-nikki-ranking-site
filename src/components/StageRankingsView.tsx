@@ -1,7 +1,20 @@
-import { useMemo, useState } from "react";
-import type { CommissionStageData, StageData, StagesData, StoryStageData } from "../types";
+import { useMemo, type ReactNode } from "react";
+import { useSearchParams } from "react-router-dom";
+import type {
+  CommissionStageData,
+  StageData,
+  StagesData,
+  StoryStageData,
+} from "../types";
 import { isCommissionStage, isStoryStage } from "../types";
 import { formatScore } from "../data";
+import {
+  buildAppUrlSearch,
+  mergeAppUrlState,
+  parseAppUrlState,
+  type CommissionStageParams,
+  type StoryStageParams,
+} from "../urlState";
 
 interface Props {
   data: StagesData | null;
@@ -51,19 +64,59 @@ function SelectField({
   );
 }
 
+function getDefaultStoryStage(stages: StoryStageData[]): StoryStageParams | null {
+  const volume = [...new Set(stages.map((s) => s.volume))].sort((a, b) => a - b)[0];
+  if (volume === undefined) return null;
+
+  const chapter = [
+    ...new Set(stages.filter((s) => s.volume === volume).map((s) => s.chapter)),
+  ].sort((a, b) => a - b)[0];
+  if (chapter === undefined) return null;
+
+  for (const stageType of ["main", "side"] as const) {
+    const stage = stages
+      .filter(
+        (s) => s.volume === volume && s.chapter === chapter && s.stage_type === stageType,
+      )
+      .map((s) => s.stage)
+      .sort((a, b) => a - b)[0];
+    if (stage !== undefined) {
+      return { volume, chapter, stageType, stage };
+    }
+  }
+
+  return null;
+}
+
+function getDefaultCommissionStage(stages: CommissionStageData[]): CommissionStageParams | null {
+  const chapter = [...new Set(stages.map((s) => s.chapter))].sort((a, b) => a - b)[0];
+  if (chapter === undefined) return null;
+
+  const stage = stages
+    .filter((s) => s.chapter === chapter)
+    .map((s) => s.stage)
+    .sort((a, b) => a - b)[0];
+  if (stage === undefined) return null;
+
+  return { chapter, stage };
+}
+
 function useStorySelection(stages: StoryStageData[]) {
+  const [searchParams, setSearchParams] = useSearchParams();
+  const urlState = parseAppUrlState(searchParams);
+
   const volumes = useMemo(
     () => [...new Set(stages.map((s) => s.volume))].sort((a, b) => a - b),
     [stages],
   );
 
-  const [volume, setVolume] = useState(volumes[0]?.toString() ?? "");
-  const [chapter, setChapter] = useState("");
-  const [stageKey, setStageKey] = useState("");
+  const defaults = useMemo(() => getDefaultStoryStage(stages), [stages]);
+  const raw = urlState.storyStage ?? defaults;
 
   const effectiveVolume =
-    volume && volumes.includes(Number(volume)) ? volume : String(volumes[0] ?? "");
-  const volNum = Number(effectiveVolume);
+    raw && volumes.includes(raw.volume) ? raw.volume : (defaults?.volume ?? volumes[0] ?? 0);
+  const volNum = effectiveVolume;
+
   const chapters = useMemo(
     () =>
       [...new Set(stages.filter((s) => s.volume === volNum).map((s) => s.chapter))].sort(
@@ -73,8 +126,8 @@ function useStorySelection(stages: StoryStageData[]) {
   );
 
   const effectiveChapter =
-    chapter && chapters.includes(Number(chapter)) ? chapter : String(chapters[0] ?? "");
-  const chapterNum = Number(effectiveChapter);
+    raw && chapters.includes(raw.chapter) ? raw.chapter : (defaults?.chapter ?? chapters[0] ?? 0);
+  const chapterNum = effectiveChapter;
 
   const stageOptions = useMemo(() => {
     const seen = new Set<string>();
@@ -106,13 +159,28 @@ function useStorySelection(stages: StoryStageData[]) {
     return opts;
   }, [stages, volNum, chapterNum]);
 
-  const effectiveStageKey = stageOptions.some((o) => o.value === stageKey)
-    ? stageKey
+  const rawStageKey = raw ? `${raw.stageType}:${raw.stage}` : "";
+  const effectiveStageKey = stageOptions.some((o) => o.value === rawStageKey)
+    ? rawStageKey
     : (stageOptions[0]?.value ?? "");
   const selectedStageOption =
     stageOptions.find((o) => o.value === effectiveStageKey) ?? stageOptions[0];
   const effectiveStageType = selectedStageOption?.stageType ?? "main";
   const stageNum = selectedStageOption?.stage ?? 0;
+
+  const setStoryStage = (next: StoryStageParams) => {
+    setSearchParams(
+      new URLSearchParams(
+        buildAppUrlSearch(
+          mergeAppUrlState(urlState, {
+            tab: "story",
+            view: "stages",
+            storyStage: next,
+          }),
+        ),
+      ),
+    );
+  };
 
   const selectedStages = useMemo(
     () =>
@@ -137,27 +205,55 @@ function useStorySelection(stages: StoryStageData[]) {
       <div className="stage-selectors">
         <SelectField
           label="Volume"
-          value={effectiveVolume}
+          value={String(effectiveVolume)}
           onChange={(v) => {
-            setVolume(v);
-            setChapter("");
-            setStageKey("");
+            const nextVolume = Number(v);
+            const nextChapters = [
+              ...new Set(stages.filter((s) => s.volume === nextVolume).map((s) => s.chapter)),
+            ].sort((a, b) => a - b);
+            const nextChapter = nextChapters[0] ?? 0;
+            const nextOption = stages.find(
+              (s) => s.volume === nextVolume && s.chapter === nextChapter,
+            );
+            setStoryStage({
+              volume: nextVolume,
+              chapter: nextChapter,
+              stageType: nextOption?.stage_type ?? "main",
+              stage: nextOption?.stage ?? 1,
+            });
           }}
           options={volumes.map((v) => ({ value: String(v), label: `${_roman(v)}` }))}
         />
         <SelectField
           label="Chapter"
-          value={effectiveChapter}
+          value={String(effectiveChapter)}
           onChange={(v) => {
-            setChapter(v);
-            setStageKey("");
+            const nextChapter = Number(v);
+            const nextOption = stages.find(
+              (s) => s.volume === volNum && s.chapter === nextChapter,
+            );
+            setStoryStage({
+              volume: volNum,
+              chapter: nextChapter,
+              stageType: nextOption?.stage_type ?? "main",
+              stage: nextOption?.stage ?? 1,
+            });
           }}
           options={chapters.map((c) => ({ value: String(c), label: `${c}` }))}
         />
         <SelectField
           label="Stage"
           value={effectiveStageKey}
-          onChange={setStageKey}
+          onChange={(v) => {
+            const option = stageOptions.find((o) => o.value === v);
+            if (!option) return;
+            setStoryStage({
+              volume: volNum,
+              chapter: chapterNum,
+              stageType: option.stageType,
+              stage: option.stage,
+            });
+          }}
           options={stageOptions.map((o) => ({ value: o.value, label: o.label }))}
         />
       </div>
@@ -166,17 +262,21 @@ function useStorySelection(stages: StoryStageData[]) {
 }
 
 function useCommissionSelection(stages: CommissionStageData[]) {
+  const [searchParams, setSearchParams] = useSearchParams();
+  const urlState = parseAppUrlState(searchParams);
+
   const chapters = useMemo(
     () => [...new Set(stages.map((s) => s.chapter))].sort((a, b) => a - b),
     [stages],
   );
 
-  const [chapter, setChapter] = useState(String(chapters[0] ?? ""));
-  const [stage, setStage] = useState("");
+  const defaults = useMemo(() => getDefaultCommissionStage(stages), [stages]);
+  const raw = urlState.commissionStage ?? defaults;
 
   const effectiveChapter =
-    chapter && chapters.includes(Number(chapter)) ? chapter : String(chapters[0] ?? "");
-  const chapterNum = Number(effectiveChapter);
+    raw && chapters.includes(raw.chapter) ? raw.chapter : (defaults?.chapter ?? chapters[0] ?? 0);
+  const chapterNum = effectiveChapter;
+
   const stageNums = useMemo(
     () =>
       stages
@@ -186,8 +286,23 @@ function useCommissionSelection(stages: CommissionStageData[]) {
     [stages, chapterNum],
   );
 
-  const effectiveStage = stage || String(stageNums[0] ?? "");
-  const stageNum = Number(effectiveStage);
+  const effectiveStageNum =
+    raw && stageNums.includes(raw.stage) ? raw.stage : (stageNums[0] ?? 0);
+  const stageNum = effectiveStageNum;
+
+  const setCommissionStage = (next: CommissionStageParams) => {
+    setSearchParams(
+      new URLSearchParams(
+        buildAppUrlSearch(
+          mergeAppUrlState(urlState, {
+            tab: "commission",
+            view: "stages",
+            commissionStage: next,
+          }),
+        ),
+      ),
+    );
+  };
 
   const selectedStages = useMemo(() => {
     const found = stages.find((s) => s.chapter === chapterNum && s.stage === stageNum);
@@ -200,17 +315,22 @@ function useCommissionSelection(stages: CommissionStageData[]) {
       <div className="stage-selectors">
         <SelectField
           label="Chapter"
-          value={effectiveChapter}
+          value={String(effectiveChapter)}
           onChange={(v) => {
-            setChapter(v);
-            setStage("");
+            const nextChapter = Number(v);
+            const nextStage =
+              stages
+                .filter((s) => s.chapter === nextChapter)
+                .map((s) => s.stage)
+                .sort((a, b) => a - b)[0] ?? 0;
+            setCommissionStage({ chapter: nextChapter, stage: nextStage });
           }}
           options={chapters.map((c) => ({ value: String(c), label: `${c}` }))}
         />
         <SelectField
           label="Stage"
-          value={effectiveStage}
-          onChange={setStage}
+          value={String(effectiveStageNum)}
+          onChange={(v) => setCommissionStage({ chapter: chapterNum, stage: Number(v) })}
           options={stageNums.map((s) => ({ value: String(s), label: `${s}` }))}
         />
       </div>
@@ -218,27 +338,40 @@ function useCommissionSelection(stages: CommissionStageData[]) {
   };
 }
 
-export function StageRankingsView({ data, showGuild = false }: Props) {
-  const stages = data?.stages ?? [];
-  const storyStages = stages.filter(isStoryStage);
-  const commissionStages = stages.filter(isCommissionStage);
+function StoryStageRankings({ stages }: { stages: StoryStageData[] }) {
+  const { selectedStages, selectors } = useStorySelection(stages);
+  return <StageRankingsContent selectedStages={selectedStages} selectors={selectors} />;
+}
 
-  const storySel = useStorySelection(storyStages);
-  const commissionSel = useCommissionSelection(commissionStages);
+function CommissionStageRankings({
+  stages,
+  showGuild,
+}: {
+  stages: CommissionStageData[];
+  showGuild: boolean;
+}) {
+  const { selectedStages, selectors } = useCommissionSelection(stages);
+  return (
+    <StageRankingsContent
+      selectedStages={selectedStages}
+      selectors={selectors}
+      showGuild={showGuild}
+    />
+  );
+}
 
-  const selectedStages: StageData[] = showGuild
-    ? commissionSel.selectedStages
-    : storySel.selectedStages;
-  const selectors = showGuild ? commissionSel.selectors : storySel.selectors;
-
-  if (!data || stages.length === 0) {
-    return <div className="empty-state">Stage ranking data not available yet.</div>;
-  }
-
+function StageRankingsContent({
+  selectedStages,
+  selectors,
+  showGuild = false,
+}: {
+  selectedStages: StageData[];
+  selectors: ReactNode;
+  showGuild?: boolean;
+}) {
   return (
     <>
       {selectors}
-
       <div className="stage-card-grid">
         {selectedStages.map((stage) => (
           <div className="card stage-card" key={stage.label}>
@@ -274,4 +407,20 @@ export function StageRankingsView({ data, showGuild = false }: Props) {
       </div>
     </>
   );
+}
+
+export function StageRankingsView({ data, showGuild = false }: Props) {
+  const stages = data?.stages ?? [];
+  const storyStages = stages.filter(isStoryStage);
+  const commissionStages = stages.filter(isCommissionStage);
+
+  if (!data || stages.length === 0) {
+    return <div className="empty-state">Stage ranking data not available yet.</div>;
+  }
+
+  if (showGuild) {
+    return <CommissionStageRankings stages={commissionStages} showGuild />;
+  }
+
+  return <StoryStageRankings stages={storyStages} />;
 }
