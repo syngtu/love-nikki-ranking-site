@@ -2426,18 +2426,18 @@
       "entries": [
         {
           "rank": 1,
+          "name": "Athena",
+          "score": 188357
+        },
+        {
+          "rank": 2,
           "name": "ViolettaDoll",
           "score": 187534
         },
         {
-          "rank": 2,
+          "rank": 3,
           "name": "Mikachuu",
           "score": 187032
-        },
-        {
-          "rank": 3,
-          "name": "Athena",
-          "score": 186806
         },
         {
           "rank": 4,
@@ -2536,13 +2536,13 @@
       "entries": [
         {
           "rank": 1,
-          "name": "ViolettaDoll",
-          "score": 188017
+          "name": "Athena",
+          "score": 188161
         },
         {
           "rank": 2,
-          "name": "Athena",
-          "score": 187240
+          "name": "ViolettaDoll",
+          "score": 188017
         },
         {
           "rank": 3,
@@ -3312,97 +3312,97 @@
         {
           "rank": 2,
           "name": "Athena",
-          "score": 148101
+          "score": 159148
         },
         {
           "rank": 3,
+          "name": "Camille",
+          "score": 158967
+        },
+        {
+          "rank": 4,
           "name": "Leonie Quin",
           "score": 148020
         },
         {
-          "rank": 4,
+          "rank": 5,
           "name": "ViolettaDoll",
           "score": 147101
         },
         {
-          "rank": 5,
+          "rank": 6,
           "name": "spiderfeets",
           "score": 145622
         },
         {
-          "rank": 6,
+          "rank": 7,
           "name": "Charlotte",
           "score": 144659
         },
         {
-          "rank": 7,
+          "rank": 8,
           "name": "rhubarb",
           "score": 144339
         },
         {
-          "rank": 8,
+          "rank": 9,
           "name": "xQuennyx",
           "score": 141579
         },
         {
-          "rank": 9,
+          "rank": 10,
           "name": "Ali",
           "score": 138828
         },
         {
-          "rank": 10,
+          "rank": 11,
           "name": "MoiiMoy",
           "score": 138512
         },
         {
-          "rank": 11,
+          "rank": 12,
           "name": "Sayume",
           "score": 138164
         },
         {
-          "rank": 12,
+          "rank": 13,
           "name": "Kawaii",
           "score": 138000
         },
         {
-          "rank": 13,
+          "rank": 14,
           "name": "Lazy",
           "score": 137929
         },
         {
-          "rank": 14,
+          "rank": 15,
           "name": "Aika",
           "score": 137528
         },
         {
-          "rank": 15,
+          "rank": 16,
           "name": "Kelvin",
           "score": 137473
         },
         {
-          "rank": 16,
+          "rank": 17,
           "name": "Aennyl",
           "score": 137268
         },
         {
-          "rank": 17,
+          "rank": 18,
+          "name": "Anya",
+          "score": 137033
+        },
+        {
+          "rank": 19,
           "name": "Lyanna",
           "score": 136992
         },
         {
-          "rank": 18,
+          "rank": 20,
           "name": "PutraSaragih",
           "score": 136635
-        },
-        {
-          "rank": 19,
-          "name": "Cheyenn",
-          "score": 136612
-        },
-        {
-          "rank": 20,
-          "name": "Nagisa",
-          "score": 136494
         }
       ],
       "volume": 1,
@@ -3416,13 +3416,13 @@
       "entries": [
         {
           "rank": 1,
-          "name": "Mikachuu",
-          "score": 153880
+          "name": "Athena",
+          "score": 159728
         },
         {
           "rank": 2,
-          "name": "Athena",
-          "score": 147418
+          "name": "Mikachuu",
+          "score": 153880
         },
         {
           "rank": 3,
@@ -3446,73 +3446,73 @@
         },
         {
           "rank": 7,
+          "name": "Camille",
+          "score": 143599
+        },
+        {
+          "rank": 8,
           "name": "Rynettw",
           "score": 141638
         },
         {
-          "rank": 8,
+          "rank": 9,
           "name": "Ameya",
           "score": 141046
         },
         {
-          "rank": 9,
+          "rank": 10,
           "name": "Bluebell",
           "score": 139925
         },
         {
-          "rank": 10,
+          "rank": 11,
           "name": "Sayume",
           "score": 139252
         },
         {
-          "rank": 11,
+          "rank": 12,
           "name": "Yui",
           "score": 138831
         },
         {
-          "rank": 12,
+          "rank": 13,
           "name": "xQuennyx",
           "score": 138109
         },
         {
-          "rank": 13,
+          "rank": 14,
           "name": "Mavourneen",
           "score": 136923
         },
         {
-          "rank": 14,
+          "rank": 15,
           "name": "rhubarb",
           "score": 136731
         },
         {
-          "rank": 15,
+          "rank": 16,
           "name": "Lyanna",
           "score": 136525
         },
         {
-          "rank": 16,
+          "rank": 17,
           "name": "Airi",
           "score": 135897
         },
         {
-          "rank": 17,
+          "rank": 18,
           "name": "Nagisa",
           "score": 135669
         },
         {
-          "rank": 18,
+          "rank": 19,
           "name": "Delilah",
           "score": 134290
         },
         {
-          "rank": 19,
+          "rank": 20,
           "name": "MeiLe",
           "score": 134114
-        },
-        {
-          "rank": 20,
-          "name": "Helen Mabel",
-          "score": 134014
         }
       ],
       "volume": 1,
@@ -4186,23 +4186,23 @@
       "entries": [
         {
           "rank": 1,
+          "name": "Athena",
+          "score": 223427
+        },
+        {
+          "rank": 2,
           "name": "ViolettaDoll",
           "score": 222474
         },
         {
-          "rank": 2,
+          "rank": 3,
           "name": "Leonie Quin",
           "score": 222429
         },
         {
-          "rank": 3,
+          "rank": 4,
           "name": "Nicky",
           "score": 219063
-        },
-        {
-          "rank": 4,
-          "name": "Athena",
-          "score": 218352
         },
         {
           "rank": 5,
@@ -4296,18 +4296,18 @@
       "entries": [
         {
           "rank": 1,
+          "name": "Athena",
+          "score": 147658
+        },
+        {
+          "rank": 2,
           "name": "Leonie Quin",
           "score": 147333
         },
         {
-          "rank": 2,
+          "rank": 3,
           "name": "Mikachuu",
           "score": 146025
-        },
-        {
-          "rank": 3,
-          "name": "Athena",
-          "score": 145672
         },
         {
           "rank": 4,
@@ -4661,68 +4661,68 @@
         },
         {
           "rank": 8,
+          "name": "Tsuki",
+          "score": 184826
+        },
+        {
+          "rank": 9,
           "name": "Cherry",
           "score": 184664
         },
         {
-          "rank": 9,
+          "rank": 10,
           "name": "lnfi",
           "score": 183694
         },
         {
-          "rank": 10,
+          "rank": 11,
           "name": "Ariina",
           "score": 183093
         },
         {
-          "rank": 11,
+          "rank": 12,
           "name": "NightAngel",
           "score": 180512
         },
         {
-          "rank": 12,
+          "rank": 13,
           "name": "ViolettaDoll",
           "score": 180501
         },
         {
-          "rank": 13,
+          "rank": 14,
           "name": "London Ivy",
           "score": 179924
         },
         {
-          "rank": 14,
+          "rank": 15,
           "name": "Cheyenn",
           "score": 179816
         },
         {
-          "rank": 15,
+          "rank": 16,
           "name": "spiderfeets",
           "score": 178641
         },
         {
-          "rank": 16,
+          "rank": 17,
           "name": "Silverivy13",
           "score": 178555
         },
         {
-          "rank": 17,
+          "rank": 18,
           "name": "Yui",
           "score": 178532
         },
         {
-          "rank": 18,
+          "rank": 19,
           "name": "Luna31Tonks",
           "score": 175183
         },
         {
-          "rank": 19,
+          "rank": 20,
           "name": "Storm",
           "score": 174980
-        },
-        {
-          "rank": 20,
-          "name": "Bella",
-          "score": 173542
         }
       ],
       "volume": 1,
@@ -4741,18 +4741,18 @@
         },
         {
           "rank": 2,
+          "name": "Athena",
+          "score": 202930
+        },
+        {
+          "rank": 3,
           "name": "Leonie Quin",
           "score": 202801
         },
         {
-          "rank": 3,
+          "rank": 4,
           "name": "Mavourneen",
           "score": 201858
-        },
-        {
-          "rank": 4,
-          "name": "Athena",
-          "score": 200665
         },
         {
           "rank": 5,
@@ -4811,28 +4811,28 @@
         },
         {
           "rank": 16,
+          "name": "Cake",
+          "score": 177526
+        },
+        {
+          "rank": 17,
           "name": "Silverivy13",
           "score": 177381
         },
         {
-          "rank": 17,
+          "rank": 18,
           "name": "Cherry",
           "score": 176934
         },
         {
-          "rank": 18,
+          "rank": 19,
           "name": "Ameya",
           "score": 176652
         },
         {
-          "rank": 19,
+          "rank": 20,
           "name": "Cheyenn",
           "score": 176009
-        },
-        {
-          "rank": 20,
-          "name": "Bella",
-          "score": 175758
         }
       ],
       "volume": 1,
@@ -6356,23 +6356,23 @@
         },
         {
           "rank": 17,
+          "name": "Cake",
+          "score": 188374
+        },
+        {
+          "rank": 18,
           "name": "QueenGlory",
           "score": 188042
         },
         {
-          "rank": 18,
+          "rank": 19,
           "name": "Yumi",
           "score": 187466
         },
         {
-          "rank": 19,
+          "rank": 20,
           "name": "Aennyl",
           "score": 187032
-        },
-        {
-          "rank": 20,
-          "name": "Nicky",
-          "score": 186623
         }
       ],
       "volume": 1,
@@ -7606,93 +7606,93 @@
         },
         {
           "rank": 3,
+          "name": "Camille",
+          "score": 164496
+        },
+        {
+          "rank": 4,
           "name": "Mikachuu",
           "score": 164075
         },
         {
-          "rank": 4,
+          "rank": 5,
           "name": "Leonie Quin",
           "score": 163458
         },
         {
-          "rank": 5,
+          "rank": 6,
           "name": "Aloy",
           "score": 161607
         },
         {
-          "rank": 6,
+          "rank": 7,
           "name": "Rynettw",
           "score": 159583
         },
         {
-          "rank": 7,
+          "rank": 8,
           "name": "Nikkileaf",
           "score": 158963
         },
         {
-          "rank": 8,
+          "rank": 9,
           "name": "K\u0430rl Marx",
           "score": 158233
         },
         {
-          "rank": 9,
+          "rank": 10,
           "name": "Jennifer",
           "score": 157825
         },
         {
-          "rank": 10,
+          "rank": 11,
           "name": "yumi glitter",
           "score": 157780
         },
         {
-          "rank": 11,
+          "rank": 12,
           "name": "bae",
           "score": 157590
         },
         {
-          "rank": 12,
+          "rank": 13,
           "name": "Midori",
           "score": 157056
         },
         {
-          "rank": 13,
+          "rank": 14,
           "name": "xyz",
           "score": 156890
         },
         {
-          "rank": 14,
+          "rank": 15,
           "name": "Jenna",
           "score": 156862
         },
         {
-          "rank": 15,
+          "rank": 16,
           "name": "Aria",
           "score": 156770
         },
         {
-          "rank": 16,
+          "rank": 17,
           "name": "Aethna O",
           "score": 156518
         },
         {
-          "rank": 17,
+          "rank": 18,
           "name": "Mavourneen",
           "score": 156190
         },
         {
-          "rank": 18,
+          "rank": 19,
           "name": "Sugarsop",
           "score": 155920
         },
         {
-          "rank": 19,
+          "rank": 20,
           "name": "EvelynLemus",
           "score": 155818
-        },
-        {
-          "rank": 20,
-          "name": "Frost Flora",
-          "score": 155671
         }
       ],
       "volume": 1,
@@ -7756,53 +7756,53 @@
         },
         {
           "rank": 11,
+          "name": "Enznya",
+          "score": 204134
+        },
+        {
+          "rank": 12,
           "name": "Alexandrine",
           "score": 203668
         },
         {
-          "rank": 12,
+          "rank": 13,
           "name": "EvelynLemus",
           "score": 203533
         },
         {
-          "rank": 13,
+          "rank": 14,
           "name": "K\u0430rl Marx",
           "score": 202995
         },
         {
-          "rank": 14,
+          "rank": 15,
           "name": "Frost Flora",
           "score": 202991
         },
         {
-          "rank": 15,
+          "rank": 16,
           "name": "Lilliana",
           "score": 202897
         },
         {
-          "rank": 16,
+          "rank": 17,
           "name": "Yuka lto",
           "score": 202693
         },
         {
-          "rank": 17,
+          "rank": 18,
           "name": "Ariina",
           "score": 201797
         },
         {
-          "rank": 18,
+          "rank": 19,
           "name": "YMCL",
           "score": 201673
         },
         {
-          "rank": 19,
+          "rank": 20,
           "name": "Jennifer",
           "score": 201538
-        },
-        {
-          "rank": 20,
-          "name": "Youlan",
-          "score": 201354
         }
       ],
       "volume": 1,
@@ -8166,83 +8166,83 @@
         },
         {
           "rank": 5,
+          "name": "Enznya",
+          "score": 218071
+        },
+        {
+          "rank": 6,
           "name": "Aloy",
           "score": 217622
         },
         {
-          "rank": 6,
+          "rank": 7,
           "name": "Yuka lto",
           "score": 217461
         },
         {
-          "rank": 7,
+          "rank": 8,
           "name": "Aethna O",
           "score": 217163
         },
         {
-          "rank": 8,
+          "rank": 9,
           "name": "CheshireCat",
           "score": 216688
         },
         {
-          "rank": 9,
+          "rank": 10,
           "name": "yumi glitter",
           "score": 216420
         },
         {
-          "rank": 10,
+          "rank": 11,
           "name": "Jennifer",
           "score": 216246
         },
         {
-          "rank": 11,
+          "rank": 12,
           "name": "Mikachuu",
           "score": 216168
         },
         {
-          "rank": 12,
+          "rank": 13,
           "name": "Aennyl",
           "score": 216071
         },
         {
-          "rank": 13,
+          "rank": 14,
           "name": "Elle Cy",
           "score": 215415
         },
         {
-          "rank": 14,
+          "rank": 15,
           "name": "Alicia Marie",
           "score": 215125
         },
         {
-          "rank": 15,
+          "rank": 16,
           "name": "Cryst\u03b1lR\u03b1in",
           "score": 215113
         },
         {
-          "rank": 16,
+          "rank": 17,
           "name": "Aria",
           "score": 214631
         },
         {
-          "rank": 17,
+          "rank": 18,
           "name": "Jenna",
           "score": 214562
         },
         {
-          "rank": 18,
+          "rank": 19,
           "name": "BDawgSkip",
           "score": 214371
         },
         {
-          "rank": 19,
+          "rank": 20,
           "name": "AliceMadCat",
           "score": 214283
-        },
-        {
-          "rank": 20,
-          "name": "Lyra Talise",
-          "score": 214261
         }
       ],
       "volume": 1,
@@ -8401,68 +8401,68 @@
         },
         {
           "rank": 8,
+          "name": "Enznya",
+          "score": 177023
+        },
+        {
+          "rank": 9,
           "name": "Mikachuu",
           "score": 176292
         },
         {
-          "rank": 9,
+          "rank": 10,
           "name": "Aloy",
           "score": 176267
         },
         {
-          "rank": 10,
+          "rank": 11,
           "name": "Frost Flora",
           "score": 175375
         },
         {
-          "rank": 11,
+          "rank": 12,
           "name": "Yuka lto",
           "score": 175230
         },
         {
-          "rank": 12,
+          "rank": 13,
           "name": "AliceMadCat",
           "score": 173869
         },
         {
-          "rank": 13,
+          "rank": 14,
           "name": "Aria",
           "score": 173181
         },
         {
-          "rank": 14,
+          "rank": 15,
           "name": "yumi glitter",
           "score": 173133
         },
         {
-          "rank": 15,
+          "rank": 16,
           "name": "Orino Akeno",
           "score": 172911
         },
         {
-          "rank": 16,
+          "rank": 17,
           "name": "Jennifer",
           "score": 172871
         },
         {
-          "rank": 17,
+          "rank": 18,
           "name": "EvelynLemus",
           "score": 172565
         },
         {
-          "rank": 18,
+          "rank": 19,
           "name": "KayTee",
           "score": 172499
         },
         {
-          "rank": 19,
+          "rank": 20,
           "name": "Helena",
           "score": 172449
-        },
-        {
-          "rank": 20,
-          "name": "Elle Cy",
-          "score": 172311
         }
       ],
       "volume": 1,
@@ -8531,48 +8531,48 @@
         },
         {
           "rank": 12,
+          "name": "Camille",
+          "score": 170421
+        },
+        {
+          "rank": 13,
           "name": "Jenna",
           "score": 170320
         },
         {
-          "rank": 13,
+          "rank": 14,
           "name": "KayTee",
           "score": 170151
         },
         {
-          "rank": 14,
+          "rank": 15,
           "name": "yumi glitter",
           "score": 170087
         },
         {
-          "rank": 15,
+          "rank": 16,
           "name": "Sugarsop",
           "score": 169732
         },
         {
-          "rank": 16,
+          "rank": 17,
           "name": "Elle Cy",
           "score": 169464
         },
         {
-          "rank": 17,
+          "rank": 18,
           "name": "Edgecrusher",
           "score": 169440
         },
         {
-          "rank": 18,
+          "rank": 19,
           "name": "Silverivy13",
           "score": 169347
         },
         {
-          "rank": 19,
+          "rank": 20,
           "name": "Ayu",
           "score": 169233
-        },
-        {
-          "rank": 20,
-          "name": "Cryst\u03b1lR\u03b1in",
-          "score": 169031
         }
       ],
       "volume": 1,
@@ -8661,28 +8661,28 @@
         },
         {
           "rank": 16,
+          "name": "Enznya",
+          "score": 243966
+        },
+        {
+          "rank": 17,
           "name": "Cheyenn",
           "score": 243631
         },
         {
-          "rank": 17,
+          "rank": 18,
           "name": "Tiara",
           "score": 243309
         },
         {
-          "rank": 18,
+          "rank": 19,
           "name": "Shishi",
           "score": 242568
         },
         {
-          "rank": 19,
+          "rank": 20,
           "name": "Carissa",
           "score": 242271
-        },
-        {
-          "rank": 20,
-          "name": "Mavourneen",
-          "score": 241929
         }
       ],
       "volume": 1,
@@ -8837,7 +8837,7 @@
         {
           "rank": 7,
           "name": "Enznya",
-          "score": 240239
+          "score": 240264
         },
         {
           "rank": 8,
@@ -9266,83 +9266,83 @@
         },
         {
           "rank": 5,
+          "name": "Enznya",
+          "score": 288053
+        },
+        {
+          "rank": 6,
           "name": "Cheyenn",
           "score": 285842
         },
         {
-          "rank": 6,
+          "rank": 7,
           "name": "Aloy",
           "score": 285610
         },
         {
-          "rank": 7,
+          "rank": 8,
           "name": "K\u0430rl Marx",
           "score": 285179
         },
         {
-          "rank": 8,
+          "rank": 9,
           "name": "AliceMadCat",
           "score": 284765
         },
         {
-          "rank": 9,
+          "rank": 10,
           "name": "BEANLOVER420",
           "score": 284353
         },
         {
-          "rank": 10,
+          "rank": 11,
           "name": "bae",
           "score": 283584
         },
         {
-          "rank": 11,
+          "rank": 12,
           "name": "yumi glitter",
           "score": 282925
         },
         {
-          "rank": 12,
+          "rank": 13,
           "name": "Youlan",
           "score": 282285
         },
         {
-          "rank": 13,
+          "rank": 14,
           "name": "spiderfeets",
           "score": 282209
         },
         {
-          "rank": 14,
+          "rank": 15,
           "name": "Elle Cy",
           "score": 282091
         },
         {
-          "rank": 15,
+          "rank": 16,
           "name": "Camille",
           "score": 281700
         },
         {
-          "rank": 16,
+          "rank": 17,
           "name": "Jennifer",
           "score": 281306
         },
         {
-          "rank": 17,
+          "rank": 18,
           "name": "Jenna",
           "score": 280863
         },
         {
-          "rank": 18,
+          "rank": 19,
           "name": "Cryst\u03b1lR\u03b1in",
           "score": 280740
         },
         {
-          "rank": 19,
+          "rank": 20,
           "name": "Ella Joy",
           "score": 280691
-        },
-        {
-          "rank": 20,
-          "name": "Cyn Chen",
-          "score": 280516
         }
       ],
       "volume": 1,
@@ -12586,63 +12586,63 @@
         },
         {
           "rank": 9,
+          "name": "Enznya",
+          "score": 271070
+        },
+        {
+          "rank": 10,
           "name": "Alluka",
           "score": 270521
         },
         {
-          "rank": 10,
+          "rank": 11,
           "name": "AliceMadCat",
           "score": 270468
         },
         {
-          "rank": 11,
+          "rank": 12,
           "name": "Jennifer",
           "score": 270410
         },
         {
-          "rank": 12,
+          "rank": 13,
           "name": "spiderfeets",
           "score": 270120
         },
         {
-          "rank": 13,
+          "rank": 14,
           "name": "Helena",
           "score": 270048
         },
         {
-          "rank": 14,
+          "rank": 15,
           "name": "yumi glitter",
           "score": 269795
         },
         {
-          "rank": 15,
+          "rank": 16,
           "name": "Ruby Lissa",
           "score": 269656
         },
         {
-          "rank": 16,
+          "rank": 17,
           "name": "Frost Flora",
           "score": 269621
         },
         {
-          "rank": 17,
+          "rank": 18,
           "name": "Elle Cy",
           "score": 269598
         },
         {
-          "rank": 18,
+          "rank": 19,
           "name": "Orino Akeno",
           "score": 269419
         },
         {
-          "rank": 19,
+          "rank": 20,
           "name": "Ella Joy",
           "score": 269367
-        },
-        {
-          "rank": 20,
-          "name": "Aethna O",
-          "score": 269323
         }
       ],
       "volume": 1,
@@ -12806,63 +12806,63 @@
         },
         {
           "rank": 9,
+          "name": "Enznya",
+          "score": 259069
+        },
+        {
+          "rank": 10,
           "name": "K\u0430rl Marx",
           "score": 259051
         },
         {
-          "rank": 10,
+          "rank": 11,
           "name": "Yumi",
           "score": 258809
         },
         {
-          "rank": 11,
+          "rank": 12,
           "name": "Camille",
           "score": 258479
         },
         {
-          "rank": 12,
+          "rank": 13,
           "name": "Youlan",
           "score": 258356
         },
         {
-          "rank": 13,
+          "rank": 14,
           "name": "Elli Miku",
           "score": 258353
         },
         {
-          "rank": 14,
+          "rank": 15,
           "name": "Elle Cy",
           "score": 258136
         },
         {
-          "rank": 15,
+          "rank": 16,
           "name": "bae",
           "score": 257932
         },
         {
-          "rank": 16,
+          "rank": 17,
           "name": "Jennifer",
           "score": 257874
         },
         {
-          "rank": 17,
+          "rank": 18,
           "name": "Helena",
           "score": 257846
         },
         {
-          "rank": 18,
+          "rank": 19,
           "name": "yumi glitter",
           "score": 257657
         },
         {
-          "rank": 19,
+          "rank": 20,
           "name": "Lyra Talise",
           "score": 257201
-        },
-        {
-          "rank": 20,
-          "name": "Aria",
-          "score": 257132
         }
       ],
       "volume": 1,
@@ -13006,83 +13006,83 @@
         },
         {
           "rank": 5,
+          "name": "Enznya",
+          "score": 306540
+        },
+        {
+          "rank": 6,
           "name": "Nicky",
           "score": 304380
         },
         {
-          "rank": 6,
+          "rank": 7,
           "name": "cbNuna",
           "score": 303948
         },
         {
-          "rank": 7,
+          "rank": 8,
           "name": "Elli Miku",
           "score": 301952
         },
         {
-          "rank": 8,
+          "rank": 9,
           "name": "EvelynLemus",
           "score": 299541
         },
         {
-          "rank": 9,
+          "rank": 10,
           "name": "KuclukPocong",
           "score": 299430
         },
         {
-          "rank": 10,
+          "rank": 11,
           "name": "Emma",
           "score": 298930
         },
         {
-          "rank": 11,
+          "rank": 12,
           "name": "Cheyenn",
           "score": 298013
         },
         {
-          "rank": 12,
+          "rank": 13,
           "name": "Ignis Cecily",
           "score": 297673
         },
         {
-          "rank": 13,
+          "rank": 14,
           "name": "\u00df\u00c5M\u00df\u00ce",
           "score": 297382
         },
         {
-          "rank": 14,
+          "rank": 15,
           "name": "Sugarsop",
           "score": 297215
         },
         {
-          "rank": 15,
+          "rank": 16,
           "name": "Cherry",
           "score": 296884
         },
         {
-          "rank": 16,
+          "rank": 17,
           "name": "Camille",
           "score": 295216
         },
         {
-          "rank": 17,
+          "rank": 18,
           "name": "Ameya",
           "score": 294790
         },
         {
-          "rank": 18,
+          "rank": 19,
           "name": "Aloy",
           "score": 293666
         },
         {
-          "rank": 19,
+          "rank": 20,
           "name": "Aethna O",
           "score": 293646
-        },
-        {
-          "rank": 20,
-          "name": "lnfi",
-          "score": 291626
         }
       ],
       "volume": 1,
@@ -13231,78 +13231,78 @@
         },
         {
           "rank": 6,
+          "name": "Enznya",
+          "score": 364672
+        },
+        {
+          "rank": 7,
           "name": "Yuka lto",
           "score": 361765
         },
         {
-          "rank": 7,
+          "rank": 8,
           "name": "Aria Shiro",
           "score": 361322
         },
         {
-          "rank": 8,
+          "rank": 9,
           "name": "Disgust",
           "score": 361267
         },
         {
-          "rank": 9,
+          "rank": 10,
           "name": "Selina",
           "score": 361177
         },
         {
-          "rank": 10,
+          "rank": 11,
           "name": "Elli Miku",
           "score": 360050
         },
         {
-          "rank": 11,
+          "rank": 12,
           "name": "\u00df\u00c5M\u00df\u00ce",
           "score": 359708
         },
         {
-          "rank": 12,
+          "rank": 13,
           "name": "Youlan",
           "score": 359135
         },
         {
-          "rank": 13,
+          "rank": 14,
           "name": "Carissa",
           "score": 357542
         },
         {
-          "rank": 14,
+          "rank": 15,
           "name": "Jennifer",
           "score": 356534
         },
         {
-          "rank": 15,
+          "rank": 16,
           "name": "KaiBerrii",
           "score": 355761
         },
         {
-          "rank": 16,
+          "rank": 17,
           "name": "Ivory",
           "score": 355631
         },
         {
-          "rank": 17,
+          "rank": 18,
           "name": "yumi glitter",
           "score": 355350
         },
         {
-          "rank": 18,
+          "rank": 19,
           "name": "Tiara",
           "score": 355238
         },
         {
-          "rank": 19,
+          "rank": 20,
           "name": "Ruby Lissa",
           "score": 354374
-        },
-        {
-          "rank": 20,
-          "name": "Jenna",
-          "score": 354346
         }
       ],
       "volume": 1,
@@ -13436,38 +13436,38 @@
         },
         {
           "rank": 3,
+          "name": "Mikachuu",
+          "score": 229997
+        },
+        {
+          "rank": 4,
           "name": "Leonie Quin",
           "score": 228315
         },
         {
-          "rank": 4,
+          "rank": 5,
           "name": "Enznya",
           "score": 227866
         },
         {
-          "rank": 5,
+          "rank": 6,
           "name": "spiderfeets",
           "score": 227753
         },
         {
-          "rank": 6,
+          "rank": 7,
           "name": "Cherry Ann",
           "score": 227146
         },
         {
-          "rank": 7,
+          "rank": 8,
           "name": "Frost Flora",
           "score": 225459
         },
         {
-          "rank": 8,
+          "rank": 9,
           "name": "Nagisa",
           "score": 224729
-        },
-        {
-          "rank": 9,
-          "name": "Mikachuu",
-          "score": 224261
         },
         {
           "rank": 10,
@@ -13646,103 +13646,103 @@
       "entries": [
         {
           "rank": 1,
+          "name": "Enznya",
+          "score": 349794
+        },
+        {
+          "rank": 2,
           "name": "Mikachuu",
           "score": 349667
         },
         {
-          "rank": 2,
+          "rank": 3,
           "name": "Athena",
           "score": 338679
         },
         {
-          "rank": 3,
+          "rank": 4,
           "name": "Leonie Quin",
           "score": 337986
         },
         {
-          "rank": 4,
+          "rank": 5,
           "name": "Silverivy13",
           "score": 333766
         },
         {
-          "rank": 5,
+          "rank": 6,
           "name": "Charlotte",
           "score": 333711
         },
         {
-          "rank": 6,
+          "rank": 7,
           "name": "Yumi",
           "score": 331211
         },
         {
-          "rank": 7,
+          "rank": 8,
           "name": "lnfi",
           "score": 329532
         },
         {
-          "rank": 8,
+          "rank": 9,
           "name": "Riri",
           "score": 326727
         },
         {
-          "rank": 9,
+          "rank": 10,
           "name": "Ameya",
           "score": 321358
         },
         {
-          "rank": 10,
+          "rank": 11,
           "name": "Nicky",
           "score": 320088
         },
         {
-          "rank": 11,
+          "rank": 12,
           "name": "ViolettaDoll",
           "score": 317287
         },
         {
-          "rank": 12,
+          "rank": 13,
           "name": "Mo",
           "score": 316594
         },
         {
-          "rank": 13,
+          "rank": 14,
           "name": "Cheyenn",
           "score": 316290
         },
         {
-          "rank": 14,
+          "rank": 15,
           "name": "LivingRose",
           "score": 316103
         },
         {
-          "rank": 15,
+          "rank": 16,
           "name": "\u51cc\u7f8e\u96ea",
           "score": 314614
         },
         {
-          "rank": 16,
+          "rank": 17,
           "name": "Valentina",
           "score": 313322
         },
         {
-          "rank": 17,
+          "rank": 18,
           "name": "Goldi",
           "score": 308209
         },
         {
-          "rank": 18,
+          "rank": 19,
           "name": "Celena Tatum",
           "score": 307194
         },
         {
-          "rank": 19,
+          "rank": 20,
           "name": "Aria Shiro",
           "score": 307092
-        },
-        {
-          "rank": 20,
-          "name": "Cherry",
-          "score": 306561
         }
       ],
       "volume": 1,
@@ -13956,13 +13956,13 @@
         },
         {
           "rank": 19,
-          "name": "Jennifer",
-          "score": 189573
+          "name": "HOTS",
+          "score": 189590
         },
         {
           "rank": 20,
-          "name": "Aria",
-          "score": 189559
+          "name": "Jennifer",
+          "score": 189573
         }
       ],
       "volume": 1,
@@ -14431,88 +14431,88 @@
         },
         {
           "rank": 4,
+          "name": "Mavourneen",
+          "score": 265110
+        },
+        {
+          "rank": 5,
           "name": "Mikachuu",
           "score": 265078
         },
         {
-          "rank": 5,
+          "rank": 6,
           "name": "Aloy",
           "score": 264335
         },
         {
-          "rank": 6,
+          "rank": 7,
           "name": "Frost Flora",
           "score": 262726
         },
         {
-          "rank": 7,
+          "rank": 8,
           "name": "AliceMadCat",
           "score": 262513
         },
         {
-          "rank": 8,
+          "rank": 9,
+          "name": "Nicky",
+          "score": 261872
+        },
+        {
+          "rank": 10,
           "name": "Jenna",
           "score": 261559
         },
         {
-          "rank": 9,
+          "rank": 11,
           "name": "Aria",
           "score": 260912
         },
         {
-          "rank": 10,
+          "rank": 12,
           "name": "Ruby Lissa",
           "score": 260894
         },
         {
-          "rank": 11,
+          "rank": 13,
           "name": "yumi glitter",
           "score": 260461
         },
         {
-          "rank": 12,
+          "rank": 14,
           "name": "CheshireCat",
           "score": 259366
         },
         {
-          "rank": 13,
+          "rank": 15,
           "name": "Silverivy13",
           "score": 258542
         },
         {
-          "rank": 14,
+          "rank": 16,
           "name": "Ayu",
           "score": 256652
         },
         {
-          "rank": 15,
+          "rank": 17,
           "name": "xyz",
           "score": 256419
         },
         {
-          "rank": 16,
+          "rank": 18,
           "name": "Jennifer",
           "score": 256178
         },
         {
-          "rank": 17,
+          "rank": 19,
           "name": "Karly",
           "score": 256050
         },
         {
-          "rank": 18,
+          "rank": 20,
           "name": "Lyra Talise",
           "score": 256019
-        },
-        {
-          "rank": 19,
-          "name": "Emma",
-          "score": 255782
-        },
-        {
-          "rank": 20,
-          "name": "KayTee",
-          "score": 255411
         }
       ],
       "volume": 1,
@@ -15661,48 +15661,48 @@
         },
         {
           "rank": 8,
+          "name": "EvelynLemus",
+          "score": 176265
+        },
+        {
+          "rank": 9,
           "name": "Mavourneen",
           "score": 175256
         },
         {
-          "rank": 9,
+          "rank": 10,
           "name": "Nicky",
           "score": 174571
         },
         {
-          "rank": 10,
+          "rank": 11,
           "name": "Silverivy13",
           "score": 174316
         },
         {
-          "rank": 11,
+          "rank": 12,
           "name": "Rainysnow",
           "score": 174248
         },
         {
-          "rank": 12,
+          "rank": 13,
           "name": "Valentina",
           "score": 173118
         },
         {
-          "rank": 13,
+          "rank": 14,
           "name": "Ivory",
           "score": 172805
         },
         {
-          "rank": 14,
+          "rank": 15,
           "name": "Selina",
           "score": 172062
         },
         {
-          "rank": 15,
+          "rank": 16,
           "name": "Sugarsop",
           "score": 171923
-        },
-        {
-          "rank": 16,
-          "name": "EvelynLemus",
-          "score": 171326
         },
         {
           "rank": 17,
@@ -16421,78 +16421,78 @@
         },
         {
           "rank": 6,
+          "name": "Nicky",
+          "score": 280280
+        },
+        {
+          "rank": 7,
           "name": "Yumi",
           "score": 280265
         },
         {
-          "rank": 7,
+          "rank": 8,
           "name": "Aloy",
           "score": 279851
         },
         {
-          "rank": 8,
+          "rank": 9,
           "name": "AliceMadCat",
           "score": 278138
         },
         {
-          "rank": 9,
+          "rank": 10,
           "name": "Aria",
           "score": 277522
         },
         {
-          "rank": 10,
+          "rank": 11,
           "name": "Leonie Quin",
           "score": 277226
         },
         {
-          "rank": 11,
+          "rank": 12,
           "name": "bae",
           "score": 276766
         },
         {
-          "rank": 12,
+          "rank": 13,
           "name": "yumi glitter",
           "score": 276211
         },
         {
-          "rank": 13,
+          "rank": 14,
           "name": "Yui",
           "score": 273825
         },
         {
-          "rank": 14,
+          "rank": 15,
           "name": "spiderfeets",
           "score": 273654
         },
         {
-          "rank": 15,
+          "rank": 16,
           "name": "Silverivy13",
           "score": 273478
         },
         {
-          "rank": 16,
+          "rank": 17,
           "name": "Youlan",
           "score": 273148
         },
         {
-          "rank": 17,
+          "rank": 18,
           "name": "Frost Flora",
           "score": 272862
         },
         {
-          "rank": 18,
+          "rank": 19,
           "name": "ItMeDraacula",
           "score": 272764
         },
         {
-          "rank": 19,
+          "rank": 20,
           "name": "Rynettw",
           "score": 272582
-        },
-        {
-          "rank": 20,
-          "name": "Faine",
-          "score": 272468
         }
       ],
       "volume": 1,
@@ -16821,8 +16821,8 @@
         },
         {
           "rank": 20,
-          "name": "Ruby Lissa",
-          "score": 261065
+          "name": "Cherry",
+          "score": 261321
         }
       ],
       "volume": 1,
@@ -17061,18 +17061,18 @@
         },
         {
           "rank": 2,
+          "name": "ViolettaDoll",
+          "score": 319986
+        },
+        {
+          "rank": 3,
           "name": "Leonie Quin",
           "score": 319524
         },
         {
-          "rank": 3,
+          "rank": 4,
           "name": "Mikachuu",
           "score": 315592
-        },
-        {
-          "rank": 4,
-          "name": "ViolettaDoll",
-          "score": 299385
         },
         {
           "rank": 5,
@@ -17231,38 +17231,38 @@
         },
         {
           "rank": 14,
+          "name": "Aol",
+          "score": 176566
+        },
+        {
+          "rank": 15,
           "name": "Izzy",
           "score": 176435
         },
         {
-          "rank": 15,
+          "rank": 16,
           "name": "Elle Cy",
           "score": 176238
         },
         {
-          "rank": 16,
+          "rank": 17,
           "name": "KayTee",
           "score": 176070
         },
         {
-          "rank": 17,
+          "rank": 18,
           "name": "s   y   n",
           "score": 175998
         },
         {
-          "rank": 18,
+          "rank": 19,
           "name": "Aethna O",
           "score": 175936
         },
         {
-          "rank": 19,
+          "rank": 20,
           "name": "bae",
           "score": 175814
-        },
-        {
-          "rank": 20,
-          "name": "Snow",
-          "score": 175794
         }
       ],
       "volume": 1,
@@ -18451,28 +18451,28 @@
         },
         {
           "rank": 16,
+          "name": "Lily",
+          "score": 226526
+        },
+        {
+          "rank": 17,
           "name": "Melody",
           "score": 225644
         },
         {
-          "rank": 17,
+          "rank": 18,
           "name": "Frost Flora",
           "score": 225608
         },
         {
-          "rank": 18,
+          "rank": 19,
           "name": "Youlan",
           "score": 225233
         },
         {
-          "rank": 19,
+          "rank": 20,
           "name": "Jennifer",
           "score": 225222
-        },
-        {
-          "rank": 20,
-          "name": "Nicole Kim",
-          "score": 224933
         }
       ],
       "volume": 1,
@@ -18501,88 +18501,88 @@
         },
         {
           "rank": 4,
+          "name": "EvelynLemus",
+          "score": 211922
+        },
+        {
+          "rank": 5,
           "name": "Leonie Quin",
           "score": 211042
         },
         {
-          "rank": 5,
+          "rank": 6,
           "name": "Aethna O",
           "score": 209166
         },
         {
-          "rank": 6,
+          "rank": 7,
           "name": "Alluka",
           "score": 208760
         },
         {
-          "rank": 7,
+          "rank": 8,
           "name": "ViolettaDoll",
           "score": 208715
         },
         {
-          "rank": 8,
+          "rank": 9,
           "name": "Mikachuu",
           "score": 207830
         },
         {
-          "rank": 9,
+          "rank": 10,
           "name": "Helena",
           "score": 205716
         },
         {
-          "rank": 10,
+          "rank": 11,
           "name": "\u029a\u03ca\u025e",
           "score": 205008
         },
         {
-          "rank": 11,
+          "rank": 12,
           "name": "Aloy",
           "score": 203259
         },
         {
-          "rank": 12,
+          "rank": 13,
           "name": "Eurasia Enne",
           "score": 202934
         },
         {
-          "rank": 13,
+          "rank": 14,
           "name": "Enznya",
           "score": 202595
         },
         {
-          "rank": 14,
+          "rank": 15,
           "name": "lnfi",
           "score": 202299
         },
         {
-          "rank": 15,
+          "rank": 16,
           "name": "Frost Flora",
           "score": 202198
         },
         {
-          "rank": 16,
+          "rank": 17,
           "name": "Silverivy13",
           "score": 202060
         },
         {
-          "rank": 17,
+          "rank": 18,
           "name": "Nagisa",
           "score": 201892
         },
         {
-          "rank": 18,
+          "rank": 19,
           "name": "Cheyenn",
           "score": 201701
         },
         {
-          "rank": 19,
+          "rank": 20,
           "name": "Maki Crimson",
           "score": 200580
-        },
-        {
-          "rank": 20,
-          "name": "sana\u0660",
-          "score": 200404
         }
       ],
       "volume": 1,
@@ -20296,28 +20296,28 @@
         },
         {
           "rank": 11,
+          "name": "Anya",
+          "score": 253015
+        },
+        {
+          "rank": 12,
           "name": "Cherry",
           "score": 253013
         },
         {
-          "rank": 12,
+          "rank": 13,
           "name": "Alice",
           "score": 252843
         },
         {
-          "rank": 13,
+          "rank": 14,
           "name": "KaiBerrii",
           "score": 252786
         },
         {
-          "rank": 14,
+          "rank": 15,
           "name": "Edgecrusher",
           "score": 252718
-        },
-        {
-          "rank": 15,
-          "name": "Anya",
-          "score": 252410
         },
         {
           "rank": 16,
@@ -22016,73 +22016,73 @@
         },
         {
           "rank": 3,
+          "name": "Jenny",
+          "score": 272115
+        },
+        {
+          "rank": 4,
           "name": "Mikachuu",
           "score": 267976
         },
         {
-          "rank": 4,
+          "rank": 5,
           "name": "Leonie Quin",
           "score": 267198
         },
         {
-          "rank": 5,
+          "rank": 6,
           "name": "ViolettaDoll",
           "score": 265600
         },
         {
-          "rank": 6,
+          "rank": 7,
           "name": "Cheyenn",
           "score": 264955
         },
         {
-          "rank": 7,
+          "rank": 8,
           "name": "Aloy",
           "score": 264880
         },
         {
-          "rank": 8,
+          "rank": 9,
           "name": "Camille",
           "score": 264240
         },
         {
-          "rank": 9,
+          "rank": 10,
           "name": "Yumi",
           "score": 263285
         },
         {
-          "rank": 10,
+          "rank": 11,
           "name": "Frost Flora",
           "score": 262619
         },
         {
-          "rank": 11,
+          "rank": 12,
           "name": "yumi glitter",
           "score": 262155
         },
         {
-          "rank": 12,
+          "rank": 13,
           "name": "Jennifer",
           "score": 261858
         },
         {
-          "rank": 13,
+          "rank": 14,
           "name": "Yuka lto",
           "score": 261639
         },
         {
-          "rank": 14,
+          "rank": 15,
           "name": "Nicky",
           "score": 261606
         },
         {
-          "rank": 15,
+          "rank": 16,
           "name": "AliceMadCat",
           "score": 261394
-        },
-        {
-          "rank": 16,
-          "name": "Jenny",
-          "score": 261302
         },
         {
           "rank": 17,
@@ -22136,38 +22136,38 @@
         },
         {
           "rank": 5,
+          "name": "Jenny",
+          "score": 264555
+        },
+        {
+          "rank": 6,
           "name": "Aloy",
           "score": 264239
         },
         {
-          "rank": 6,
+          "rank": 7,
           "name": "yumi glitter",
           "score": 264029
         },
         {
-          "rank": 7,
+          "rank": 8,
           "name": "Elle Cy",
           "score": 263505
         },
         {
-          "rank": 8,
+          "rank": 9,
           "name": "KayTee",
           "score": 262853
         },
         {
-          "rank": 9,
+          "rank": 10,
           "name": "Aria",
           "score": 262702
         },
         {
-          "rank": 10,
+          "rank": 11,
           "name": "cbNuna",
           "score": 261935
-        },
-        {
-          "rank": 11,
-          "name": "Jenny",
-          "score": 261383
         },
         {
           "rank": 12,
@@ -22776,53 +22776,53 @@
       "entries": [
         {
           "rank": 1,
+          "name": "Mikachuu",
+          "score": 280086
+        },
+        {
+          "rank": 2,
           "name": "Athena",
           "score": 278946
         },
         {
-          "rank": 2,
+          "rank": 3,
           "name": "Leonie Quin",
           "score": 278411
         },
         {
-          "rank": 3,
+          "rank": 4,
           "name": "Aloy",
           "score": 273930
         },
         {
-          "rank": 4,
+          "rank": 5,
           "name": "ViolettaDoll",
           "score": 272778
         },
         {
-          "rank": 5,
+          "rank": 6,
           "name": "Aria",
           "score": 270843
         },
         {
-          "rank": 6,
+          "rank": 7,
           "name": "Frost Flora",
           "score": 270752
         },
         {
-          "rank": 7,
+          "rank": 8,
           "name": "BEANLOVER420",
           "score": 270203
         },
         {
-          "rank": 8,
+          "rank": 9,
           "name": "yumi glitter",
           "score": 269182
         },
         {
-          "rank": 9,
+          "rank": 10,
           "name": "Rynettw",
           "score": 268937
-        },
-        {
-          "rank": 10,
-          "name": "Mikachuu",
-          "score": 267891
         },
         {
           "rank": 11,
@@ -23786,13 +23786,13 @@
         },
         {
           "rank": 5,
-          "name": "spiderfeets",
-          "score": 308890
+          "name": "Mikachuu",
+          "score": 311431
         },
         {
           "rank": 6,
-          "name": "Mikachuu",
-          "score": 306902
+          "name": "spiderfeets",
+          "score": 308890
         },
         {
           "rank": 7,
@@ -23896,43 +23896,43 @@
         },
         {
           "rank": 5,
+          "name": "Mikachuu",
+          "score": 314124
+        },
+        {
+          "rank": 6,
           "name": "Athena",
           "score": 312355
         },
         {
-          "rank": 6,
+          "rank": 7,
           "name": "Mavourneen",
           "score": 311095
         },
         {
-          "rank": 7,
+          "rank": 8,
           "name": "Leonie Quin",
           "score": 310907
         },
         {
-          "rank": 8,
+          "rank": 9,
           "name": "EvelynLemus",
           "score": 307509
         },
         {
-          "rank": 9,
+          "rank": 10,
           "name": "Cheyenn",
           "score": 306479
         },
         {
-          "rank": 10,
+          "rank": 11,
           "name": "Rynettw",
           "score": 306137
         },
         {
-          "rank": 11,
+          "rank": 12,
           "name": "Ameya",
           "score": 304969
-        },
-        {
-          "rank": 12,
-          "name": "Mikachuu",
-          "score": 304228
         },
         {
           "rank": 13,
@@ -24211,98 +24211,98 @@
         },
         {
           "rank": 2,
+          "name": "spiderfeets",
+          "score": 256988
+        },
+        {
+          "rank": 3,
           "name": "Leonie Quin",
           "score": 256704
         },
         {
-          "rank": 3,
+          "rank": 4,
           "name": "EvelynLemus",
           "score": 254815
         },
         {
-          "rank": 4,
+          "rank": 5,
           "name": "ViolettaDoll",
           "score": 254492
         },
         {
-          "rank": 5,
+          "rank": 6,
           "name": "Jupitia",
           "score": 253694
         },
         {
-          "rank": 6,
+          "rank": 7,
           "name": "Mikachuu",
           "score": 253678
         },
         {
-          "rank": 7,
+          "rank": 8,
           "name": "Nicky",
           "score": 249573
         },
         {
-          "rank": 8,
+          "rank": 9,
           "name": "Cherry",
           "score": 249044
         },
         {
-          "rank": 9,
+          "rank": 10,
           "name": "Enznya",
           "score": 248890
         },
         {
-          "rank": 10,
+          "rank": 11,
           "name": "Cheyenn",
           "score": 248620
         },
         {
-          "rank": 11,
+          "rank": 12,
           "name": "Aloy",
           "score": 247023
         },
         {
-          "rank": 12,
+          "rank": 13,
           "name": "Rainysnow",
           "score": 246967
         },
         {
-          "rank": 13,
+          "rank": 14,
           "name": "Seikatsu",
           "score": 246159
         },
         {
-          "rank": 14,
+          "rank": 15,
           "name": "Frost Flora",
           "score": 245615
         },
         {
-          "rank": 15,
+          "rank": 16,
           "name": "Mo\u00ef M\u00e9l",
           "score": 245597
         },
         {
-          "rank": 16,
+          "rank": 17,
           "name": "Celena Tatum",
           "score": 245294
         },
         {
-          "rank": 17,
+          "rank": 18,
           "name": "Ariina",
           "score": 245260
         },
         {
-          "rank": 18,
+          "rank": 19,
           "name": "Camille",
           "score": 244634
         },
         {
-          "rank": 19,
+          "rank": 20,
           "name": "Youlan",
           "score": 244420
-        },
-        {
-          "rank": 20,
-          "name": "Selina",
-          "score": 244144
         }
       ],
       "volume": 1,
@@ -25541,38 +25541,38 @@
         },
         {
           "rank": 4,
+          "name": "Mikachuu",
+          "score": 190422
+        },
+        {
+          "rank": 5,
           "name": "ViolettaDoll",
           "score": 190169
         },
         {
-          "rank": 5,
+          "rank": 6,
           "name": "Camille",
           "score": 189134
         },
         {
-          "rank": 6,
+          "rank": 7,
           "name": "Enznya",
           "score": 187305
         },
         {
-          "rank": 7,
+          "rank": 8,
           "name": "Cherry Ann",
           "score": 187290
         },
         {
-          "rank": 8,
+          "rank": 9,
           "name": "Ariina",
           "score": 186217
         },
         {
-          "rank": 9,
+          "rank": 10,
           "name": "Winter",
           "score": 185282
-        },
-        {
-          "rank": 10,
-          "name": "Mikachuu",
-          "score": 185203
         },
         {
           "rank": 11,
@@ -25966,43 +25966,43 @@
       "entries": [
         {
           "rank": 1,
+          "name": "Mikachuu",
+          "score": 229376
+        },
+        {
+          "rank": 2,
           "name": "xxKristianxx",
           "score": 226069
         },
         {
-          "rank": 2,
+          "rank": 3,
           "name": "ViolettaDoll",
           "score": 225978
         },
         {
-          "rank": 3,
+          "rank": 4,
           "name": "Athena",
           "score": 225962
         },
         {
-          "rank": 4,
+          "rank": 5,
           "name": "Leonie Quin",
           "score": 224589
         },
         {
-          "rank": 5,
+          "rank": 6,
           "name": "Camille",
           "score": 221836
         },
         {
-          "rank": 6,
+          "rank": 7,
           "name": "Enznya",
           "score": 219133
         },
         {
-          "rank": 7,
+          "rank": 8,
           "name": "Nicky",
           "score": 218438
-        },
-        {
-          "rank": 8,
-          "name": "Mikachuu",
-          "score": 218387
         },
         {
           "rank": 9,
@@ -26116,33 +26116,33 @@
         },
         {
           "rank": 9,
+          "name": "Mikachuu",
+          "score": 217472
+        },
+        {
+          "rank": 10,
           "name": "Rynettw",
           "score": 214323
         },
         {
-          "rank": 10,
+          "rank": 11,
           "name": "Aloy",
           "score": 214287
         },
         {
-          "rank": 11,
+          "rank": 12,
           "name": "Morvoren",
           "score": 214278
         },
         {
-          "rank": 12,
+          "rank": 13,
           "name": "Ruby Lissa",
           "score": 213516
         },
         {
-          "rank": 13,
+          "rank": 14,
           "name": "yumi glitter",
           "score": 213479
-        },
-        {
-          "rank": 14,
-          "name": "Mikachuu",
-          "score": 213319
         },
         {
           "rank": 15,
@@ -26862,7 +26862,7 @@
         {
           "rank": 4,
           "name": "ViolettaDoll",
-          "score": 191117
+          "score": 191330
         },
         {
           "rank": 5,
@@ -27066,33 +27066,33 @@
       "entries": [
         {
           "rank": 1,
+          "name": "Mikachuu",
+          "score": 235628
+        },
+        {
+          "rank": 2,
           "name": "Athena",
           "score": 228846
         },
         {
-          "rank": 2,
+          "rank": 3,
           "name": "Leonie Quin",
           "score": 228683
         },
         {
-          "rank": 3,
+          "rank": 4,
           "name": "ViolettaDoll",
           "score": 228336
         },
         {
-          "rank": 4,
+          "rank": 5,
           "name": "Enznya",
           "score": 227247
         },
         {
-          "rank": 5,
+          "rank": 6,
           "name": "Camille",
           "score": 225724
-        },
-        {
-          "rank": 6,
-          "name": "Mikachuu",
-          "score": 224308
         },
         {
           "rank": 7,
@@ -27191,13 +27191,13 @@
         },
         {
           "rank": 4,
-          "name": "Camille",
-          "score": 225417
+          "name": "Mikachuu",
+          "score": 227809
         },
         {
           "rank": 5,
-          "name": "Mikachuu",
-          "score": 223882
+          "name": "Camille",
+          "score": 225417
         },
         {
           "rank": 6,
@@ -31136,23 +31136,23 @@
       "entries": [
         {
           "rank": 1,
+          "name": "ViolettaDoll",
+          "score": 174295
+        },
+        {
+          "rank": 2,
           "name": "Athena",
           "score": 172220
         },
         {
-          "rank": 2,
+          "rank": 3,
           "name": "Leonie Quin",
           "score": 172152
         },
         {
-          "rank": 3,
+          "rank": 4,
           "name": "Aloy",
           "score": 171371
-        },
-        {
-          "rank": 4,
-          "name": "ViolettaDoll",
-          "score": 171328
         },
         {
           "rank": 5,
@@ -32306,33 +32306,33 @@
         },
         {
           "rank": 15,
+          "name": "\u00df\u00c5M\u00df\u00ce",
+          "score": 206630
+        },
+        {
+          "rank": 16,
           "name": "Enznya",
           "score": 203322
         },
         {
-          "rank": 16,
+          "rank": 17,
           "name": "CheshireCat",
           "score": 201346
         },
         {
-          "rank": 17,
+          "rank": 18,
           "name": "Sugarsop",
           "score": 197868
         },
         {
-          "rank": 18,
+          "rank": 19,
           "name": "Vesta",
           "score": 197283
         },
         {
-          "rank": 19,
+          "rank": 20,
           "name": "Storm",
           "score": 196656
-        },
-        {
-          "rank": 20,
-          "name": "Emma",
-          "score": 195103
         }
       ],
       "volume": 1,
@@ -32681,18 +32681,18 @@
         },
         {
           "rank": 2,
+          "name": "Mikachuu",
+          "score": 209818
+        },
+        {
+          "rank": 3,
           "name": "ViolettaDoll",
           "score": 208508
         },
         {
-          "rank": 3,
+          "rank": 4,
           "name": "Nicky",
           "score": 198050
-        },
-        {
-          "rank": 4,
-          "name": "Mikachuu",
-          "score": 196881
         },
         {
           "rank": 5,
@@ -33006,48 +33006,48 @@
       "entries": [
         {
           "rank": 1,
-          "name": "Mikachuu",
-          "score": 201019
+          "name": "Camille",
+          "score": 210394
         },
         {
           "rank": 2,
+          "name": "Mikachuu",
+          "score": 206109
+        },
+        {
+          "rank": 3,
           "name": "Athena",
           "score": 194263
         },
         {
-          "rank": 3,
+          "rank": 4,
           "name": "Leonie Quin",
           "score": 193561
         },
         {
-          "rank": 4,
+          "rank": 5,
           "name": "ViolettaDoll",
           "score": 193064
         },
         {
-          "rank": 5,
+          "rank": 6,
           "name": "spiderfeets",
           "score": 190432
         },
         {
-          "rank": 6,
+          "rank": 7,
           "name": "Nicky",
           "score": 186429
         },
         {
-          "rank": 7,
+          "rank": 8,
           "name": "Enznya",
           "score": 183893
         },
         {
-          "rank": 8,
+          "rank": 9,
           "name": "Cheyenn",
           "score": 181862
-        },
-        {
-          "rank": 9,
-          "name": "Camille",
-          "score": 179128
         },
         {
           "rank": 10,
@@ -33101,8 +33101,8 @@
         },
         {
           "rank": 20,
-          "name": "Ariina",
-          "score": 174285
+          "name": "EvelynLemus",
+          "score": 174478
         }
       ],
       "volume": 1,
@@ -33116,43 +33116,43 @@
       "entries": [
         {
           "rank": 1,
+          "name": "Camille",
+          "score": 206966
+        },
+        {
+          "rank": 2,
           "name": "Mikachuu",
           "score": 206479
         },
         {
-          "rank": 2,
+          "rank": 3,
           "name": "Athena",
           "score": 193745
         },
         {
-          "rank": 3,
+          "rank": 4,
           "name": "Leonie Quin",
           "score": 193673
         },
         {
-          "rank": 4,
+          "rank": 5,
           "name": "ViolettaDoll",
           "score": 192263
         },
         {
-          "rank": 5,
+          "rank": 6,
           "name": "spiderfeets",
           "score": 187974
         },
         {
-          "rank": 6,
+          "rank": 7,
           "name": "Nicky",
           "score": 187514
         },
         {
-          "rank": 7,
+          "rank": 8,
           "name": "Rynettw",
           "score": 187211
-        },
-        {
-          "rank": 8,
-          "name": "Camille",
-          "score": 186372
         },
         {
           "rank": 9,
@@ -36862,7 +36862,7 @@
         {
           "rank": 2,
           "name": "Mikachuu",
-          "score": 223566
+          "score": 227815
         },
         {
           "rank": 3,
@@ -37281,8 +37281,8 @@
         },
         {
           "rank": 20,
-          "name": "LePanda",
-          "score": 215991
+          "name": "EvelynLemus",
+          "score": 217143
         }
       ],
       "volume": 1,
@@ -37741,18 +37741,18 @@
         },
         {
           "rank": 2,
+          "name": "Mikachuu",
+          "score": 183830
+        },
+        {
+          "rank": 3,
           "name": "ViolettaDoll",
           "score": 180727
         },
         {
-          "rank": 3,
+          "rank": 4,
           "name": "Leonie Quin",
           "score": 178599
-        },
-        {
-          "rank": 4,
-          "name": "Mikachuu",
-          "score": 177846
         },
         {
           "rank": 5,
@@ -42162,7 +42162,7 @@
         {
           "rank": 6,
           "name": "Anya",
-          "score": 197972
+          "score": 198967
         },
         {
           "rank": 7,
@@ -43126,23 +43126,23 @@
       "entries": [
         {
           "rank": 1,
+          "name": "Mikachuu",
+          "score": 232786
+        },
+        {
+          "rank": 2,
           "name": "Athena",
           "score": 230637
         },
         {
-          "rank": 2,
+          "rank": 3,
           "name": "Nicky",
           "score": 230560
         },
         {
-          "rank": 3,
+          "rank": 4,
           "name": "Leonie Quin",
           "score": 227733
-        },
-        {
-          "rank": 4,
-          "name": "Mikachuu",
-          "score": 223231
         },
         {
           "rank": 5,
@@ -43176,53 +43176,53 @@
         },
         {
           "rank": 11,
+          "name": "Yui",
+          "score": 205289
+        },
+        {
+          "rank": 12,
           "name": "Enznya",
           "score": 205058
         },
         {
-          "rank": 12,
+          "rank": 13,
           "name": "Cheyenn",
           "score": 201923
         },
         {
-          "rank": 13,
+          "rank": 14,
           "name": "Corais",
           "score": 200861
         },
         {
-          "rank": 14,
+          "rank": 15,
           "name": "EvelynLemus",
           "score": 200853
         },
         {
-          "rank": 15,
+          "rank": 16,
           "name": "Jennifer",
           "score": 200847
         },
         {
-          "rank": 16,
+          "rank": 17,
           "name": "Yumi",
           "score": 200691
         },
         {
-          "rank": 17,
+          "rank": 18,
           "name": "Aria",
           "score": 200299
         },
         {
-          "rank": 18,
+          "rank": 19,
           "name": "AliceMadCat",
           "score": 200220
         },
         {
-          "rank": 19,
+          "rank": 20,
           "name": "cbNuna",
           "score": 199981
-        },
-        {
-          "rank": 20,
-          "name": "yumi glitter",
-          "score": 199697
         }
       ],
       "volume": 1,
@@ -43351,18 +43351,18 @@
         },
         {
           "rank": 2,
+          "name": "Mikachuu",
+          "score": 218194
+        },
+        {
+          "rank": 3,
           "name": "Sumire",
           "score": 215102
         },
         {
-          "rank": 3,
-          "name": "Cherry Ann",
-          "score": 210160
-        },
-        {
           "rank": 4,
-          "name": "Mikachuu",
-          "score": 209884
+          "name": "Cherry Ann",
+          "score": 212408
         },
         {
           "rank": 5,
@@ -43492,7 +43492,7 @@
         {
           "rank": 8,
           "name": "Cherry Ann",
-          "score": 209009
+          "score": 209307
         },
         {
           "rank": 9,
@@ -43911,43 +43911,43 @@
         },
         {
           "rank": 4,
+          "name": "Mikachuu",
+          "score": 205885
+        },
+        {
+          "rank": 5,
           "name": "Sayume",
           "score": 205609
         },
         {
-          "rank": 5,
+          "rank": 6,
           "name": "wyvern",
           "score": 202604
         },
         {
-          "rank": 6,
+          "rank": 7,
           "name": "Enznya",
           "score": 202536
         },
         {
-          "rank": 7,
+          "rank": 8,
           "name": "Leonie Quin",
           "score": 202311
         },
         {
-          "rank": 8,
+          "rank": 9,
           "name": "Frost Flora",
           "score": 201971
         },
         {
-          "rank": 9,
+          "rank": 10,
           "name": "Silverivy13",
           "score": 201691
         },
         {
-          "rank": 10,
+          "rank": 11,
           "name": "Aria",
           "score": 199425
-        },
-        {
-          "rank": 11,
-          "name": "Mikachuu",
-          "score": 199197
         },
         {
           "rank": 12,
@@ -45826,43 +45826,43 @@
         },
         {
           "rank": 13,
+          "name": "Nixie",
+          "score": 177364
+        },
+        {
+          "rank": 14,
           "name": "Heimish",
           "score": 175222
         },
         {
-          "rank": 14,
+          "rank": 15,
           "name": "Francis Aime",
           "score": 174869
         },
         {
-          "rank": 15,
+          "rank": 16,
           "name": "Cherry",
           "score": 174462
         },
         {
-          "rank": 16,
+          "rank": 17,
           "name": "Leonie Quin",
           "score": 174385
         },
         {
-          "rank": 17,
+          "rank": 18,
           "name": "Clare",
           "score": 173949
         },
         {
-          "rank": 18,
+          "rank": 19,
           "name": "Aol",
           "score": 173949
         },
         {
-          "rank": 19,
+          "rank": 20,
           "name": "Kityankaa",
           "score": 173720
-        },
-        {
-          "rank": 20,
-          "name": "Casaysha",
-          "score": 172344
         }
       ],
       "volume": 1,
@@ -45876,13 +45876,13 @@
       "entries": [
         {
           "rank": 1,
-          "name": "Athena",
-          "score": 190648
+          "name": "Mikachuu",
+          "score": 205332
         },
         {
           "rank": 2,
-          "name": "Mikachuu",
-          "score": 190371
+          "name": "Athena",
+          "score": 190648
         },
         {
           "rank": 3,
@@ -46241,68 +46241,68 @@
         },
         {
           "rank": 8,
+          "name": "EvelynLemus",
+          "score": 199933
+        },
+        {
+          "rank": 9,
           "name": "Leonie Quin",
           "score": 199792
         },
         {
-          "rank": 9,
+          "rank": 10,
           "name": "Rachel",
           "score": 194881
         },
         {
-          "rank": 10,
+          "rank": 11,
           "name": "Ariina",
           "score": 194131
         },
         {
-          "rank": 11,
+          "rank": 12,
           "name": "Aloy",
           "score": 193386
         },
         {
-          "rank": 12,
+          "rank": 13,
           "name": "Phoenix",
           "score": 193188
         },
         {
-          "rank": 13,
+          "rank": 14,
           "name": "Carissa",
           "score": 192547
         },
         {
-          "rank": 14,
+          "rank": 15,
           "name": "AliceMadCat",
           "score": 192511
         },
         {
-          "rank": 15,
+          "rank": 16,
           "name": "Vesta",
           "score": 192028
         },
         {
-          "rank": 16,
+          "rank": 17,
           "name": "Jennifer",
           "score": 192022
         },
         {
-          "rank": 17,
+          "rank": 18,
           "name": "yumi glitter",
           "score": 191912
         },
         {
-          "rank": 18,
+          "rank": 19,
           "name": "Aria",
           "score": 191841
         },
         {
-          "rank": 19,
+          "rank": 20,
           "name": "Jenna",
           "score": 191694
-        },
-        {
-          "rank": 20,
-          "name": "Youlan",
-          "score": 191687
         }
       ],
       "volume": 1,
@@ -46911,58 +46911,58 @@
         },
         {
           "rank": 10,
+          "name": "Sayume",
+          "score": 179316
+        },
+        {
+          "rank": 11,
           "name": "HeartQueen",
           "score": 179169
         },
         {
-          "rank": 11,
+          "rank": 12,
           "name": "Casaysha",
           "score": 178076
         },
         {
-          "rank": 12,
+          "rank": 13,
           "name": "lnfi",
           "score": 176843
         },
         {
-          "rank": 13,
+          "rank": 14,
           "name": "ViolettaDoll",
           "score": 175394
         },
         {
-          "rank": 14,
+          "rank": 15,
           "name": "EvelynLemus",
           "score": 175343
         },
         {
-          "rank": 15,
+          "rank": 16,
           "name": "Camille",
           "score": 173949
         },
         {
-          "rank": 16,
+          "rank": 17,
           "name": "Jewel Lyn",
           "score": 173625
         },
         {
-          "rank": 17,
+          "rank": 18,
+          "name": "Evie",
+          "score": 171175
+        },
+        {
+          "rank": 19,
           "name": "Vicky",
           "score": 169470
         },
         {
-          "rank": 18,
+          "rank": 20,
           "name": "kimikiui",
           "score": 169380
-        },
-        {
-          "rank": 19,
-          "name": "Mie My",
-          "score": 169107
-        },
-        {
-          "rank": 20,
-          "name": "LunarEclipse",
-          "score": 168353
         }
       ],
       "volume": 1,
@@ -47166,23 +47166,23 @@
         },
         {
           "rank": 17,
+          "name": "Camille",
+          "score": 157884
+        },
+        {
+          "rank": 18,
           "name": "Elle Cy",
           "score": 157664
         },
         {
-          "rank": 18,
+          "rank": 19,
           "name": "Jenna",
           "score": 157352
         },
         {
-          "rank": 19,
+          "rank": 20,
           "name": "Frost Flora",
           "score": 157319
-        },
-        {
-          "rank": 20,
-          "name": "Cryst\u03b1lR\u03b1in",
-          "score": 157264
         }
       ],
       "volume": 1,
@@ -47596,33 +47596,33 @@
         },
         {
           "rank": 15,
+          "name": "EvelynLemus",
+          "score": 209168
+        },
+        {
+          "rank": 16,
           "name": "Belle Amber",
           "score": 208165
         },
         {
-          "rank": 16,
+          "rank": 17,
           "name": "Cryst\u03b1lR\u03b1in",
           "score": 207608
         },
         {
-          "rank": 17,
+          "rank": 18,
           "name": "Nicky",
           "score": 207589
         },
         {
-          "rank": 18,
+          "rank": 19,
           "name": "Alicia Marie",
           "score": 205501
         },
         {
-          "rank": 19,
+          "rank": 20,
           "name": "Kana",
           "score": 205385
-        },
-        {
-          "rank": 20,
-          "name": "Yumi",
-          "score": 203475
         }
       ],
       "volume": 1,
@@ -48921,28 +48921,28 @@
         },
         {
           "rank": 16,
+          "name": "Evie",
+          "score": 190080
+        },
+        {
+          "rank": 17,
           "name": "Aria",
           "score": 189825
         },
         {
-          "rank": 17,
+          "rank": 18,
           "name": "Aloy",
           "score": 189554
         },
         {
-          "rank": 18,
+          "rank": 19,
           "name": "yumi glitter",
           "score": 189554
         },
         {
-          "rank": 19,
+          "rank": 20,
           "name": "Jennifer",
           "score": 189407
-        },
-        {
-          "rank": 20,
-          "name": "Elle Cy",
-          "score": 189399
         }
       ],
       "volume": 1,
@@ -50946,93 +50946,93 @@
         },
         {
           "rank": 3,
+          "name": "Akatsuki",
+          "score": 171053
+        },
+        {
+          "rank": 4,
           "name": "Leonie Quin",
           "score": 170500
         },
         {
-          "rank": 4,
+          "rank": 5,
           "name": "Mikachuu",
           "score": 168358
         },
         {
-          "rank": 5,
+          "rank": 6,
           "name": "Rynettw",
           "score": 166380
         },
         {
-          "rank": 6,
+          "rank": 7,
           "name": "Aloy",
           "score": 166177
         },
         {
-          "rank": 7,
+          "rank": 8,
           "name": "EvelynLemus",
           "score": 165807
         },
         {
-          "rank": 8,
+          "rank": 9,
           "name": "yumi glitter",
           "score": 165124
         },
         {
-          "rank": 9,
+          "rank": 10,
           "name": "Aria",
           "score": 164799
         },
         {
-          "rank": 10,
+          "rank": 11,
           "name": "Camille",
           "score": 164493
         },
         {
-          "rank": 11,
+          "rank": 12,
           "name": "Faine",
           "score": 164304
         },
         {
-          "rank": 12,
+          "rank": 13,
           "name": "Laila",
           "score": 164145
         },
         {
-          "rank": 13,
+          "rank": 14,
           "name": "Corais",
           "score": 163790
         },
         {
-          "rank": 14,
+          "rank": 15,
           "name": "Lori",
           "score": 163470
         },
         {
-          "rank": 15,
+          "rank": 16,
           "name": "Elle Cy",
           "score": 163413
         },
         {
-          "rank": 16,
+          "rank": 17,
           "name": "Jennifer",
           "score": 163344
         },
         {
-          "rank": 17,
+          "rank": 18,
           "name": "Jenna",
           "score": 162943
         },
         {
-          "rank": 18,
+          "rank": 19,
           "name": "Frost Flora",
           "score": 162756
         },
         {
-          "rank": 19,
+          "rank": 20,
           "name": "Alais",
           "score": 162214
-        },
-        {
-          "rank": 20,
-          "name": "AliceMadCat",
-          "score": 162138
         }
       ],
       "volume": 1,
@@ -51296,73 +51296,73 @@
         },
         {
           "rank": 7,
+          "name": "Kana",
+          "score": 171986
+        },
+        {
+          "rank": 8,
           "name": "Nicky",
           "score": 170685
         },
         {
-          "rank": 8,
+          "rank": 9,
           "name": "Ayana",
           "score": 167675
         },
         {
-          "rank": 9,
+          "rank": 10,
           "name": "ViolettaDoll",
           "score": 166332
         },
         {
-          "rank": 10,
+          "rank": 11,
           "name": "Leonie Quin",
           "score": 165972
         },
         {
-          "rank": 11,
+          "rank": 12,
           "name": "Aloy",
           "score": 165175
         },
         {
-          "rank": 12,
+          "rank": 13,
           "name": "Ivory",
           "score": 163980
         },
         {
-          "rank": 13,
+          "rank": 14,
           "name": "Stellalyn",
           "score": 163095
         },
         {
-          "rank": 14,
+          "rank": 15,
           "name": "Silverivy13",
           "score": 163026
         },
         {
-          "rank": 15,
+          "rank": 16,
           "name": "Jewel Lyn",
           "score": 162650
         },
         {
-          "rank": 16,
+          "rank": 17,
           "name": "Enznya",
           "score": 161752
         },
         {
-          "rank": 17,
+          "rank": 18,
           "name": "BEANLOVER420",
           "score": 161528
         },
         {
-          "rank": 18,
+          "rank": 19,
           "name": "R\u1d00\u1d20\u1d07\u0274",
           "score": 161136
         },
         {
-          "rank": 19,
+          "rank": 20,
           "name": "Youlan",
           "score": 160830
-        },
-        {
-          "rank": 20,
-          "name": "yumi glitter",
-          "score": 160687
         }
       ],
       "volume": 1,
@@ -51851,68 +51851,68 @@
         },
         {
           "rank": 8,
+          "name": "Corrie Akana",
+          "score": 182753
+        },
+        {
+          "rank": 9,
           "name": "Leonie Quin",
           "score": 182349
         },
         {
-          "rank": 9,
+          "rank": 10,
           "name": "Nicky",
           "score": 182079
         },
         {
-          "rank": 10,
+          "rank": 11,
           "name": "xyz",
           "score": 181547
         },
         {
-          "rank": 11,
+          "rank": 12,
           "name": "Aria",
           "score": 181420
         },
         {
-          "rank": 12,
+          "rank": 13,
           "name": "Storm",
           "score": 181304
         },
         {
-          "rank": 13,
+          "rank": 14,
           "name": "Jennifer",
           "score": 181242
         },
         {
-          "rank": 14,
+          "rank": 15,
           "name": "AliceMadCat",
           "score": 180388
         },
         {
-          "rank": 15,
+          "rank": 16,
           "name": "yumi glitter",
           "score": 180259
         },
         {
-          "rank": 16,
+          "rank": 17,
           "name": "Youlan",
           "score": 180122
         },
         {
-          "rank": 17,
+          "rank": 18,
           "name": "Noelle",
           "score": 180114
         },
         {
-          "rank": 18,
+          "rank": 19,
           "name": "Elle Cy",
           "score": 179441
         },
         {
-          "rank": 19,
+          "rank": 20,
           "name": "Shandi",
           "score": 179367
-        },
-        {
-          "rank": 20,
-          "name": "Aethna O",
-          "score": 178868
         }
       ],
       "volume": 1,
@@ -52267,7 +52267,7 @@
         {
           "rank": 3,
           "name": "Mikachuu",
-          "score": 267864
+          "score": 278378
         },
         {
           "rank": 4,
@@ -52316,43 +52316,43 @@
         },
         {
           "rank": 13,
+          "name": "Rynettw",
+          "score": 239028
+        },
+        {
+          "rank": 14,
           "name": "Elle Cy",
           "score": 238762
         },
         {
-          "rank": 14,
+          "rank": 15,
           "name": "AliceMadCat",
           "score": 238557
         },
         {
-          "rank": 15,
+          "rank": 16,
           "name": "Aloy",
           "score": 238333
         },
         {
-          "rank": 16,
+          "rank": 17,
           "name": "Nina Mann",
           "score": 238289
         },
         {
-          "rank": 17,
+          "rank": 18,
           "name": "yumi glitter",
           "score": 238118
         },
         {
-          "rank": 18,
+          "rank": 19,
           "name": "Lyra Talise",
           "score": 237898
         },
         {
-          "rank": 19,
+          "rank": 20,
           "name": "spiderfeets",
           "score": 237479
-        },
-        {
-          "rank": 20,
-          "name": "K\u0430rl Marx",
-          "score": 237419
         }
       ],
       "volume": 2,
@@ -52611,78 +52611,78 @@
         },
         {
           "rank": 6,
+          "name": "Brianda",
+          "score": 221186
+        },
+        {
+          "rank": 7,
           "name": "Enznya",
           "score": 219051
         },
         {
-          "rank": 7,
+          "rank": 8,
           "name": "Yumi",
           "score": 218974
         },
         {
-          "rank": 8,
+          "rank": 9,
           "name": "\u0422\u0435\u0441\u0441",
           "score": 218444
         },
         {
-          "rank": 9,
+          "rank": 10,
           "name": "Cheyenn",
           "score": 216760
         },
         {
-          "rank": 10,
+          "rank": 11,
           "name": "Camille",
           "score": 215572
         },
         {
-          "rank": 11,
+          "rank": 12,
           "name": "Aloy",
           "score": 214943
         },
         {
-          "rank": 12,
+          "rank": 13,
           "name": "Angeliki",
           "score": 214027
         },
         {
-          "rank": 13,
+          "rank": 14,
           "name": "yumi glitter",
           "score": 214002
         },
         {
-          "rank": 14,
+          "rank": 15,
           "name": "Frost Flora",
           "score": 213787
         },
         {
-          "rank": 15,
+          "rank": 16,
           "name": "EvelynLemus",
           "score": 213384
         },
         {
-          "rank": 16,
+          "rank": 17,
           "name": "Jennie",
           "score": 212818
         },
         {
-          "rank": 17,
+          "rank": 18,
           "name": "Silverivy13",
           "score": 212624
         },
         {
-          "rank": 18,
+          "rank": 19,
           "name": "lnfi",
           "score": 212512
         },
         {
-          "rank": 19,
+          "rank": 20,
           "name": "R\u1d00\u1d20\u1d07\u0274",
           "score": 212188
-        },
-        {
-          "rank": 20,
-          "name": "Brianda",
-          "score": 211849
         }
       ],
       "volume": 2,
@@ -52986,33 +52986,33 @@
         },
         {
           "rank": 15,
+          "name": "Rynettw",
+          "score": 162406
+        },
+        {
+          "rank": 16,
           "name": "Ivory",
           "score": 162349
         },
         {
-          "rank": 16,
+          "rank": 17,
           "name": "AliceMadCat",
           "score": 162326
         },
         {
-          "rank": 17,
+          "rank": 18,
           "name": "Aethna O",
           "score": 162201
         },
         {
-          "rank": 18,
+          "rank": 19,
           "name": "Mikachuu",
           "score": 161970
         },
         {
-          "rank": 19,
+          "rank": 20,
           "name": "bae",
           "score": 161724
-        },
-        {
-          "rank": 20,
-          "name": "Lyra Talise",
-          "score": 161617
         }
       ],
       "volume": 2,
@@ -53211,28 +53211,28 @@
         },
         {
           "rank": 16,
+          "name": "Rynettw",
+          "score": 207155
+        },
+        {
+          "rank": 17,
           "name": "Lyra Talise",
           "score": 205209
         },
         {
-          "rank": 17,
+          "rank": 18,
           "name": "Sallie Rana",
           "score": 205046
         },
         {
-          "rank": 18,
+          "rank": 19,
           "name": "Nicole Kim",
           "score": 204757
         },
         {
-          "rank": 19,
+          "rank": 20,
           "name": "xyz",
           "score": 204587
-        },
-        {
-          "rank": 20,
-          "name": "Cryst\u03b1lR\u03b1in",
-          "score": 204525
         }
       ],
       "volume": 2,
@@ -53876,23 +53876,23 @@
         },
         {
           "rank": 17,
+          "name": "Rynettw",
+          "score": 175739
+        },
+        {
+          "rank": 18,
           "name": "Aethna O",
           "score": 175542
         },
         {
-          "rank": 18,
+          "rank": 19,
           "name": "Camille",
           "score": 174891
         },
         {
-          "rank": 19,
+          "rank": 20,
           "name": "Jenna",
           "score": 174852
-        },
-        {
-          "rank": 20,
-          "name": "Nina Mann",
-          "score": 174657
         }
       ],
       "volume": 2,
@@ -54676,103 +54676,103 @@
       "entries": [
         {
           "rank": 1,
+          "name": "Rynettw",
+          "score": 189448
+        },
+        {
+          "rank": 2,
           "name": "Athena",
           "score": 182909
         },
         {
-          "rank": 2,
+          "rank": 3,
           "name": "ViolettaDoll",
           "score": 182158
         },
         {
-          "rank": 3,
+          "rank": 4,
           "name": "Nicky",
           "score": 177207
         },
         {
-          "rank": 4,
+          "rank": 5,
           "name": "Mikachuu",
           "score": 177137
         },
         {
-          "rank": 5,
+          "rank": 6,
           "name": "Silverivy13",
           "score": 177129
         },
         {
-          "rank": 6,
+          "rank": 7,
           "name": "Wilza",
           "score": 175962
         },
         {
-          "rank": 7,
+          "rank": 8,
           "name": "spiderfeets",
           "score": 175877
         },
         {
-          "rank": 8,
+          "rank": 9,
           "name": "Camille",
           "score": 175501
         },
         {
-          "rank": 9,
+          "rank": 10,
           "name": "Shandi",
           "score": 175405
         },
         {
-          "rank": 10,
+          "rank": 11,
           "name": "Sugarsop",
           "score": 175302
         },
         {
-          "rank": 11,
+          "rank": 12,
           "name": "K\u0430rl Marx",
           "score": 174550
         },
         {
-          "rank": 12,
+          "rank": 13,
           "name": "Leonie Quin",
           "score": 174330
         },
         {
-          "rank": 13,
+          "rank": 14,
           "name": "Aloy",
           "score": 174211
         },
         {
-          "rank": 14,
+          "rank": 15,
           "name": "Fuzzymoon",
           "score": 173605
         },
         {
-          "rank": 15,
+          "rank": 16,
           "name": "yumi glitter",
           "score": 173321
         },
         {
-          "rank": 16,
+          "rank": 17,
           "name": "Jennifer",
           "score": 173228
         },
         {
-          "rank": 17,
+          "rank": 18,
           "name": "Aria",
           "score": 173195
         },
         {
-          "rank": 18,
+          "rank": 19,
           "name": "Circe",
           "score": 172985
         },
         {
-          "rank": 19,
+          "rank": 20,
           "name": "Aethna O",
           "score": 172826
-        },
-        {
-          "rank": 20,
-          "name": "bae",
-          "score": 172807
         }
       ],
       "volume": 2,
@@ -56011,88 +56011,88 @@
         },
         {
           "rank": 4,
+          "name": "Rynettw",
+          "score": 171827
+        },
+        {
+          "rank": 5,
           "name": "Aloy",
           "score": 171425
         },
         {
-          "rank": 5,
+          "rank": 6,
           "name": "Aria",
           "score": 171179
         },
         {
-          "rank": 6,
+          "rank": 7,
           "name": "Circe",
           "score": 171121
         },
         {
-          "rank": 7,
+          "rank": 8,
           "name": "Mikachuu",
           "score": 170880
         },
         {
-          "rank": 8,
+          "rank": 9,
           "name": "yumi glitter",
           "score": 170822
         },
         {
-          "rank": 9,
+          "rank": 10,
           "name": "Youlan",
           "score": 170310
         },
         {
-          "rank": 10,
+          "rank": 11,
           "name": "spiderfeets",
           "score": 169618
         },
         {
-          "rank": 11,
+          "rank": 12,
           "name": "Jennifer",
           "score": 168851
         },
         {
-          "rank": 12,
+          "rank": 13,
           "name": "Carissa",
           "score": 168637
         },
         {
-          "rank": 13,
+          "rank": 14,
           "name": "Sugarsop",
           "score": 168281
         },
         {
-          "rank": 14,
+          "rank": 15,
           "name": "Nikkileaf",
           "score": 168264
         },
         {
-          "rank": 15,
+          "rank": 16,
           "name": "Rainysnow",
           "score": 167404
         },
         {
-          "rank": 16,
+          "rank": 17,
           "name": "Silverivy13",
           "score": 167340
         },
         {
-          "rank": 17,
+          "rank": 18,
           "name": "Ivory",
           "score": 167200
         },
         {
-          "rank": 18,
+          "rank": 19,
           "name": "Charlotte",
           "score": 167109
         },
         {
-          "rank": 19,
+          "rank": 20,
           "name": "Cryst\u03b1lR\u03b1in",
           "score": 166935
-        },
-        {
-          "rank": 20,
-          "name": "Elle Cy",
-          "score": 166722
         }
       ],
       "volume": 2,
@@ -57361,58 +57361,58 @@
         },
         {
           "rank": 10,
+          "name": "Camille",
+          "score": 192637
+        },
+        {
+          "rank": 11,
           "name": "Fuzzymoon",
           "score": 191902
         },
         {
-          "rank": 11,
+          "rank": 12,
           "name": "K\u0430rl Marx",
           "score": 191837
         },
         {
-          "rank": 12,
+          "rank": 13,
           "name": "Elle Cy",
           "score": 191603
         },
         {
-          "rank": 13,
+          "rank": 14,
           "name": "Jennifer",
           "score": 191502
         },
         {
-          "rank": 14,
+          "rank": 15,
           "name": "Youlan",
           "score": 190636
         },
         {
-          "rank": 15,
+          "rank": 16,
           "name": "Helena",
           "score": 190413
         },
         {
-          "rank": 16,
+          "rank": 17,
           "name": "EvelynLemus",
           "score": 190059
         },
         {
-          "rank": 17,
+          "rank": 18,
           "name": "Maki Crimson",
           "score": 189946
         },
         {
-          "rank": 18,
+          "rank": 19,
           "name": "KayTee",
           "score": 189921
         },
         {
-          "rank": 19,
+          "rank": 20,
           "name": "Fromenza",
           "score": 189595
-        },
-        {
-          "rank": 20,
-          "name": "AliceMadCat",
-          "score": 188756
         }
       ],
       "volume": 2,
@@ -59986,38 +59986,38 @@
         },
         {
           "rank": 7,
+          "name": "Rynettw",
+          "score": 2442786
+        },
+        {
+          "rank": 8,
           "name": "Nicky",
           "score": 2408531
         },
         {
-          "rank": 8,
+          "rank": 9,
           "name": "Sabrina",
           "score": 2393411
         },
         {
-          "rank": 9,
+          "rank": 10,
           "name": "Sugarsop",
           "score": 2381696
         },
         {
-          "rank": 10,
+          "rank": 11,
           "name": "Ana Carolina",
           "score": 2364329
         },
         {
-          "rank": 11,
+          "rank": 12,
           "name": "AmbriMahesan",
           "score": 2358346
         },
         {
-          "rank": 12,
+          "rank": 13,
           "name": "Valkyrie",
           "score": 2353144
-        },
-        {
-          "rank": 13,
-          "name": "Rynettw",
-          "score": 2344365
         },
         {
           "rank": 14,
@@ -60196,68 +60196,68 @@
         },
         {
           "rank": 5,
+          "name": "Rynettw",
+          "score": 178687
+        },
+        {
+          "rank": 6,
           "name": "Maryt\u0117",
           "score": 175005
         },
         {
-          "rank": 6,
+          "rank": 7,
           "name": "Aethna O",
           "score": 174123
         },
         {
-          "rank": 7,
+          "rank": 8,
           "name": "Aloy",
           "score": 173492
         },
         {
-          "rank": 8,
+          "rank": 9,
           "name": "Mikachuu",
           "score": 173396
         },
         {
-          "rank": 9,
+          "rank": 10,
           "name": "Jennifer",
           "score": 172954
         },
         {
-          "rank": 10,
+          "rank": 11,
           "name": "yumi glitter",
           "score": 172789
         },
         {
-          "rank": 11,
+          "rank": 12,
           "name": "Lori",
           "score": 172670
         },
         {
-          "rank": 12,
+          "rank": 13,
           "name": "Nicky",
           "score": 171777
         },
         {
-          "rank": 13,
+          "rank": 14,
           "name": "Sabrina",
           "score": 171322
         },
         {
-          "rank": 14,
+          "rank": 15,
           "name": "Orino Akeno",
           "score": 170991
         },
         {
-          "rank": 15,
+          "rank": 16,
           "name": "AliceMadCat",
           "score": 170857
         },
         {
-          "rank": 16,
+          "rank": 17,
           "name": "Cryst\u03b1lR\u03b1in",
           "score": 170805
-        },
-        {
-          "rank": 17,
-          "name": "Rynettw",
-          "score": 170632
         },
         {
           "rank": 18,
@@ -60396,78 +60396,78 @@
       "entries": [
         {
           "rank": 1,
+          "name": "Rynettw",
+          "score": 226829
+        },
+        {
+          "rank": 2,
           "name": "Athena",
           "score": 225918
         },
         {
-          "rank": 2,
+          "rank": 3,
           "name": "Leonie Quin",
           "score": 219352
         },
         {
-          "rank": 3,
+          "rank": 4,
           "name": "Camille",
           "score": 219341
         },
         {
-          "rank": 4,
+          "rank": 5,
           "name": "ViolettaDoll",
           "score": 219180
         },
         {
-          "rank": 5,
+          "rank": 6,
           "name": "Mikachuu",
           "score": 215094
         },
         {
-          "rank": 6,
+          "rank": 7,
           "name": "lnfi",
           "score": 214273
         },
         {
-          "rank": 7,
+          "rank": 8,
           "name": "Nicky",
           "score": 210078
         },
         {
-          "rank": 8,
+          "rank": 9,
           "name": "Silverivy13",
           "score": 209211
         },
         {
-          "rank": 9,
+          "rank": 10,
           "name": "Melody",
           "score": 207646
         },
         {
-          "rank": 10,
+          "rank": 11,
           "name": "Wemdi XD",
           "score": 206903
         },
         {
-          "rank": 11,
+          "rank": 12,
           "name": "raisama",
           "score": 206171
         },
         {
-          "rank": 12,
+          "rank": 13,
           "name": "Enznya",
           "score": 204989
         },
         {
-          "rank": 13,
+          "rank": 14,
           "name": "Sabrina",
           "score": 202140
         },
         {
-          "rank": 14,
+          "rank": 15,
           "name": "Elena ayu",
           "score": 201435
-        },
-        {
-          "rank": 15,
-          "name": "Rynettw",
-          "score": 199676
         },
         {
           "rank": 16,
@@ -62622,7 +62622,7 @@
         {
           "rank": 6,
           "name": "Mikachuu",
-          "score": 182212
+          "score": 182711
         },
         {
           "rank": 7,
@@ -67011,88 +67011,88 @@
         },
         {
           "rank": 4,
+          "name": "Rynettw",
+          "score": 176279
+        },
+        {
+          "rank": 5,
           "name": "Aethna O",
           "score": 175516
         },
         {
-          "rank": 5,
+          "rank": 6,
           "name": "Aloy",
           "score": 174978
         },
         {
-          "rank": 6,
+          "rank": 7,
           "name": "AliceMadCat",
           "score": 174616
         },
         {
-          "rank": 7,
+          "rank": 8,
           "name": "Frost Flora",
           "score": 174345
         },
         {
-          "rank": 8,
+          "rank": 9,
           "name": "Jennifer",
           "score": 174308
         },
         {
-          "rank": 9,
+          "rank": 10,
           "name": "Sugarsop",
           "score": 173993
         },
         {
-          "rank": 10,
+          "rank": 11,
           "name": "Sakura",
           "score": 173979
         },
         {
-          "rank": 11,
+          "rank": 12,
           "name": "Elle Cy",
           "score": 173449
         },
         {
-          "rank": 12,
+          "rank": 13,
           "name": "Youlan",
           "score": 172854
         },
         {
-          "rank": 13,
+          "rank": 14,
           "name": "Mikachuu",
           "score": 172554
         },
         {
-          "rank": 14,
+          "rank": 15,
           "name": "Lori",
           "score": 172529
         },
         {
-          "rank": 15,
+          "rank": 16,
           "name": "Sakura Ai",
           "score": 171691
         },
         {
-          "rank": 16,
+          "rank": 17,
           "name": "Charlotte",
           "score": 170814
         },
         {
-          "rank": 17,
+          "rank": 18,
           "name": "Venca",
           "score": 170713
         },
         {
-          "rank": 18,
+          "rank": 19,
           "name": "Nanami",
           "score": 170679
         },
         {
-          "rank": 19,
+          "rank": 20,
           "name": "Midori",
           "score": 170556
-        },
-        {
-          "rank": 20,
-          "name": "Drizelda",
-          "score": 170551
         }
       ],
       "volume": 2,
@@ -68496,33 +68496,33 @@
         },
         {
           "rank": 15,
+          "name": "Evan",
+          "score": 200067
+        },
+        {
+          "rank": 16,
           "name": "Anduin",
           "score": 199297
         },
         {
-          "rank": 16,
+          "rank": 17,
           "name": "Nicky",
           "score": 198225
         },
         {
-          "rank": 17,
+          "rank": 18,
           "name": "EvelynLemus",
           "score": 197806
         },
         {
-          "rank": 18,
+          "rank": 19,
           "name": "Cherry",
           "score": 197339
         },
         {
-          "rank": 19,
+          "rank": 20,
           "name": "Winter",
           "score": 195259
-        },
-        {
-          "rank": 20,
-          "name": "Aethna O",
-          "score": 195087
         }
       ],
       "volume": 2,
@@ -76546,13 +76546,13 @@
         },
         {
           "rank": 19,
-          "name": "Selina",
-          "score": 185394
+          "name": "Sunny Skye",
+          "score": 185443
         },
         {
           "rank": 20,
-          "name": "Vesta",
-          "score": 185290
+          "name": "Selina",
+          "score": 185394
         }
       ],
       "volume": 2,
@@ -77081,28 +77081,28 @@
         },
         {
           "rank": 16,
+          "name": "Cherry",
+          "score": 200211
+        },
+        {
+          "rank": 17,
           "name": "Sinovaa",
           "score": 199885
         },
         {
-          "rank": 17,
+          "rank": 18,
           "name": "Camilia",
           "score": 199418
         },
         {
-          "rank": 18,
+          "rank": 19,
           "name": "Silverivy13",
           "score": 199388
         },
         {
-          "rank": 19,
+          "rank": 20,
           "name": "Aennyl",
           "score": 198715
-        },
-        {
-          "rank": 20,
-          "name": "Mavourneen",
-          "score": 198592
         }
       ],
       "volume": 2,
@@ -78421,8 +78421,8 @@
         },
         {
           "rank": 20,
-          "name": "Enznya",
-          "score": 175710
+          "name": "lnfi",
+          "score": 175822
         }
       ],
       "volume": 2,
@@ -78821,48 +78821,48 @@
         },
         {
           "rank": 12,
+          "name": "lnfi",
+          "score": 183853
+        },
+        {
+          "rank": 13,
           "name": "s   y   n",
           "score": 183106
         },
         {
-          "rank": 13,
+          "rank": 14,
           "name": "Yui",
           "score": 182903
         },
         {
-          "rank": 14,
+          "rank": 15,
           "name": "Cheyenn",
           "score": 182222
         },
         {
-          "rank": 15,
+          "rank": 16,
           "name": "Alice",
           "score": 182167
         },
         {
-          "rank": 16,
+          "rank": 17,
           "name": "Enznya",
           "score": 182034
         },
         {
-          "rank": 17,
+          "rank": 18,
           "name": "Jupitia",
           "score": 181849
         },
         {
-          "rank": 18,
+          "rank": 19,
           "name": "Yumi",
           "score": 181260
         },
         {
-          "rank": 19,
+          "rank": 20,
           "name": "Faiyora Jynx",
           "score": 181045
-        },
-        {
-          "rank": 20,
-          "name": "Silverivy13",
-          "score": 180959
         }
       ],
       "volume": 2,
@@ -79066,23 +79066,23 @@
         },
         {
           "rank": 17,
+          "name": "lnfi",
+          "score": 156725
+        },
+        {
+          "rank": 18,
           "name": "Lillie",
           "score": 156131
         },
         {
-          "rank": 18,
+          "rank": 19,
           "name": "littleapple",
           "score": 155701
         },
         {
-          "rank": 19,
+          "rank": 20,
           "name": "Violetshine",
           "score": 155644
-        },
-        {
-          "rank": 20,
-          "name": "Kam",
-          "score": 155511
         }
       ],
       "volume": 2,
@@ -79296,13 +79296,13 @@
         },
         {
           "rank": 19,
-          "name": "Blancwing",
-          "score": 171771
+          "name": "lnfi",
+          "score": 171957
         },
         {
           "rank": 20,
-          "name": "Aubree Hart",
-          "score": 171452
+          "name": "Blancwing",
+          "score": 171771
         }
       ],
       "volume": 2,
@@ -79331,88 +79331,88 @@
         },
         {
           "rank": 4,
+          "name": "Mavourneen",
+          "score": 176104
+        },
+        {
+          "rank": 5,
           "name": "Aloy",
           "score": 174982
         },
         {
-          "rank": 5,
+          "rank": 6,
           "name": "Selina",
           "score": 174755
         },
         {
-          "rank": 6,
+          "rank": 7,
           "name": "Enznya",
           "score": 174676
         },
         {
-          "rank": 7,
+          "rank": 8,
           "name": "Aethna O",
           "score": 174224
         },
         {
-          "rank": 8,
+          "rank": 9,
           "name": "Leonie Quin",
           "score": 173819
         },
         {
-          "rank": 9,
+          "rank": 10,
           "name": "Corais",
           "score": 173526
         },
         {
-          "rank": 10,
+          "rank": 11,
           "name": "spiderfeets",
           "score": 173478
         },
         {
-          "rank": 11,
+          "rank": 12,
           "name": "s   y   n",
           "score": 173460
         },
         {
-          "rank": 12,
+          "rank": 13,
           "name": "xyz",
           "score": 172756
         },
         {
-          "rank": 13,
+          "rank": 14,
           "name": "WATER HOUSE",
           "score": 172476
         },
         {
-          "rank": 14,
+          "rank": 15,
           "name": "Juana In\u00e9s",
           "score": 172346
         },
         {
-          "rank": 15,
+          "rank": 16,
           "name": "LotusLilith",
           "score": 171787
         },
         {
-          "rank": 16,
+          "rank": 17,
           "name": "Sarah",
           "score": 171434
         },
         {
-          "rank": 17,
+          "rank": 18,
           "name": "Luca M",
           "score": 171256
         },
         {
-          "rank": 18,
+          "rank": 19,
           "name": "Charlotte",
           "score": 170547
         },
         {
-          "rank": 19,
+          "rank": 20,
           "name": "Shyfire",
           "score": 170375
-        },
-        {
-          "rank": 20,
-          "name": "Rynettw",
-          "score": 170370
         }
       ],
       "volume": 2,
@@ -79521,8 +79521,8 @@
         },
         {
           "rank": 20,
-          "name": "Nicky",
-          "score": 158126
+          "name": "lnfi",
+          "score": 158865
         }
       ],
       "volume": 2,
@@ -79686,63 +79686,63 @@
         },
         {
           "rank": 9,
+          "name": "lnfi",
+          "score": 169462
+        },
+        {
+          "rank": 10,
           "name": "Corais",
           "score": 168599
         },
         {
-          "rank": 10,
+          "rank": 11,
           "name": "Yumi",
           "score": 167964
         },
         {
-          "rank": 11,
+          "rank": 12,
           "name": "Silverivy13",
           "score": 167849
         },
         {
-          "rank": 12,
+          "rank": 13,
           "name": "Cherry Ann",
           "score": 166478
         },
         {
-          "rank": 13,
+          "rank": 14,
           "name": "Lilliana",
           "score": 166116
         },
         {
-          "rank": 14,
+          "rank": 15,
           "name": "Wisteria",
           "score": 165966
         },
         {
-          "rank": 15,
+          "rank": 16,
           "name": "K\u0430rl Marx",
           "score": 165850
         },
         {
-          "rank": 16,
+          "rank": 17,
           "name": "Charlotte",
           "score": 165527
         },
         {
-          "rank": 17,
+          "rank": 18,
           "name": "Seonghan",
           "score": 165337
         },
         {
-          "rank": 18,
+          "rank": 19,
           "name": "Alice",
           "score": 164220
         },
         {
-          "rank": 19,
+          "rank": 20,
           "name": "Selina",
           "score": 164213
-        },
-        {
-          "rank": 20,
-          "name": "Anita Elena",
-          "score": 164187
         }
       ],
       "volume": 2,
@@ -79911,58 +79911,58 @@
         },
         {
           "rank": 10,
+          "name": "lnfi",
+          "score": 175004
+        },
+        {
+          "rank": 11,
           "name": "xyz",
           "score": 174537
         },
         {
-          "rank": 11,
+          "rank": 12,
           "name": "MingusReedus",
           "score": 173582
         },
         {
-          "rank": 12,
+          "rank": 13,
           "name": "Nicky",
           "score": 173456
         },
         {
-          "rank": 13,
+          "rank": 14,
           "name": "Selina",
           "score": 173347
         },
         {
-          "rank": 14,
+          "rank": 15,
           "name": "Charlotte",
           "score": 173285
         },
         {
-          "rank": 15,
+          "rank": 16,
           "name": "Cherry Ann",
           "score": 172904
         },
         {
-          "rank": 16,
+          "rank": 17,
           "name": "Asmodej",
           "score": 172890
         },
         {
-          "rank": 17,
+          "rank": 18,
           "name": "Jupitia",
           "score": 172829
         },
         {
-          "rank": 18,
+          "rank": 19,
           "name": "Hostess L",
           "score": 172510
         },
         {
-          "rank": 19,
+          "rank": 20,
           "name": "Yumi",
           "score": 172215
-        },
-        {
-          "rank": 20,
-          "name": "Corais",
-          "score": 172159
         }
       ],
       "volume": 2,
@@ -80261,38 +80261,38 @@
         },
         {
           "rank": 14,
+          "name": "Mavourneen",
+          "score": 178142
+        },
+        {
+          "rank": 15,
           "name": "LotusLilith",
           "score": 177967
         },
         {
-          "rank": 15,
+          "rank": 16,
           "name": "shiso",
           "score": 176953
         },
         {
-          "rank": 16,
+          "rank": 17,
           "name": "Elmira",
           "score": 176545
         },
         {
-          "rank": 17,
+          "rank": 18,
           "name": "Galenarie",
           "score": 176448
         },
         {
-          "rank": 18,
+          "rank": 19,
           "name": "Cherry Ann",
           "score": 176193
         },
         {
-          "rank": 19,
+          "rank": 20,
           "name": "Lilliana",
           "score": 176010
-        },
-        {
-          "rank": 20,
-          "name": "YMCL",
-          "score": 175665
         }
       ],
       "volume": 2,
@@ -80361,48 +80361,48 @@
         },
         {
           "rank": 12,
+          "name": "lnfi",
+          "score": 177827
+        },
+        {
+          "rank": 13,
           "name": "Corais",
           "score": 177199
         },
         {
-          "rank": 13,
+          "rank": 14,
           "name": "Nanami",
           "score": 177007
         },
         {
-          "rank": 14,
+          "rank": 15,
           "name": "\u00df\u00c5M\u00df\u00ce",
           "score": 176624
         },
         {
-          "rank": 15,
+          "rank": 16,
           "name": "Gigi",
           "score": 176607
         },
         {
-          "rank": 16,
+          "rank": 17,
           "name": "Lilliana",
           "score": 176367
         },
         {
-          "rank": 17,
+          "rank": 18,
           "name": "Juliette",
           "score": 175751
         },
         {
-          "rank": 18,
+          "rank": 19,
           "name": "Aol",
           "score": 175707
         },
         {
-          "rank": 19,
+          "rank": 20,
           "name": "Blancwing",
           "score": 175478
-        },
-        {
-          "rank": 20,
-          "name": "Chrissy",
-          "score": 174866
         }
       ],
       "volume": 2,
@@ -80561,68 +80561,68 @@
         },
         {
           "rank": 8,
+          "name": "lnfi",
+          "score": 175808
+        },
+        {
+          "rank": 9,
           "name": "Mikachuu",
           "score": 175226
         },
         {
-          "rank": 9,
+          "rank": 10,
           "name": "Cherry Ann",
           "score": 174926
         },
         {
-          "rank": 10,
+          "rank": 11,
           "name": "Charlotte",
           "score": 174732
         },
         {
-          "rank": 11,
+          "rank": 12,
           "name": "Corais",
           "score": 174146
         },
         {
-          "rank": 12,
+          "rank": 13,
           "name": "Noelle",
           "score": 173622
         },
         {
-          "rank": 13,
+          "rank": 14,
           "name": "Lilliana",
           "score": 173474
         },
         {
-          "rank": 14,
+          "rank": 15,
           "name": "Aol",
           "score": 173212
         },
         {
-          "rank": 15,
+          "rank": 16,
           "name": "Jupitia",
           "score": 173058
         },
         {
-          "rank": 16,
+          "rank": 17,
           "name": "Nicky",
           "score": 172790
         },
         {
-          "rank": 17,
+          "rank": 18,
           "name": "Alice",
           "score": 172687
         },
         {
-          "rank": 18,
+          "rank": 19,
           "name": "Melody",
           "score": 172660
         },
         {
-          "rank": 19,
+          "rank": 20,
           "name": "Lillie",
           "score": 171806
-        },
-        {
-          "rank": 20,
-          "name": "Spoon Bug",
-          "score": 171771
         }
       ],
       "volume": 2,
@@ -81226,63 +81226,63 @@
         },
         {
           "rank": 9,
+          "name": "lnfi",
+          "score": 189915
+        },
+        {
+          "rank": 10,
           "name": "xuanie",
           "score": 188743
         },
         {
-          "rank": 10,
+          "rank": 11,
           "name": "Aol",
           "score": 188165
         },
         {
-          "rank": 11,
+          "rank": 12,
           "name": "Charlotte",
           "score": 188069
         },
         {
-          "rank": 12,
+          "rank": 13,
           "name": "\u51fa\u4e45",
           "score": 186221
         },
         {
-          "rank": 13,
+          "rank": 14,
           "name": "s   y   n",
           "score": 185609
         },
         {
-          "rank": 14,
+          "rank": 15,
           "name": "Lilliana",
           "score": 184563
         },
         {
-          "rank": 15,
+          "rank": 16,
           "name": "Cherry",
           "score": 183600
         },
         {
-          "rank": 16,
+          "rank": 17,
           "name": "Luca M",
           "score": 182048
         },
         {
-          "rank": 17,
+          "rank": 18,
           "name": "Alice",
           "score": 181474
         },
         {
-          "rank": 18,
+          "rank": 19,
           "name": "Nova",
           "score": 181106
         },
         {
-          "rank": 19,
+          "rank": 20,
           "name": "Spoon Bug",
           "score": 181096
-        },
-        {
-          "rank": 20,
-          "name": "Clara",
-          "score": 180898
         }
       ],
       "volume": 2,
@@ -81321,78 +81321,78 @@
         },
         {
           "rank": 6,
+          "name": "Mavourneen",
+          "score": 191878
+        },
+        {
+          "rank": 7,
           "name": "\u00df\u00c5M\u00df\u00ce",
           "score": 191236
         },
         {
-          "rank": 7,
+          "rank": 8,
           "name": "Mikachuu",
           "score": 190703
         },
         {
-          "rank": 8,
+          "rank": 9,
           "name": "Otaku",
           "score": 189657
         },
         {
-          "rank": 9,
+          "rank": 10,
           "name": "Charlotte",
           "score": 189320
         },
         {
-          "rank": 10,
+          "rank": 11,
           "name": "Hank Agnes",
           "score": 188761
         },
         {
-          "rank": 11,
+          "rank": 12,
           "name": "s   y   n",
           "score": 186550
         },
         {
-          "rank": 12,
+          "rank": 13,
           "name": "Rynettw",
           "score": 186148
         },
         {
-          "rank": 13,
+          "rank": 14,
           "name": "spiderfeets",
           "score": 185966
         },
         {
-          "rank": 14,
+          "rank": 15,
           "name": "Lilliana",
           "score": 183827
         },
         {
-          "rank": 15,
+          "rank": 16,
           "name": "Negar",
           "score": 183691
         },
         {
-          "rank": 16,
+          "rank": 17,
           "name": "Enznya",
           "score": 183532
         },
         {
-          "rank": 17,
+          "rank": 18,
           "name": "Moon",
           "score": 182748
         },
         {
-          "rank": 18,
+          "rank": 19,
           "name": "Faiyora Jynx",
           "score": 182562
         },
         {
-          "rank": 19,
+          "rank": 20,
           "name": "Cheyenn",
           "score": 182379
-        },
-        {
-          "rank": 20,
-          "name": "Nova",
-          "score": 181951
         }
       ],
       "volume": 2,
@@ -81441,68 +81441,68 @@
         },
         {
           "rank": 8,
+          "name": "lnfi",
+          "score": 178735
+        },
+        {
+          "rank": 9,
           "name": "Enznya",
           "score": 177514
         },
         {
-          "rank": 9,
+          "rank": 10,
           "name": "xuanie",
           "score": 176962
         },
         {
-          "rank": 10,
+          "rank": 11,
           "name": "Boats911",
           "score": 176534
         },
         {
-          "rank": 11,
+          "rank": 12,
           "name": "Silverivy13",
           "score": 176392
         },
         {
-          "rank": 12,
+          "rank": 13,
           "name": "Yumi",
           "score": 176220
         },
         {
-          "rank": 13,
+          "rank": 14,
           "name": "Nicky",
           "score": 176145
         },
         {
-          "rank": 14,
+          "rank": 15,
           "name": "s   y   n",
           "score": 175352
         },
         {
-          "rank": 15,
+          "rank": 16,
           "name": "Kana",
           "score": 175171
         },
         {
-          "rank": 16,
+          "rank": 17,
           "name": "Hailey",
           "score": 174298
         },
         {
-          "rank": 17,
+          "rank": 18,
           "name": "Mirae",
           "score": 174042
         },
         {
-          "rank": 18,
+          "rank": 19,
           "name": "Nur Nury Nuy",
           "score": 173826
         },
         {
-          "rank": 19,
+          "rank": 20,
           "name": "Alistriona",
           "score": 173546
-        },
-        {
-          "rank": 20,
-          "name": "Shia",
-          "score": 172878
         }
       ],
       "volume": 2,
@@ -81671,58 +81671,58 @@
         },
         {
           "rank": 10,
+          "name": "lnfi",
+          "score": 181266
+        },
+        {
+          "rank": 11,
           "name": "s   y   n",
           "score": 181037
         },
         {
-          "rank": 11,
+          "rank": 12,
           "name": "Yumi",
           "score": 180961
         },
         {
-          "rank": 12,
+          "rank": 13,
           "name": "xuanie",
           "score": 180615
         },
         {
-          "rank": 13,
+          "rank": 14,
           "name": "Alice",
           "score": 180477
         },
         {
-          "rank": 14,
+          "rank": 15,
           "name": "Selina",
           "score": 180461
         },
         {
-          "rank": 15,
+          "rank": 16,
           "name": "Lilliana",
           "score": 179872
         },
         {
-          "rank": 16,
+          "rank": 17,
           "name": "Aol",
           "score": 179279
         },
         {
-          "rank": 17,
+          "rank": 18,
           "name": "Charlotte",
           "score": 179262
         },
         {
-          "rank": 18,
+          "rank": 19,
           "name": "Naomi Belle",
           "score": 178792
         },
         {
-          "rank": 19,
+          "rank": 20,
           "name": "Cherry Ann",
           "score": 178402
-        },
-        {
-          "rank": 20,
-          "name": "Enznya",
-          "score": 178253
         }
       ],
       "volume": 2,
@@ -81861,88 +81861,88 @@
         },
         {
           "rank": 4,
+          "name": "lnfi",
+          "score": 162085
+        },
+        {
+          "rank": 5,
           "name": "Cheyenn",
           "score": 161365
         },
         {
-          "rank": 5,
+          "rank": 6,
           "name": "Lily Aber",
           "score": 160357
         },
         {
-          "rank": 6,
+          "rank": 7,
           "name": "ViolettaDoll",
           "score": 159915
         },
         {
-          "rank": 7,
+          "rank": 8,
           "name": "Mikachuu",
           "score": 159828
         },
         {
-          "rank": 8,
+          "rank": 9,
           "name": "Enznya",
           "score": 159782
         },
         {
-          "rank": 9,
+          "rank": 10,
           "name": "Aquarelle",
           "score": 159148
         },
         {
-          "rank": 10,
+          "rank": 11,
           "name": "Aethna O",
           "score": 158922
         },
         {
-          "rank": 11,
+          "rank": 12,
           "name": "xuanie",
           "score": 157872
         },
         {
-          "rank": 12,
+          "rank": 13,
           "name": "s   y   n",
           "score": 157151
         },
         {
-          "rank": 13,
+          "rank": 14,
           "name": "Yumi",
           "score": 155976
         },
         {
-          "rank": 14,
+          "rank": 15,
           "name": "Selina",
           "score": 155110
         },
         {
-          "rank": 15,
+          "rank": 16,
           "name": "Clarissa",
           "score": 155103
         },
         {
-          "rank": 16,
+          "rank": 17,
           "name": "Sayume",
           "score": 154251
         },
         {
-          "rank": 17,
+          "rank": 18,
           "name": "Robina",
           "score": 154190
         },
         {
-          "rank": 18,
+          "rank": 19,
           "name": "Larue Coral",
           "score": 153938
         },
         {
-          "rank": 19,
+          "rank": 20,
           "name": "Ameya",
           "score": 153757
-        },
-        {
-          "rank": 20,
-          "name": "Charlotte",
-          "score": 153727
         }
       ],
       "volume": 2,
@@ -81961,63 +81961,63 @@
         },
         {
           "rank": 2,
+          "name": "Mavourneen",
+          "score": 169116
+        },
+        {
+          "rank": 3,
           "name": "Athena",
           "score": 165950
         },
         {
-          "rank": 3,
+          "rank": 4,
           "name": "Rynettw",
           "score": 165194
         },
         {
-          "rank": 4,
+          "rank": 5,
           "name": "Camille",
           "score": 165068
         },
         {
-          "rank": 5,
+          "rank": 6,
           "name": "\u00df\u00c5M\u00df\u00ce",
           "score": 163937
         },
         {
-          "rank": 6,
+          "rank": 7,
           "name": "Sugarsop",
           "score": 162500
         },
         {
-          "rank": 7,
+          "rank": 8,
           "name": "Nicky",
           "score": 160225
         },
         {
-          "rank": 8,
+          "rank": 9,
           "name": "ViolettaDoll",
           "score": 159467
         },
         {
-          "rank": 9,
+          "rank": 10,
           "name": "Lily Aber",
           "score": 159398
         },
         {
-          "rank": 10,
+          "rank": 11,
           "name": "s   y   n",
           "score": 159361
         },
         {
-          "rank": 11,
+          "rank": 12,
           "name": "Aethna O",
           "score": 159137
         },
         {
-          "rank": 12,
+          "rank": 13,
           "name": "Mikachuu",
           "score": 158135
-        },
-        {
-          "rank": 13,
-          "name": "Mavourneen",
-          "score": 156420
         },
         {
           "rank": 14,
@@ -82131,38 +82131,38 @@
         },
         {
           "rank": 14,
+          "name": "lnfi",
+          "score": 165866
+        },
+        {
+          "rank": 15,
           "name": "littleapple",
           "score": 165822
         },
         {
-          "rank": 15,
+          "rank": 16,
           "name": "Camille",
           "score": 165799
         },
         {
-          "rank": 16,
+          "rank": 17,
           "name": "Enznya",
           "score": 165709
         },
         {
-          "rank": 17,
+          "rank": 18,
           "name": "Shandi",
           "score": 165683
         },
         {
-          "rank": 18,
+          "rank": 19,
           "name": "Lilliana",
           "score": 164478
         },
         {
-          "rank": 19,
+          "rank": 20,
           "name": "Yumi",
           "score": 164246
-        },
-        {
-          "rank": 20,
-          "name": "Charlotte",
-          "score": 163797
         }
       ],
       "volume": 2,
@@ -82251,28 +82251,28 @@
         },
         {
           "rank": 16,
+          "name": "Mavourneen",
+          "score": 164772
+        },
+        {
+          "rank": 17,
           "name": "Silverivy13",
           "score": 164703
         },
         {
-          "rank": 17,
+          "rank": 18,
           "name": "\u00df\u00c5M\u00df\u00ce",
           "score": 163955
         },
         {
-          "rank": 18,
+          "rank": 19,
           "name": "Blancwing",
           "score": 163501
         },
         {
-          "rank": 19,
+          "rank": 20,
           "name": "Sugarsop",
           "score": 163349
-        },
-        {
-          "rank": 20,
-          "name": "xuanie",
-          "score": 163309
         }
       ],
       "volume": 2,
@@ -82336,53 +82336,53 @@
         },
         {
           "rank": 11,
+          "name": "lnfi",
+          "score": 158214
+        },
+        {
+          "rank": 12,
           "name": "Aol",
           "score": 158003
         },
         {
-          "rank": 12,
+          "rank": 13,
           "name": "Enznya",
           "score": 157551
         },
         {
-          "rank": 13,
+          "rank": 14,
           "name": "Charlotte",
           "score": 157436
         },
         {
-          "rank": 14,
+          "rank": 15,
           "name": "Ameya",
           "score": 157212
         },
         {
-          "rank": 15,
+          "rank": 16,
           "name": "Livy",
           "score": 157164
         },
         {
-          "rank": 16,
+          "rank": 17,
           "name": "Blancwing",
           "score": 156990
         },
         {
-          "rank": 17,
+          "rank": 18,
           "name": "Wisteria",
           "score": 156890
         },
         {
-          "rank": 18,
+          "rank": 19,
           "name": "Alice",
           "score": 156889
         },
         {
-          "rank": 19,
+          "rank": 20,
           "name": "Silverivy13",
           "score": 156536
-        },
-        {
-          "rank": 20,
-          "name": "Seonghan",
-          "score": 156302
         }
       ],
       "volume": 2,
@@ -82551,58 +82551,58 @@
         },
         {
           "rank": 10,
+          "name": "lnfi",
+          "score": 174517
+        },
+        {
+          "rank": 11,
           "name": "Alistriona",
           "score": 173135
         },
         {
-          "rank": 11,
+          "rank": 12,
           "name": "s   y   n",
           "score": 171839
         },
         {
-          "rank": 12,
+          "rank": 13,
           "name": "Silverivy13",
           "score": 171082
         },
         {
-          "rank": 13,
+          "rank": 14,
           "name": "Ariina",
           "score": 170702
         },
         {
-          "rank": 14,
+          "rank": 15,
           "name": "Hailey",
           "score": 170639
         },
         {
-          "rank": 15,
+          "rank": 16,
           "name": "Yoyo",
           "score": 170300
         },
         {
-          "rank": 16,
+          "rank": 17,
           "name": "xuanie",
           "score": 170230
         },
         {
-          "rank": 17,
+          "rank": 18,
           "name": "Jasper Hunni",
           "score": 170071
         },
         {
-          "rank": 18,
+          "rank": 19,
           "name": "Spoon Bug",
           "score": 169085
         },
         {
-          "rank": 19,
+          "rank": 20,
           "name": "Jupitia",
           "score": 168305
-        },
-        {
-          "rank": 20,
-          "name": "Maria Silver",
-          "score": 168073
         }
       ],
       "volume": 2,
@@ -83226,43 +83226,43 @@
         },
         {
           "rank": 13,
+          "name": "lnfi",
+          "score": 169399
+        },
+        {
+          "rank": 14,
           "name": "Sary",
           "score": 169313
         },
         {
-          "rank": 14,
+          "rank": 15,
           "name": "Pastel Cure",
           "score": 168916
         },
         {
-          "rank": 15,
+          "rank": 16,
           "name": "Silverivy13",
           "score": 168241
         },
         {
-          "rank": 16,
+          "rank": 17,
           "name": "\u00df\u00c5M\u00df\u00ce",
           "score": 168103
         },
         {
-          "rank": 17,
+          "rank": 18,
           "name": "Lilliana",
           "score": 168091
         },
         {
-          "rank": 18,
+          "rank": 19,
           "name": "Alice",
           "score": 168043
         },
         {
-          "rank": 19,
+          "rank": 20,
           "name": "Sky",
           "score": 167621
-        },
-        {
-          "rank": 20,
-          "name": "Jupitia",
-          "score": 167458
         }
       ],
       "volume": 2,
@@ -83386,18 +83386,18 @@
       "entries": [
         {
           "rank": 1,
+          "name": "Athena",
+          "score": 176576
+        },
+        {
+          "rank": 2,
           "name": "Leonie Quin",
           "score": 175226
         },
         {
-          "rank": 2,
+          "rank": 3,
           "name": "ViolettaDoll",
           "score": 174982
-        },
-        {
-          "rank": 3,
-          "name": "Athena",
-          "score": 174926
         },
         {
           "rank": 4,
@@ -83461,28 +83461,28 @@
         },
         {
           "rank": 16,
+          "name": "Cherry Ann",
+          "score": 168124
+        },
+        {
+          "rank": 17,
           "name": "Charlotte",
           "score": 167359
         },
         {
-          "rank": 17,
+          "rank": 18,
           "name": "xuanie",
           "score": 167353
         },
         {
-          "rank": 18,
-          "name": "Jupitia",
-          "score": 167133
-        },
-        {
           "rank": 19,
-          "name": "Lillian",
-          "score": 166414
+          "name": "lnfi",
+          "score": 167317
         },
         {
           "rank": 20,
-          "name": "Lilliana",
-          "score": 164961
+          "name": "Jupitia",
+          "score": 167133
         }
       ],
       "volume": 2,
@@ -83571,28 +83571,28 @@
         },
         {
           "rank": 16,
+          "name": "Cherry Ann",
+          "score": 167438
+        },
+        {
+          "rank": 17,
           "name": "Corsica Mraw",
           "score": 166248
         },
         {
-          "rank": 17,
+          "rank": 18,
           "name": "Rynettw",
           "score": 165708
         },
         {
-          "rank": 18,
+          "rank": 19,
           "name": "Aquarelle",
           "score": 165076
         },
         {
-          "rank": 19,
+          "rank": 20,
           "name": "Lilliana",
           "score": 165047
-        },
-        {
-          "rank": 20,
-          "name": "Sugarsop",
-          "score": 164730
         }
       ],
       "volume": 2,
@@ -83676,33 +83676,33 @@
         },
         {
           "rank": 15,
+          "name": "Cherry Ann",
+          "score": 197327
+        },
+        {
+          "rank": 16,
           "name": "LotusLilith",
           "score": 197127
         },
         {
-          "rank": 16,
+          "rank": 17,
           "name": "erebus",
           "score": 196704
         },
         {
-          "rank": 17,
+          "rank": 18,
           "name": "Selina",
           "score": 195988
         },
         {
-          "rank": 18,
+          "rank": 19,
           "name": "Midori",
           "score": 195945
         },
         {
-          "rank": 19,
+          "rank": 20,
           "name": "Nicky",
           "score": 195755
-        },
-        {
-          "rank": 20,
-          "name": "Lilliana",
-          "score": 195645
         }
       ],
       "volume": 2,
@@ -83722,7 +83722,7 @@
         {
           "rank": 2,
           "name": "Athena",
-          "score": 206144
+          "score": 206514
         },
         {
           "rank": 3,
@@ -83796,23 +83796,23 @@
         },
         {
           "rank": 17,
+          "name": "Cherry Ann",
+          "score": 197530
+        },
+        {
+          "rank": 18,
           "name": "Nadia",
           "score": 197039
         },
         {
-          "rank": 18,
+          "rank": 19,
           "name": "Midori",
           "score": 196668
         },
         {
-          "rank": 19,
+          "rank": 20,
           "name": "Ayumu Shiroi",
           "score": 196416
-        },
-        {
-          "rank": 20,
-          "name": "Faiyora Jynx",
-          "score": 196415
         }
       ],
       "volume": 2,
@@ -83851,78 +83851,78 @@
         },
         {
           "rank": 6,
-          "name": "Aquarelle",
+          "name": "lnfi",
           "score": 195842
         },
         {
           "rank": 7,
+          "name": "Aquarelle",
+          "score": 195842
+        },
+        {
+          "rank": 8,
+          "name": "Cherry Ann",
+          "score": 193608
+        },
+        {
+          "rank": 9,
           "name": "xuanie",
           "score": 193329
         },
         {
-          "rank": 8,
+          "rank": 10,
           "name": "Enznya",
           "score": 193212
         },
         {
-          "rank": 9,
+          "rank": 11,
           "name": "Nicky",
           "score": 193051
         },
         {
-          "rank": 10,
+          "rank": 12,
           "name": "Lilliana",
           "score": 191525
         },
         {
-          "rank": 11,
+          "rank": 13,
           "name": "spiderfeets",
           "score": 191226
         },
         {
-          "rank": 12,
+          "rank": 14,
           "name": "Charlotte",
           "score": 190316
         },
         {
-          "rank": 13,
-          "name": "Cherry Ann",
-          "score": 190110
-        },
-        {
-          "rank": 14,
+          "rank": 15,
           "name": "J a k e",
           "score": 189851
         },
         {
-          "rank": 15,
+          "rank": 16,
           "name": "Ariina",
           "score": 189795
         },
         {
-          "rank": 16,
+          "rank": 17,
           "name": "Hailey",
           "score": 189040
         },
         {
-          "rank": 17,
+          "rank": 18,
           "name": "Midori",
           "score": 188778
         },
         {
-          "rank": 18,
+          "rank": 19,
           "name": "Sugarsop",
           "score": 188479
         },
         {
-          "rank": 19,
+          "rank": 20,
           "name": "Aennyl",
           "score": 188292
-        },
-        {
-          "rank": 20,
-          "name": "K\u0430rl Marx",
-          "score": 188118
         }
       ],
       "volume": 2,
@@ -83961,78 +83961,78 @@
         },
         {
           "rank": 6,
+          "name": "Rynettw",
+          "score": 195144
+        },
+        {
+          "rank": 7,
           "name": "K\u0430rl Marx",
           "score": 194815
         },
         {
-          "rank": 7,
+          "rank": 8,
           "name": "Selina",
           "score": 194277
         },
         {
-          "rank": 8,
+          "rank": 9,
           "name": "Enznya",
           "score": 193378
         },
         {
-          "rank": 9,
+          "rank": 10,
+          "name": "Cherry Ann",
+          "score": 192771
+        },
+        {
+          "rank": 11,
           "name": "spiderfeets",
           "score": 192769
         },
         {
-          "rank": 10,
+          "rank": 12,
           "name": "Nami",
           "score": 191829
         },
         {
-          "rank": 11,
+          "rank": 13,
           "name": "CC",
           "score": 191758
         },
         {
-          "rank": 12,
+          "rank": 14,
           "name": "Yui",
           "score": 191337
         },
         {
-          "rank": 13,
+          "rank": 15,
           "name": "LotusLilith",
           "score": 191273
         },
         {
-          "rank": 14,
+          "rank": 16,
           "name": "Silverivy13",
           "score": 191182
         },
         {
-          "rank": 15,
+          "rank": 17,
           "name": "Lilliana",
           "score": 191023
         },
         {
-          "rank": 16,
+          "rank": 18,
           "name": "Bluebell",
           "score": 191012
         },
         {
-          "rank": 17,
+          "rank": 19,
           "name": "Charlotte",
           "score": 190970
         },
         {
-          "rank": 18,
+          "rank": 20,
           "name": "Nicky",
           "score": 190522
-        },
-        {
-          "rank": 19,
-          "name": "Aennyl",
-          "score": 190209
-        },
-        {
-          "rank": 20,
-          "name": "Mavourneen",
-          "score": 190139
         }
       ],
       "volume": 2,
@@ -84046,23 +84046,23 @@
       "entries": [
         {
           "rank": 1,
+          "name": "Athena",
+          "score": 168171
+        },
+        {
+          "rank": 2,
           "name": "Leonie Quin",
           "score": 167996
         },
         {
-          "rank": 2,
+          "rank": 3,
           "name": "ViolettaDoll",
           "score": 167945
         },
         {
-          "rank": 3,
+          "rank": 4,
           "name": "Aquarelle",
           "score": 167722
-        },
-        {
-          "rank": 4,
-          "name": "Athena",
-          "score": 167423
         },
         {
           "rank": 5,
@@ -84136,13 +84136,13 @@
         },
         {
           "rank": 19,
-          "name": "Yumi",
-          "score": 160206
+          "name": "Cherry Ann",
+          "score": 160642
         },
         {
           "rank": 20,
-          "name": "Nicky",
-          "score": 160090
+          "name": "Evan",
+          "score": 160374
         }
       ],
       "volume": 2,
@@ -84156,13 +84156,13 @@
       "entries": [
         {
           "rank": 1,
-          "name": "Leonie Quin",
-          "score": 167506
+          "name": "Athena",
+          "score": 167568
         },
         {
           "rank": 2,
-          "name": "Athena",
-          "score": 166949
+          "name": "Leonie Quin",
+          "score": 167506
         },
         {
           "rank": 3,
@@ -84301,68 +84301,68 @@
         },
         {
           "rank": 8,
+          "name": "lnfi",
+          "score": 180441
+        },
+        {
+          "rank": 9,
           "name": "spiderfeets",
           "score": 180071
         },
         {
-          "rank": 9,
+          "rank": 10,
           "name": "s   y   n",
           "score": 179489
         },
         {
-          "rank": 10,
+          "rank": 11,
           "name": "Aol",
           "score": 179326
         },
         {
-          "rank": 11,
+          "rank": 12,
           "name": "Lilliana",
           "score": 179272
         },
         {
-          "rank": 12,
+          "rank": 13,
           "name": "Mikachuu",
           "score": 178950
         },
         {
-          "rank": 13,
+          "rank": 14,
           "name": "Charlotte",
           "score": 178593
         },
         {
-          "rank": 14,
+          "rank": 15,
           "name": "Hailey",
           "score": 177437
         },
         {
-          "rank": 15,
+          "rank": 16,
           "name": "Cherry Ann",
-          "score": 176586
+          "score": 176899
         },
         {
-          "rank": 16,
+          "rank": 17,
           "name": "Alstroemeria",
           "score": 176403
         },
         {
-          "rank": 17,
+          "rank": 18,
           "name": "Selina",
           "score": 176236
         },
         {
-          "rank": 18,
+          "rank": 19,
           "name": "Nova",
           "score": 175501
         },
         {
-          "rank": 19,
+          "rank": 20,
           "name": "LotusLilith",
           "score": 175474
-        },
-        {
-          "rank": 20,
-          "name": "Jeanette  W",
-          "score": 175401
         }
       ],
       "volume": 2,
@@ -84382,7 +84382,7 @@
         {
           "rank": 2,
           "name": "Athena",
-          "score": 185755
+          "score": 186166
         },
         {
           "rank": 3,
@@ -84431,48 +84431,48 @@
         },
         {
           "rank": 12,
+          "name": "Mavourneen",
+          "score": 178934
+        },
+        {
+          "rank": 13,
           "name": "Lilliana",
           "score": 178157
         },
         {
-          "rank": 13,
+          "rank": 14,
           "name": "CC",
           "score": 177410
         },
         {
-          "rank": 14,
+          "rank": 15,
           "name": "Nami",
           "score": 176875
         },
         {
-          "rank": 15,
+          "rank": 16,
           "name": "Dove Belle",
           "score": 176610
         },
         {
-          "rank": 16,
+          "rank": 17,
           "name": "Selina",
           "score": 176604
         },
         {
-          "rank": 17,
+          "rank": 18,
           "name": "Nicky",
           "score": 176346
         },
         {
-          "rank": 18,
+          "rank": 19,
           "name": "Enznya",
           "score": 175369
         },
         {
-          "rank": 19,
+          "rank": 20,
           "name": "Yumi",
           "score": 174767
-        },
-        {
-          "rank": 20,
-          "name": "Lisa Pg",
-          "score": 174485
         }
       ],
       "volume": 2,
@@ -84491,13 +84491,13 @@
         },
         {
           "rank": 2,
-          "name": "ViolettaDoll",
-          "score": 172939
+          "name": "Athena",
+          "score": 173226
         },
         {
           "rank": 3,
-          "name": "Athena",
-          "score": 172823
+          "name": "ViolettaDoll",
+          "score": 172939
         },
         {
           "rank": 4,
@@ -84521,68 +84521,68 @@
         },
         {
           "rank": 8,
+          "name": "lnfi",
+          "score": 169393
+        },
+        {
+          "rank": 9,
           "name": "xuanie",
           "score": 168942
         },
         {
-          "rank": 9,
+          "rank": 10,
+          "name": "Cherry Ann",
+          "score": 167428
+        },
+        {
+          "rank": 11,
           "name": "Maria Silver",
           "score": 166571
         },
         {
-          "rank": 10,
+          "rank": 12,
           "name": "Larue Coral",
           "score": 165566
         },
         {
-          "rank": 11,
+          "rank": 13,
           "name": "Charlotte",
           "score": 165502
         },
         {
-          "rank": 12,
+          "rank": 14,
           "name": "Nicky",
           "score": 165366
         },
         {
-          "rank": 13,
+          "rank": 15,
           "name": "Rose",
           "score": 165192
         },
         {
-          "rank": 14,
+          "rank": 16,
           "name": "Lilliana",
           "score": 165133
         },
         {
-          "rank": 15,
+          "rank": 17,
           "name": "Selina",
           "score": 165067
         },
         {
-          "rank": 16,
+          "rank": 18,
           "name": "rukiakyubi",
           "score": 164803
         },
         {
-          "rank": 17,
+          "rank": 19,
           "name": "Ly Khanh",
           "score": 164711
         },
         {
-          "rank": 18,
+          "rank": 20,
           "name": "LotusLilith",
           "score": 164249
-        },
-        {
-          "rank": 19,
-          "name": "Alice",
-          "score": 164228
-        },
-        {
-          "rank": 20,
-          "name": "Midori",
-          "score": 163805
         }
       ],
       "volume": 2,
@@ -84596,18 +84596,18 @@
       "entries": [
         {
           "rank": 1,
+          "name": "Athena",
+          "score": 174531
+        },
+        {
+          "rank": 2,
           "name": "ViolettaDoll",
           "score": 173364
         },
         {
-          "rank": 2,
+          "rank": 3,
           "name": "Leonie Quin",
           "score": 172834
-        },
-        {
-          "rank": 3,
-          "name": "Athena",
-          "score": 172472
         },
         {
           "rank": 4,
@@ -84666,33 +84666,33 @@
         },
         {
           "rank": 15,
+          "name": "Cherry Ann",
+          "score": 166989
+        },
+        {
+          "rank": 16,
           "name": "Alice",
           "score": 166744
         },
         {
-          "rank": 16,
+          "rank": 17,
           "name": "Yumi",
           "score": 166475
         },
         {
-          "rank": 17,
+          "rank": 18,
           "name": "Mirae",
           "score": 166382
         },
         {
-          "rank": 18,
+          "rank": 19,
           "name": "Charlotte",
           "score": 166103
         },
         {
-          "rank": 19,
+          "rank": 20,
           "name": "Silverivy13",
           "score": 165879
-        },
-        {
-          "rank": 20,
-          "name": "shoshi",
-          "score": 165108
         }
       ],
       "volume": 2,
@@ -84706,13 +84706,13 @@
       "entries": [
         {
           "rank": 1,
-          "name": "Leonie Quin",
-          "score": 160639
+          "name": "Athena",
+          "score": 163112
         },
         {
           "rank": 2,
-          "name": "Athena",
-          "score": 160568
+          "name": "Leonie Quin",
+          "score": 160639
         },
         {
           "rank": 3,
@@ -84731,78 +84731,78 @@
         },
         {
           "rank": 6,
+          "name": "Cherry Ann",
+          "score": 157552
+        },
+        {
+          "rank": 7,
+          "name": "lnfi",
+          "score": 156797
+        },
+        {
+          "rank": 8,
           "name": "Selina",
           "score": 155840
         },
         {
-          "rank": 7,
+          "rank": 9,
           "name": "Camille",
           "score": 155488
         },
         {
-          "rank": 8,
+          "rank": 10,
           "name": "littleapple",
           "score": 155371
         },
         {
-          "rank": 9,
+          "rank": 11,
           "name": "Yui",
           "score": 155287
         },
         {
-          "rank": 10,
+          "rank": 12,
           "name": "xuanie",
           "score": 155095
         },
         {
-          "rank": 11,
+          "rank": 13,
           "name": "Ameya",
           "score": 154985
         },
         {
-          "rank": 12,
+          "rank": 14,
           "name": "Enznya",
           "score": 154444
         },
         {
-          "rank": 13,
+          "rank": 15,
           "name": "Lilliana",
           "score": 153674
         },
         {
-          "rank": 14,
+          "rank": 16,
           "name": "Sylvie",
           "score": 153012
         },
         {
-          "rank": 15,
+          "rank": 17,
           "name": "Charlotte",
           "score": 153010
         },
         {
-          "rank": 16,
+          "rank": 18,
           "name": "Kityankaa",
           "score": 152937
         },
         {
-          "rank": 17,
+          "rank": 19,
           "name": "Rachel",
           "score": 152388
         },
         {
-          "rank": 18,
+          "rank": 20,
           "name": "Emma",
           "score": 152345
-        },
-        {
-          "rank": 19,
-          "name": "Silverivy13",
-          "score": 152197
-        },
-        {
-          "rank": 20,
-          "name": "Naomi Belle",
-          "score": 152155
         }
       ],
       "volume": 2,
@@ -84816,13 +84816,13 @@
       "entries": [
         {
           "rank": 1,
-          "name": "ViolettaDoll",
-          "score": 160484
+          "name": "Athena",
+          "score": 162784
         },
         {
           "rank": 2,
-          "name": "Athena",
-          "score": 160264
+          "name": "ViolettaDoll",
+          "score": 160484
         },
         {
           "rank": 3,
@@ -85226,23 +85226,23 @@
         },
         {
           "rank": 17,
+          "name": "Cherry Ann",
+          "score": 157622
+        },
+        {
+          "rank": 18,
           "name": "Charlotte",
           "score": 157397
         },
         {
-          "rank": 18,
+          "rank": 19,
           "name": "Brianda",
           "score": 157330
         },
         {
-          "rank": 19,
+          "rank": 20,
           "name": "Cheyenn",
           "score": 157101
-        },
-        {
-          "rank": 20,
-          "name": "Cherry Ann",
-          "score": 156690
         }
       ],
       "volume": 2,
@@ -85411,58 +85411,58 @@
         },
         {
           "rank": 10,
+          "name": "lnfi",
+          "score": 169681
+        },
+        {
+          "rank": 11,
           "name": "Alicia Marie",
           "score": 168608
         },
         {
-          "rank": 11,
+          "rank": 12,
           "name": "Negar",
           "score": 168385
         },
         {
-          "rank": 12,
+          "rank": 13,
           "name": "Edgecrusher",
           "score": 168322
         },
         {
-          "rank": 13,
+          "rank": 14,
           "name": "Lesli",
           "score": 168287
         },
         {
-          "rank": 14,
+          "rank": 15,
           "name": "Selina",
           "score": 168009
         },
         {
-          "rank": 15,
+          "rank": 16,
           "name": "WormTimeBaby",
           "score": 167522
         },
         {
-          "rank": 16,
+          "rank": 17,
           "name": "Karina",
           "score": 167517
         },
         {
-          "rank": 17,
+          "rank": 18,
           "name": "Lyric Gale",
           "score": 166903
         },
         {
-          "rank": 18,
+          "rank": 19,
           "name": "Tiffiniti",
           "score": 166827
         },
         {
-          "rank": 19,
+          "rank": 20,
           "name": "Alice",
           "score": 166702
-        },
-        {
-          "rank": 20,
-          "name": "Lillie",
-          "score": 166252
         }
       ],
       "volume": 3,
@@ -85701,13 +85701,13 @@
         },
         {
           "rank": 2,
-          "name": "Aol",
-          "score": 204742
+          "name": "Athena",
+          "score": 205721
         },
         {
           "rank": 3,
-          "name": "Athena",
-          "score": 204702
+          "name": "Aol",
+          "score": 204742
         },
         {
           "rank": 4,
@@ -85717,7 +85717,7 @@
         {
           "rank": 5,
           "name": "Selina",
-          "score": 199721
+          "score": 201922
         },
         {
           "rank": 6,
@@ -85971,48 +85971,48 @@
         },
         {
           "rank": 12,
+          "name": "Selina",
+          "score": 170652
+        },
+        {
+          "rank": 13,
           "name": "Cherry Ann",
           "score": 170044
         },
         {
-          "rank": 13,
+          "rank": 14,
           "name": "Negar",
           "score": 169501
         },
         {
-          "rank": 14,
+          "rank": 15,
           "name": "Jupitia",
           "score": 169489
         },
         {
-          "rank": 15,
+          "rank": 16,
           "name": "Pilleponty",
           "score": 169426
         },
         {
-          "rank": 16,
+          "rank": 17,
           "name": "Rynettw",
           "score": 169073
         },
         {
-          "rank": 17,
+          "rank": 18,
           "name": "Dirtsa",
           "score": 167647
         },
         {
-          "rank": 18,
+          "rank": 19,
           "name": "Kitana",
           "score": 166938
         },
         {
-          "rank": 19,
+          "rank": 20,
           "name": "Jazzy",
           "score": 166747
-        },
-        {
-          "rank": 20,
-          "name": "Mystica",
-          "score": 166307
         }
       ],
       "volume": 3,
@@ -86206,33 +86206,33 @@
         },
         {
           "rank": 15,
+          "name": "Selina",
+          "score": 159512
+        },
+        {
+          "rank": 16,
           "name": "Rynettw",
           "score": 158458
         },
         {
-          "rank": 16,
+          "rank": 17,
           "name": "Candy",
           "score": 158365
         },
         {
-          "rank": 17,
+          "rank": 18,
+          "name": "Naomi Belle",
+          "score": 158290
+        },
+        {
+          "rank": 19,
           "name": "Mirialyn",
           "score": 158065
         },
         {
-          "rank": 18,
+          "rank": 20,
           "name": "Yui",
           "score": 157713
-        },
-        {
-          "rank": 19,
-          "name": "happyvalley",
-          "score": 157665
-        },
-        {
-          "rank": 20,
-          "name": "Nami",
-          "score": 157150
         }
       ],
       "volume": 3,
@@ -86417,7 +86417,7 @@
         {
           "rank": 13,
           "name": "Selina",
-          "score": 169268
+          "score": 169311
         },
         {
           "rank": 14,
@@ -86471,18 +86471,18 @@
         },
         {
           "rank": 2,
+          "name": "Athena",
+          "score": 179048
+        },
+        {
+          "rank": 3,
           "name": "Leonie Quin",
           "score": 176729
         },
         {
-          "rank": 3,
+          "rank": 4,
           "name": "Enznya",
           "score": 175767
-        },
-        {
-          "rank": 4,
-          "name": "Athena",
-          "score": 174992
         },
         {
           "rank": 5,
@@ -86646,18 +86646,18 @@
         },
         {
           "rank": 15,
+          "name": "Selina",
+          "score": 167478
+        },
+        {
+          "rank": 16,
           "name": "Emma",
           "score": 167189
         },
         {
-          "rank": 16,
+          "rank": 17,
           "name": "Negar",
           "score": 166607
-        },
-        {
-          "rank": 17,
-          "name": "Selina",
-          "score": 166552
         },
         {
           "rank": 18,
@@ -86817,7 +86817,7 @@
         {
           "rank": 5,
           "name": "Selina",
-          "score": 176334
+          "score": 177095
         },
         {
           "rank": 6,
@@ -87081,38 +87081,38 @@
         },
         {
           "rank": 14,
+          "name": "Selina",
+          "score": 184670
+        },
+        {
+          "rank": 15,
           "name": "Cheyenn",
           "score": 184430
         },
         {
-          "rank": 15,
+          "rank": 16,
           "name": "Mirialyn",
           "score": 183422
         },
         {
-          "rank": 16,
+          "rank": 17,
           "name": "Valkyrie",
           "score": 183258
         },
         {
-          "rank": 17,
+          "rank": 18,
           "name": "Nicky",
           "score": 182992
         },
         {
-          "rank": 18,
+          "rank": 19,
           "name": "Sugarsop",
           "score": 181924
         },
         {
-          "rank": 19,
+          "rank": 20,
           "name": "Andy Xiong",
           "score": 181588
-        },
-        {
-          "rank": 20,
-          "name": "Selina",
-          "score": 180523
         }
       ],
       "volume": 3,
@@ -87471,33 +87471,33 @@
         },
         {
           "rank": 4,
+          "name": "Mikachuu",
+          "score": 185310
+        },
+        {
+          "rank": 5,
           "name": "Nicky",
           "score": 184989
         },
         {
-          "rank": 5,
+          "rank": 6,
           "name": "Ameya",
           "score": 180704
         },
         {
-          "rank": 6,
+          "rank": 7,
           "name": "Selina",
           "score": 180694
         },
         {
-          "rank": 7,
+          "rank": 8,
           "name": "Marina",
           "score": 179305
         },
         {
-          "rank": 8,
+          "rank": 9,
           "name": "Alicia Marie",
           "score": 179253
-        },
-        {
-          "rank": 9,
-          "name": "Mikachuu",
-          "score": 177917
         },
         {
           "rank": 10,
@@ -88116,13 +88116,13 @@
       "entries": [
         {
           "rank": 1,
-          "name": "s   y   n",
-          "score": 186585
+          "name": "Athena",
+          "score": 187739
         },
         {
           "rank": 2,
-          "name": "Athena",
-          "score": 185070
+          "name": "s   y   n",
+          "score": 186585
         },
         {
           "rank": 3,
@@ -88176,13 +88176,13 @@
         },
         {
           "rank": 13,
-          "name": "Melody",
-          "score": 178011
+          "name": "Selina",
+          "score": 178305
         },
         {
           "rank": 14,
-          "name": "Selina",
-          "score": 177890
+          "name": "Melody",
+          "score": 178011
         },
         {
           "rank": 15,
@@ -88391,23 +88391,23 @@
         },
         {
           "rank": 12,
+          "name": "Selina",
+          "score": 180461
+        },
+        {
+          "rank": 13,
           "name": "Mirialyn",
           "score": 180210
         },
         {
-          "rank": 13,
+          "rank": 14,
           "name": "Enznya",
           "score": 180114
         },
         {
-          "rank": 14,
+          "rank": 15,
           "name": "Radagon",
           "score": 180015
-        },
-        {
-          "rank": 15,
-          "name": "Selina",
-          "score": 180014
         },
         {
           "rank": 16,
@@ -88866,13 +88866,13 @@
         },
         {
           "rank": 19,
-          "name": "K\u0430rl Marx",
-          "score": 144753
+          "name": "Selina",
+          "score": 144807
         },
         {
           "rank": 20,
-          "name": "Anay Dumler",
-          "score": 144686
+          "name": "K\u0430rl Marx",
+          "score": 144753
         }
       ],
       "volume": 3,
@@ -88911,78 +88911,78 @@
         },
         {
           "rank": 6,
+          "name": "Lary",
+          "score": 177830
+        },
+        {
+          "rank": 7,
           "name": "Nicky",
           "score": 177221
         },
         {
-          "rank": 7,
+          "rank": 8,
           "name": "Camille",
           "score": 175116
         },
         {
-          "rank": 8,
+          "rank": 9,
           "name": "K\u0430rl Marx",
           "score": 174655
         },
         {
-          "rank": 9,
+          "rank": 10,
           "name": "xxKristianxx",
           "score": 174649
         },
         {
-          "rank": 10,
+          "rank": 11,
           "name": "Selina",
           "score": 171974
         },
         {
-          "rank": 11,
+          "rank": 12,
           "name": "Lilliana",
           "score": 170465
         },
         {
-          "rank": 12,
+          "rank": 13,
           "name": "Kityankaa",
           "score": 170328
         },
         {
-          "rank": 13,
+          "rank": 14,
           "name": "Alice",
           "score": 169254
         },
         {
-          "rank": 14,
+          "rank": 15,
           "name": "Alicia Marie",
           "score": 169160
         },
         {
-          "rank": 15,
+          "rank": 16,
           "name": "Maria Silver",
           "score": 168991
         },
         {
-          "rank": 16,
+          "rank": 17,
           "name": "Melody",
           "score": 168932
         },
         {
-          "rank": 17,
+          "rank": 18,
           "name": "Akatsuki",
           "score": 168775
         },
         {
-          "rank": 18,
+          "rank": 19,
           "name": "Nicole Kim",
           "score": 168451
         },
         {
-          "rank": 19,
+          "rank": 20,
           "name": "Yumi",
           "score": 168132
-        },
-        {
-          "rank": 20,
-          "name": "Cherry Ann",
-          "score": 168126
         }
       ],
       "volume": 3,
@@ -89346,83 +89346,83 @@
         },
         {
           "rank": 5,
+          "name": "Rose",
+          "score": 213202
+        },
+        {
+          "rank": 6,
           "name": "Mikachuu",
           "score": 213043
         },
         {
-          "rank": 6,
+          "rank": 7,
           "name": "Kate",
           "score": 209433
         },
         {
-          "rank": 7,
+          "rank": 8,
           "name": "Ivy",
           "score": 207649
         },
         {
-          "rank": 8,
+          "rank": 9,
           "name": "Enznya",
           "score": 206779
         },
         {
-          "rank": 9,
+          "rank": 10,
           "name": "Becka",
           "score": 205579
         },
         {
-          "rank": 10,
+          "rank": 11,
           "name": "Cherry Ann",
           "score": 202585
         },
         {
-          "rank": 11,
+          "rank": 12,
           "name": "Lilliana",
           "score": 201226
         },
         {
-          "rank": 12,
+          "rank": 13,
           "name": "Suisen",
           "score": 199643
         },
         {
-          "rank": 13,
+          "rank": 14,
           "name": "Luna Lowe",
           "score": 198059
         },
         {
-          "rank": 14,
+          "rank": 15,
           "name": "Optima",
           "score": 197962
         },
         {
-          "rank": 15,
+          "rank": 16,
           "name": "Shishi",
           "score": 197419
         },
         {
-          "rank": 16,
+          "rank": 17,
           "name": "Maria Silver",
           "score": 196426
         },
         {
-          "rank": 17,
+          "rank": 18,
           "name": "Brenda",
           "score": 195378
         },
         {
-          "rank": 18,
+          "rank": 19,
           "name": "Nicole Kim",
           "score": 194624
         },
         {
-          "rank": 19,
+          "rank": 20,
           "name": "Renee",
           "score": 193897
-        },
-        {
-          "rank": 20,
-          "name": "Torfindra",
-          "score": 193397
         }
       ],
       "volume": 3,
