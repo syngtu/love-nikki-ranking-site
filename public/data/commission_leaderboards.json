@@ -18,26 +18,26 @@
         },
         {
           "rank": 3,
-          "name": "ARMPITFAN69",
-          "value": 139,
-          "guild": "69"
-        },
-        {
-          "rank": 4,
           "name": "Athena",
           "value": 139,
           "guild": "Welton Glade"
         },
         {
-          "rank": 5,
+          "rank": 4,
           "name": "ViolettaDoll",
           "value": 139,
           "guild": "HIGHGARDEN"
         },
         {
+          "rank": 5,
+          "name": "p00p00p00p",
+          "value": 139,
+          "guild": "69"
+        },
+        {
           "rank": 6,
           "name": "AnxiousFarts",
-          "value": 125,
+          "value": 124,
           "guild": "69"
         },
         {
@@ -48,20 +48,20 @@
         },
         {
           "rank": 8,
+          "name": "Mikachuu",
+          "value": 112,
+          "guild": "Welton Glade"
+        },
+        {
+          "rank": 9,
           "name": "Aloy",
           "value": 111,
           "guild": "69"
         },
         {
-          "rank": 9,
-          "name": "Mikachuu",
-          "value": 111,
-          "guild": "Welton Glade"
-        },
-        {
           "rank": 10,
           "name": "spiderfeets",
-          "value": 107,
+          "value": 109,
           "guild": "H\u026a\u0262\u029cF\u1d0f\u0280\u1d07s\u1d1b"
         },
         {
@@ -102,20 +102,20 @@
         },
         {
           "rank": 17,
+          "name": "Nicky",
+          "value": 52,
+          "guild": "Midnight Sky"
+        },
+        {
+          "rank": 18,
           "name": "erebus",
           "value": 52,
           "guild": "69"
         },
         {
-          "rank": 18,
-          "name": "Nicky",
-          "value": 51,
-          "guild": "Midnight Sky"
-        },
-        {
           "rank": 19,
           "name": "K\u0430rl Marx",
-          "value": 50,
+          "value": 49,
           "guild": "Strawbunnies"
         },
         {
@@ -157,7 +157,7 @@
         {
           "rank": 26,
           "name": "Henley",
-          "value": 30,
+          "value": 29,
           "guild": "HIGHGARDEN"
         },
         {
@@ -169,7 +169,7 @@
         {
           "rank": 28,
           "name": "Coffeinica",
-          "value": 23,
+          "value": 24,
           "guild": "RuinedWaffle"
         },
         {
@@ -378,33 +378,33 @@
         },
         {
           "rank": 63,
-          "name": "Brian Spades",
-          "value": 5,
-          "guild": ""
-        },
-        {
-          "rank": 64,
           "name": "Eigencat",
           "value": 5,
           "guild": ""
         },
         {
-          "rank": 65,
+          "rank": 64,
           "name": "Xareena",
           "value": 5,
           "guild": "Area51"
         },
         {
-          "rank": 66,
+          "rank": 65,
           "name": "yumi glitter",
           "value": 5,
           "guild": ""
         },
         {
-          "rank": 67,
+          "rank": 66,
           "name": "\u51cc\u7f8e\u96ea",
           "value": 5,
           "guild": "Angel Stars"
+        },
+        {
+          "rank": 67,
+          "name": "Brian Spades",
+          "value": 4,
+          "guild": ""
         },
         {
           "rank": 68,
@@ -444,87 +444,87 @@
         },
         {
           "rank": 74,
-          "name": "Nai",
-          "value": 4,
-          "guild": ""
-        },
-        {
-          "rank": 75,
           "name": "PeachyFreak",
           "value": 4,
           "guild": "RuinedWaffle"
         },
         {
-          "rank": 76,
+          "rank": 75,
           "name": "Saccha Cere",
           "value": 4,
           "guild": ""
         },
         {
-          "rank": 77,
+          "rank": 76,
           "name": "Sallie Rana",
           "value": 4,
           "guild": ""
         },
         {
-          "rank": 78,
+          "rank": 77,
           "name": "semireese",
           "value": 4,
           "guild": "Firesiders"
         },
         {
-          "rank": 79,
+          "rank": 78,
           "name": "yirouda",
           "value": 4,
           "guild": ""
         },
         {
-          "rank": 80,
+          "rank": 79,
           "name": "\u1d0diss\u1d07mmy\u0280oo",
           "value": 4,
           "guild": "astrokiwi"
         },
         {
-          "rank": 81,
+          "rank": 80,
           "name": "Aquarelle",
           "value": 3,
           "guild": "Stardust"
         },
         {
-          "rank": 82,
+          "rank": 81,
           "name": "Ariina",
           "value": 3,
           "guild": "Wildflower"
         },
         {
-          "rank": 83,
+          "rank": 82,
           "name": "Arsian",
           "value": 3,
           "guild": "Rivulet"
         },
         {
-          "rank": 84,
+          "rank": 83,
           "name": "Dastriyln",
           "value": 3,
           "guild": "Dreamy Queen"
         },
         {
-          "rank": 85,
+          "rank": 84,
           "name": "Fuzzymoon",
           "value": 3,
           "guild": "Straw Hat"
         },
         {
-          "rank": 86,
+          "rank": 85,
           "name": "Lori",
           "value": 3,
           "guild": "Capital"
         },
         {
-          "rank": 87,
+          "rank": 86,
           "name": "Mirielle",
           "value": 3,
           "guild": "Ashryver"
+        },
+        {
+          "rank": 87,
+          "name": "Nai",
+          "value": 3,
+          "guild": ""
         },
         {
           "rank": 88,
@@ -626,7 +626,7 @@
           "rank": 104,
           "name": "Ellie Han",
           "value": 2,
-          "guild": "Rivulet"
+          "guild": ""
         },
         {
           "rank": 105,
@@ -872,7 +872,7 @@
           "rank": 145,
           "name": "An An",
           "value": 1,
-          "guild": "ETERNAL WING"
+          "guild": "Lilithlandya"
         },
         {
           "rank": 146,
@@ -954,363 +954,363 @@
         },
         {
           "rank": 159,
-          "name": "Dalene",
-          "value": 1,
-          "guild": "MoonShines"
-        },
-        {
-          "rank": 160,
           "name": "Deathaura",
           "value": 1,
           "guild": "Angel Stars"
         },
         {
-          "rank": 161,
+          "rank": 160,
           "name": "Denice",
           "value": 1,
           "guild": ""
         },
         {
-          "rank": 162,
+          "rank": 161,
           "name": "Diana Garcia",
           "value": 1,
           "guild": "DragonsLayer"
         },
         {
-          "rank": 163,
+          "rank": 162,
           "name": "Ding",
           "value": 1,
           "guild": "\u03b1q\u03c5\u03b5\u2113\u03b1rr\u03b5"
         },
         {
-          "rank": 164,
+          "rank": 163,
           "name": "Disgust",
           "value": 1,
           "guild": "GenAtomics"
         },
         {
-          "rank": 165,
+          "rank": 164,
           "name": "Dizthefrizz",
           "value": 1,
           "guild": ""
         },
         {
-          "rank": 166,
+          "rank": 165,
           "name": "Drizelda",
           "value": 1,
           "guild": ""
         },
         {
-          "rank": 167,
+          "rank": 166,
           "name": "Earoon",
           "value": 1,
           "guild": "Dragon Weyr"
         },
         {
-          "rank": 168,
+          "rank": 167,
           "name": "El",
           "value": 1,
           "guild": "Valyriashore"
         },
         {
-          "rank": 169,
+          "rank": 168,
           "name": "Emily",
           "value": 1,
           "guild": "shapeshifter"
         },
         {
-          "rank": 170,
+          "rank": 169,
           "name": "Eurxdyne",
           "value": 1,
           "guild": ""
         },
         {
-          "rank": 171,
+          "rank": 170,
           "name": "Fravs",
           "value": 1,
           "guild": "sel lili"
         },
         {
-          "rank": 172,
+          "rank": 171,
           "name": "Fuyuhi",
           "value": 1,
           "guild": "HIGHGARDEN"
         },
         {
-          "rank": 173,
+          "rank": 172,
           "name": "GoddessNyxxx",
           "value": 1,
           "guild": "Dragon Weyr"
         },
         {
-          "rank": 174,
+          "rank": 173,
           "name": "HALINDAW",
           "value": 1,
           "guild": "Dreamy Angel"
         },
         {
-          "rank": 175,
+          "rank": 174,
           "name": "HOTS",
           "value": 1,
           "guild": "GDragon"
         },
         {
-          "rank": 176,
+          "rank": 175,
           "name": "Hank Agnes",
           "value": 1,
           "guild": "Rivulet"
         },
         {
-          "rank": 177,
+          "rank": 176,
           "name": "Hanna Zulma",
           "value": 1,
           "guild": "Unicornzz"
         },
         {
-          "rank": 178,
+          "rank": 177,
           "name": "Haruko Rai",
           "value": 1,
           "guild": "HAPPINESS 2"
         },
         {
-          "rank": 179,
+          "rank": 178,
           "name": "Hasmorebooks",
           "value": 1,
           "guild": ""
         },
         {
-          "rank": 180,
+          "rank": 179,
           "name": "Hatsu Koi",
           "value": 1,
           "guild": "Magic Style"
         },
         {
-          "rank": 181,
+          "rank": 180,
           "name": "HeartQueen",
           "value": 1,
           "guild": "Exodia"
         },
         {
-          "rank": 182,
+          "rank": 181,
           "name": "Helena",
           "value": 1,
           "guild": "Secret Magic"
         },
         {
-          "rank": 183,
+          "rank": 182,
           "name": "HenryNolan",
           "value": 1,
           "guild": "ANTHOS"
         },
         {
-          "rank": 184,
+          "rank": 183,
           "name": "Hiraeth",
           "value": 1,
           "guild": "Rivulet"
         },
         {
-          "rank": 185,
+          "rank": 184,
           "name": "Hysmine",
           "value": 1,
           "guild": "GDragon"
         },
         {
-          "rank": 186,
+          "rank": 185,
           "name": "Illia",
           "value": 1,
           "guild": ""
         },
         {
-          "rank": 187,
+          "rank": 186,
           "name": "Jane",
           "value": 1,
           "guild": ""
         },
         {
-          "rank": 188,
+          "rank": 187,
           "name": "Julie",
           "value": 1,
           "guild": ""
         },
         {
-          "rank": 189,
+          "rank": 188,
           "name": "Kagura",
           "value": 1,
           "guild": "Rivulet"
         },
         {
-          "rank": 190,
+          "rank": 189,
           "name": "Katrina",
           "value": 1,
           "guild": ""
         },
         {
-          "rank": 191,
+          "rank": 190,
           "name": "Kityankaa",
           "value": 1,
           "guild": "SweetTamago"
         },
         {
-          "rank": 192,
+          "rank": 191,
           "name": "Kupa",
           "value": 1,
           "guild": "Seamrialhy"
         },
         {
-          "rank": 193,
+          "rank": 192,
           "name": "LUsagi",
           "value": 1,
           "guild": "HIGHGARDEN"
         },
         {
-          "rank": 194,
+          "rank": 193,
           "name": "LadyNyoko",
           "value": 1,
           "guild": "HIGHGARDEN"
         },
         {
-          "rank": 195,
+          "rank": 194,
           "name": "Laran",
           "value": 1,
           "guild": "MelonPan"
         },
         {
-          "rank": 196,
+          "rank": 195,
           "name": "Laura",
           "value": 1,
           "guild": "Rivulet"
         },
         {
-          "rank": 197,
+          "rank": 196,
           "name": "Laviel",
           "value": 1,
           "guild": "Coconuts"
         },
         {
-          "rank": 198,
+          "rank": 197,
           "name": "LiamTeen365",
           "value": 1,
           "guild": "Exodia"
         },
         {
-          "rank": 199,
+          "rank": 198,
           "name": "Lisa",
           "value": 1,
           "guild": "DEVOID"
         },
         {
-          "rank": 200,
+          "rank": 199,
           "name": "Luna",
           "value": 1,
           "guild": "Midnight Sky"
         },
         {
-          "rank": 201,
+          "rank": 200,
           "name": "Mari",
           "value": 1,
           "guild": "Vorpals"
         },
         {
-          "rank": 202,
+          "rank": 201,
           "name": "Mari",
           "value": 1,
           "guild": "blossoms"
         },
         {
-          "rank": 203,
+          "rank": 202,
           "name": "Marigold",
           "value": 1,
           "guild": ""
         },
         {
-          "rank": 204,
+          "rank": 203,
           "name": "Megara",
           "value": 1,
           "guild": "Smokethorn"
         },
         {
-          "rank": 205,
+          "rank": 204,
           "name": "MiaPhung",
           "value": 1,
           "guild": "ANTHOS"
         },
         {
-          "rank": 206,
+          "rank": 205,
           "name": "Miki",
           "value": 1,
           "guild": "DEVOID"
         },
         {
-          "rank": 207,
+          "rank": 206,
           "name": "Minty",
           "value": 1,
           "guild": "Stargazers\u671b\u661f"
         },
         {
-          "rank": 208,
+          "rank": 207,
           "name": "Mira",
           "value": 1,
           "guild": "Welton Glade"
         },
         {
-          "rank": 209,
+          "rank": 208,
           "name": "Miss MagiCat",
           "value": 1,
           "guild": "Royal Beauty"
         },
         {
-          "rank": 210,
+          "rank": 209,
           "name": "Moon",
           "value": 1,
           "guild": "Capital"
         },
         {
-          "rank": 211,
+          "rank": 210,
           "name": "Muggsie",
           "value": 1,
           "guild": "Gear5Momo"
         },
         {
-          "rank": 212,
+          "rank": 211,
           "name": "Myrdaling",
           "value": 1,
           "guild": ""
         },
         {
-          "rank": 213,
+          "rank": 212,
           "name": "Mystica",
           "value": 1,
           "guild": "SpaceOdyssey"
         },
         {
-          "rank": 214,
+          "rank": 213,
           "name": "Mystra",
           "value": 1,
           "guild": "Strawbunnies"
         },
         {
-          "rank": 215,
+          "rank": 214,
           "name": "Nella",
           "value": 1,
           "guild": ""
         },
         {
-          "rank": 216,
+          "rank": 215,
           "name": "Nevaro",
           "value": 1,
           "guild": ""
         },
         {
-          "rank": 217,
+          "rank": 216,
           "name": "Pedro Pascal",
           "value": 1,
           "guild": "Stardust"
         },
         {
-          "rank": 218,
+          "rank": 217,
           "name": "Rachel",
           "value": 1,
           "guild": ""
+        },
+        {
+          "rank": 218,
+          "name": "RadEmpoleon",
+          "value": 1,
+          "guild": "Midnight Sky"
         },
         {
           "rank": 219,
@@ -1380,117 +1380,117 @@
         },
         {
           "rank": 230,
-          "name": "Sunlity",
-          "value": 1,
-          "guild": "SpiritedAway"
-        },
-        {
-          "rank": 231,
           "name": "Tar Mairon",
           "value": 1,
           "guild": "Smokethorn"
         },
         {
-          "rank": 232,
+          "rank": 231,
           "name": "Tati",
           "value": 1,
           "guild": "BlackHawk"
         },
         {
-          "rank": 233,
+          "rank": 232,
           "name": "Tea",
           "value": 1,
           "guild": "69"
         },
         {
-          "rank": 234,
+          "rank": 233,
           "name": "Tracy",
           "value": 1,
           "guild": ""
         },
         {
-          "rank": 235,
+          "rank": 234,
           "name": "Victory",
           "value": 1,
           "guild": "\u591a\u4e91\u5c0f\u96e8"
         },
         {
-          "rank": 236,
+          "rank": 235,
           "name": "Viv",
           "value": 1,
           "guild": "Smokethorn"
         },
         {
-          "rank": 237,
+          "rank": 236,
           "name": "Vritto",
           "value": 1,
           "guild": ""
         },
         {
-          "rank": 238,
+          "rank": 237,
           "name": "Waverlyn",
           "value": 1,
           "guild": "Red Dynasty"
         },
         {
-          "rank": 239,
+          "rank": 238,
           "name": "Wishlane",
           "value": 1,
           "guild": "Welton Glade"
         },
         {
-          "rank": 240,
+          "rank": 239,
           "name": "Yeska",
           "value": 1,
           "guild": ""
         },
         {
-          "rank": 241,
+          "rank": 240,
           "name": "Yoshi",
           "value": 1,
           "guild": "The Circle"
         },
         {
-          "rank": 242,
+          "rank": 241,
           "name": "Zanmon",
           "value": 1,
           "guild": ""
         },
         {
-          "rank": 243,
+          "rank": 242,
           "name": "Zavelv",
           "value": 1,
           "guild": ""
         },
         {
-          "rank": 244,
+          "rank": 243,
           "name": "Zetta",
           "value": 1,
           "guild": "Star Seers"
         },
         {
-          "rank": 245,
+          "rank": 244,
           "name": "abcfuxq",
           "value": 1,
           "guild": "HAL"
         },
         {
-          "rank": 246,
+          "rank": 245,
           "name": "auzumel",
           "value": 1,
           "guild": "Seamrialhy"
         },
         {
-          "rank": 247,
+          "rank": 246,
           "name": "chubby bunni",
           "value": 1,
           "guild": ""
         },
         {
-          "rank": 248,
+          "rank": 247,
           "name": "froggyfrog",
           "value": 1,
           "guild": "meal"
+        },
+        {
+          "rank": 248,
+          "name": "orke",
+          "value": 1,
+          "guild": "Gemmy"
         },
         {
           "rank": 249,
@@ -1536,20 +1536,20 @@
         {
           "rank": 1,
           "name": "Leonie Quin",
-          "value": 139,
+          "value": 140,
           "guild": "Welton Glade"
         },
         {
           "rank": 2,
-          "name": "Athena",
-          "value": 133,
-          "guild": "Welton Glade"
+          "name": "ViolettaDoll",
+          "value": 134,
+          "guild": "HIGHGARDEN"
         },
         {
           "rank": 3,
-          "name": "ViolettaDoll",
+          "name": "Athena",
           "value": 133,
-          "guild": "HIGHGARDEN"
+          "guild": "Welton Glade"
         },
         {
           "rank": 4,
@@ -1559,7 +1559,7 @@
         },
         {
           "rank": 5,
-          "name": "ARMPITFAN69",
+          "name": "p00p00p00p",
           "value": 125,
           "guild": "69"
         },
@@ -1572,20 +1572,20 @@
         {
           "rank": 7,
           "name": "spiderfeets",
-          "value": 83,
+          "value": 85,
           "guild": "H\u026a\u0262\u029cF\u1d0f\u0280\u1d07s\u1d1b"
         },
         {
           "rank": 8,
-          "name": "Mikachuu",
-          "value": 73,
-          "guild": "Welton Glade"
-        },
-        {
-          "rank": 9,
           "name": "AnxiousFarts",
           "value": 72,
           "guild": "69"
+        },
+        {
+          "rank": 9,
+          "name": "Mikachuu",
+          "value": 72,
+          "guild": "Welton Glade"
         },
         {
           "rank": 10,
@@ -1607,21 +1607,21 @@
         },
         {
           "rank": 13,
-          "name": "Jennifer",
-          "value": 21,
-          "guild": "Capital"
-        },
-        {
-          "rank": 14,
           "name": "Tiffiniti",
           "value": 21,
           "guild": "et\u00ebrnal"
         },
         {
-          "rank": 15,
+          "rank": 14,
           "name": "erebus",
           "value": 20,
           "guild": "69"
+        },
+        {
+          "rank": 15,
+          "name": "Jennifer",
+          "value": 19,
+          "guild": "Capital"
         },
         {
           "rank": 16,
@@ -1667,15 +1667,15 @@
         },
         {
           "rank": 23,
-          "name": "dihydroxide",
+          "name": "Coffeinica",
           "value": 10,
-          "guild": "HIGHGARDEN"
+          "guild": "RuinedWaffle"
         },
         {
           "rank": 24,
-          "name": "Coffeinica",
-          "value": 9,
-          "guild": "RuinedWaffle"
+          "name": "dihydroxide",
+          "value": 10,
+          "guild": "HIGHGARDEN"
         },
         {
           "rank": 25,
@@ -1739,33 +1739,33 @@
         },
         {
           "rank": 35,
-          "name": "Astr\u00e6a",
-          "value": 3,
-          "guild": "MomoFanciers"
-        },
-        {
-          "rank": 36,
           "name": "Maitreeya",
           "value": 3,
           "guild": "Dreamy Queen"
         },
         {
-          "rank": 37,
+          "rank": 36,
           "name": "Mika",
           "value": 3,
           "guild": ""
         },
         {
-          "rank": 38,
+          "rank": 37,
           "name": "Wilza",
           "value": 3,
           "guild": "EL Kingdom"
         },
         {
-          "rank": 39,
+          "rank": 38,
           "name": "Youlan",
           "value": 3,
           "guild": ""
+        },
+        {
+          "rank": 39,
+          "name": "Astr\u00e6a",
+          "value": 2,
+          "guild": "MomoFanciers"
         },
         {
           "rank": 40,
@@ -1937,168 +1937,162 @@
         },
         {
           "rank": 68,
-          "name": "Maithy Le",
-          "value": 1,
-          "guild": "Smokethorn"
-        },
-        {
-          "rank": 69,
           "name": "Miki",
           "value": 1,
           "guild": "DEVOID"
         },
         {
-          "rank": 70,
+          "rank": 69,
           "name": "Mira",
           "value": 1,
           "guild": "Welton Glade"
         },
         {
-          "rank": 71,
+          "rank": 70,
           "name": "Miss MagiCat",
           "value": 1,
           "guild": "Royal Beauty"
         },
         {
-          "rank": 72,
+          "rank": 71,
           "name": "MitUchiha",
           "value": 1,
           "guild": "PapoteMalot3"
         },
         {
-          "rank": 73,
+          "rank": 72,
           "name": "MoldSpore",
           "value": 1,
           "guild": "GDragon"
         },
         {
-          "rank": 74,
+          "rank": 73,
           "name": "MorganaBlix",
           "value": 1,
           "guild": "\u03b1q\u03c5\u03b5\u2113\u03b1rr\u03b5"
         },
         {
-          "rank": 75,
+          "rank": 74,
           "name": "Mr Lance\u2113ot",
           "value": 1,
           "guild": "Welton Glade"
         },
         {
-          "rank": 76,
+          "rank": 75,
           "name": "Nick maxwel",
           "value": 1,
           "guild": "MiraRoseZ"
         },
         {
-          "rank": 77,
+          "rank": 76,
           "name": "Nina Mann",
           "value": 1,
           "guild": "Capital"
         },
         {
-          "rank": 78,
+          "rank": 77,
           "name": "Pedro Pascal",
           "value": 1,
           "guild": "Stardust"
         },
         {
-          "rank": 79,
+          "rank": 78,
           "name": "Rynettw",
           "value": 1,
           "guild": "Waterfall"
         },
         {
-          "rank": 80,
+          "rank": 79,
           "name": "Sainan",
           "value": 1,
           "guild": "RubyNoir"
         },
         {
-          "rank": 81,
+          "rank": 80,
           "name": "Sayume",
           "value": 1,
           "guild": ""
         },
         {
-          "rank": 82,
+          "rank": 81,
           "name": "Selina",
           "value": 1,
           "guild": "Ad Meliora"
         },
         {
-          "rank": 83,
+          "rank": 82,
           "name": "Shaylin",
           "value": 1,
           "guild": "blossoms"
         },
         {
-          "rank": 84,
+          "rank": 83,
           "name": "Tracy Khloe",
           "value": 1,
           "guild": "Ethereal"
         },
         {
-          "rank": 85,
+          "rank": 84,
           "name": "Yunyu",
           "value": 1,
           "guild": ""
         },
         {
-          "rank": 86,
+          "rank": 85,
           "name": "auzumel",
           "value": 1,
           "guild": "Seamrialhy"
         },
         {
-          "rank": 87,
+          "rank": 86,
           "name": "froggyfrog",
           "value": 1,
           "guild": "meal"
         },
         {
-          "rank": 88,
+          "rank": 87,
           "name": "nyx",
           "value": 1,
           "guild": "69"
         },
         {
-          "rank": 89,
+          "rank": 88,
           "name": "potato WIBU",
           "value": 1,
           "guild": "Dreamy Angel"
         },
         {
-          "rank": 90,
+          "rank": 89,
           "name": "semireese",
           "value": 1,
           "guild": "Firesiders"
         },
         {
-          "rank": 91,
+          "rank": 90,
           "name": "xShade",
           "value": 1,
           "guild": "MomosMisfits"
         },
         {
-          "rank": 92,
+          "rank": 91,
           "name": "yumi glitter",
           "value": 1,
           "guild": ""
         },
         {
-          "rank": 93,
+          "rank": 92,
           "name": "\u029a\u03ca\u025e",
           "value": 1,
           "guild": ""
         },
         {
-          "rank": 94,
+          "rank": 93,
           "name": "\u1d0diss\u1d07mmy\u0280oo",
           "value": 1,
           "guild": "astrokiwi"
         },
         {
-          "rank": 95,
+          "rank": 94,
           "name": "\u51cc\u7f8e\u96ea",
           "value": 1,
           "guild": "Angel Stars"
@@ -2111,13 +2105,13 @@
         {
           "rank": 1,
           "name": "Leonie Quin",
-          "value": 118,
+          "value": 119,
           "guild": "Welton Glade"
         },
         {
           "rank": 2,
           "name": "ViolettaDoll",
-          "value": 116,
+          "value": 117,
           "guild": "HIGHGARDEN"
         },
         {
@@ -2134,15 +2128,15 @@
         },
         {
           "rank": 5,
-          "name": "ARMPITFAN69",
-          "value": 46,
-          "guild": "69"
+          "name": "spiderfeets",
+          "value": 47,
+          "guild": "H\u026a\u0262\u029cF\u1d0f\u0280\u1d07s\u1d1b"
         },
         {
           "rank": 6,
-          "name": "spiderfeets",
-          "value": 45,
-          "guild": "H\u026a\u0262\u029cF\u1d0f\u0280\u1d07s\u1d1b"
+          "name": "p00p00p00p",
+          "value": 43,
+          "guild": "69"
         },
         {
           "rank": 7,
@@ -2165,13 +2159,13 @@
         {
           "rank": 10,
           "name": "Aloy",
-          "value": 19,
+          "value": 18,
           "guild": "69"
         },
         {
           "rank": 11,
           "name": "Nicky",
-          "value": 8,
+          "value": 9,
           "guild": "Midnight Sky"
         },
         {
@@ -2206,45 +2200,45 @@
         },
         {
           "rank": 17,
-          "name": "Master",
-          "value": 3,
-          "guild": "HIGHGARDEN"
-        },
-        {
-          "rank": 18,
           "name": "MoldyCorais",
           "value": 3,
           "guild": "GDragon"
         },
         {
-          "rank": 19,
+          "rank": 18,
           "name": "Tiffiniti",
           "value": 3,
           "guild": "et\u00ebrnal"
         },
         {
-          "rank": 20,
+          "rank": 19,
           "name": "Bluebell",
           "value": 2,
           "guild": "Crow Police"
         },
         {
-          "rank": 21,
+          "rank": 20,
           "name": "Jenna",
           "value": 2,
           "guild": "Smokethorn"
         },
         {
-          "rank": 22,
+          "rank": 21,
           "name": "Jinie Bell",
           "value": 2,
           "guild": "Shadowmere"
         },
         {
-          "rank": 23,
+          "rank": 22,
           "name": "Maitreeya",
           "value": 2,
           "guild": "Dreamy Queen"
+        },
+        {
+          "rank": 23,
+          "name": "Master",
+          "value": 2,
+          "guild": "HIGHGARDEN"
         },
         {
           "rank": 24,
@@ -2403,15 +2397,15 @@
         },
         {
           "rank": 7,
-          "name": "ARMPITFAN69",
-          "value": 2,
-          "guild": "69"
-        },
-        {
-          "rank": 8,
           "name": "Aethna O",
           "value": 2,
           "guild": ""
+        },
+        {
+          "rank": 8,
+          "name": "p00p00p00p",
+          "value": 2,
+          "guild": "69"
         },
         {
           "rank": 9,
@@ -2445,13 +2439,13 @@
         {
           "rank": 1,
           "name": "Leonie Quin",
-          "value": 19775891,
+          "value": 19777665,
           "guild": "Welton Glade"
         },
         {
           "rank": 2,
           "name": "ViolettaDoll",
-          "value": 19622078,
+          "value": 19631295,
           "guild": "HIGHGARDEN"
         },
         {
@@ -2468,14 +2462,14 @@
         },
         {
           "rank": 5,
-          "name": "ARMPITFAN69",
+          "name": "p00p00p00p",
           "value": 19188699,
           "guild": "69"
         },
         {
           "rank": 6,
           "name": "AnxiousFarts",
-          "value": 16895576,
+          "value": 16769472,
           "guild": "69"
         },
         {
@@ -2487,20 +2481,20 @@
         {
           "rank": 8,
           "name": "Mikachuu",
-          "value": 15428302,
+          "value": 15571558,
           "guild": "Welton Glade"
         },
         {
           "rank": 9,
-          "name": "Aloy",
-          "value": 14949304,
-          "guild": "69"
+          "name": "spiderfeets",
+          "value": 15151368,
+          "guild": "H\u026a\u0262\u029cF\u1d0f\u0280\u1d07s\u1d1b"
         },
         {
           "rank": 10,
-          "name": "spiderfeets",
-          "value": 14880722,
-          "guild": "H\u026a\u0262\u029cF\u1d0f\u0280\u1d07s\u1d1b"
+          "name": "Aloy",
+          "value": 14949304,
+          "guild": "69"
         },
         {
           "rank": 11,
@@ -2540,20 +2534,20 @@
         },
         {
           "rank": 17,
+          "name": "Nicky",
+          "value": 7054246,
+          "guild": "Midnight Sky"
+        },
+        {
+          "rank": 18,
           "name": "erebus",
           "value": 7027661,
           "guild": "69"
         },
         {
-          "rank": 18,
-          "name": "Nicky",
-          "value": 6925101,
-          "guild": "Midnight Sky"
-        },
-        {
           "rank": 19,
           "name": "K\u0430rl Marx",
-          "value": 6650803,
+          "value": 6529369,
           "guild": "Strawbunnies"
         },
         {
@@ -2595,7 +2589,7 @@
         {
           "rank": 26,
           "name": "Henley",
-          "value": 3994986,
+          "value": 3872442,
           "guild": "HIGHGARDEN"
         },
         {
@@ -2607,7 +2601,7 @@
         {
           "rank": 28,
           "name": "Coffeinica",
-          "value": 3028555,
+          "value": 3152267,
           "guild": "RuinedWaffle"
         },
         {
@@ -2834,165 +2828,165 @@
         },
         {
           "rank": 66,
-          "name": "Brian Spades",
-          "value": 635944,
-          "guild": ""
-        },
-        {
-          "rank": 67,
           "name": "Eigencat",
           "value": 635388,
           "guild": ""
         },
         {
-          "rank": 68,
+          "rank": 67,
           "name": "\u1d0diss\u1d07mmy\u0280oo",
           "value": 569476,
           "guild": "astrokiwi"
         },
         {
-          "rank": 69,
+          "rank": 68,
           "name": "Saccha Cere",
           "value": 564852,
           "guild": ""
         },
         {
-          "rank": 70,
+          "rank": 69,
           "name": "yirouda",
           "value": 554725,
           "guild": ""
         },
         {
-          "rank": 71,
+          "rank": 70,
           "name": "Cherry Ann",
           "value": 546475,
           "guild": "Welton Glade"
         },
         {
-          "rank": 72,
+          "rank": 71,
           "name": "semireese",
           "value": 545875,
           "guild": "Firesiders"
         },
         {
-          "rank": 73,
+          "rank": 72,
           "name": "Erin",
           "value": 539868,
           "guild": "Dreamy Queen"
         },
         {
-          "rank": 74,
+          "rank": 73,
           "name": "PeachyFreak",
           "value": 537750,
           "guild": "RuinedWaffle"
         },
         {
-          "rank": 75,
+          "rank": 74,
           "name": "Lyra Talise",
           "value": 531179,
           "guild": "Smokethorn"
         },
         {
-          "rank": 76,
-          "name": "Nai",
-          "value": 520758,
-          "guild": ""
-        },
-        {
-          "rank": 77,
+          "rank": 75,
           "name": "Maithy Le",
           "value": 520622,
           "guild": "Smokethorn"
         },
         {
-          "rank": 78,
+          "rank": 76,
           "name": "Kennyyyyy",
           "value": 512713,
           "guild": "ZEPHYR"
         },
         {
-          "rank": 79,
+          "rank": 77,
+          "name": "Brian Spades",
+          "value": 498460,
+          "guild": ""
+        },
+        {
+          "rank": 78,
           "name": "Elli Miku",
           "value": 493418,
           "guild": "blossoms"
         },
         {
-          "rank": 80,
+          "rank": 79,
           "name": "Yunyu",
           "value": 488628,
           "guild": ""
         },
         {
-          "rank": 81,
+          "rank": 80,
           "name": "Sallie Rana",
           "value": 485535,
           "guild": ""
         },
         {
-          "rank": 82,
+          "rank": 81,
           "name": "Mirielle",
           "value": 482647,
           "guild": "Ashryver"
         },
         {
-          "rank": 83,
+          "rank": 82,
           "name": "Ariina",
           "value": 475340,
           "guild": "Wildflower"
         },
         {
-          "rank": 84,
+          "rank": 83,
           "name": "Arsian",
           "value": 453444,
           "guild": "Rivulet"
         },
         {
-          "rank": 85,
+          "rank": 84,
           "name": "Popek",
           "value": 438332,
           "guild": "Nova Nexa"
         },
         {
-          "rank": 86,
+          "rank": 85,
           "name": "Dastriyln",
           "value": 431565,
           "guild": "Dreamy Queen"
         },
         {
-          "rank": 87,
+          "rank": 86,
           "name": "Aquarelle",
           "value": 426474,
           "guild": "Stardust"
         },
         {
-          "rank": 88,
+          "rank": 87,
           "name": "Lori",
           "value": 423261,
           "guild": "Capital"
         },
         {
-          "rank": 89,
+          "rank": 88,
           "name": "Tracy Khloe",
           "value": 423021,
           "guild": "Ethereal"
         },
         {
-          "rank": 90,
+          "rank": 89,
           "name": "Fuzzymoon",
           "value": 409351,
           "guild": "Straw Hat"
         },
         {
-          "rank": 91,
+          "rank": 90,
           "name": "Tegan",
           "value": 408594,
           "guild": ""
         },
         {
-          "rank": 92,
+          "rank": 91,
           "name": "Nick maxwel",
           "value": 405979,
           "guild": "MiraRoseZ"
+        },
+        {
+          "rank": 92,
+          "name": "Nai",
+          "value": 397992,
+          "guild": ""
         },
         {
           "rank": 93,
@@ -3022,7 +3016,7 @@
           "rank": 97,
           "name": "Ellie Han",
           "value": 308910,
-          "guild": "Rivulet"
+          "guild": ""
         },
         {
           "rank": 98,
@@ -3352,7 +3346,7 @@
           "rank": 152,
           "name": "An An",
           "value": 153280,
-          "guild": "ETERNAL WING"
+          "guild": "Lilithlandya"
         },
         {
           "rank": 153,
@@ -3416,183 +3410,183 @@
         },
         {
           "rank": 163,
-          "name": "Sunlity",
-          "value": 142952,
-          "guild": "SpiritedAway"
-        },
-        {
-          "rank": 164,
           "name": "AmeGotAGun",
           "value": 142902,
           "guild": "Welton Glade"
         },
         {
-          "rank": 165,
+          "rank": 164,
           "name": "Marigold",
           "value": 142472,
           "guild": ""
         },
         {
-          "rank": 166,
+          "rank": 165,
           "name": "Mystica",
           "value": 141971,
           "guild": "SpaceOdyssey"
         },
         {
-          "rank": 167,
+          "rank": 166,
           "name": "Miss MagiCat",
           "value": 141915,
           "guild": "Royal Beauty"
         },
         {
-          "rank": 168,
+          "rank": 167,
           "name": "Jane",
           "value": 140586,
           "guild": ""
         },
         {
-          "rank": 169,
+          "rank": 168,
           "name": "Victory",
           "value": 140349,
           "guild": "\u591a\u4e91\u5c0f\u96e8"
         },
         {
-          "rank": 170,
+          "rank": 169,
           "name": "Illia",
           "value": 139782,
           "guild": ""
         },
         {
-          "rank": 171,
+          "rank": 170,
           "name": "auzumel",
           "value": 139774,
           "guild": "Seamrialhy"
         },
         {
-          "rank": 172,
+          "rank": 171,
           "name": "froggyfrog",
           "value": 139754,
           "guild": "meal"
         },
         {
-          "rank": 173,
+          "rank": 172,
           "name": "abcfuxq",
           "value": 139231,
           "guild": "HAL"
         },
         {
-          "rank": 174,
+          "rank": 173,
           "name": "Ascelin",
           "value": 139225,
           "guild": "Nova Nexa"
         },
         {
-          "rank": 175,
+          "rank": 174,
           "name": "Julie",
           "value": 138986,
           "guild": ""
         },
         {
-          "rank": 176,
+          "rank": 175,
           "name": "Haruko Rai",
           "value": 138301,
           "guild": "HAPPINESS 2"
         },
         {
-          "rank": 177,
+          "rank": 176,
           "name": "Hasmorebooks",
           "value": 138128,
           "guild": ""
         },
         {
-          "rank": 178,
+          "rank": 177,
           "name": "Laran",
           "value": 138024,
           "guild": "MelonPan"
         },
         {
-          "rank": 179,
+          "rank": 178,
           "name": "Yeska",
           "value": 137926,
           "guild": ""
         },
         {
-          "rank": 180,
+          "rank": 179,
           "name": "Fuyuhi",
           "value": 137904,
           "guild": "HIGHGARDEN"
         },
         {
-          "rank": 181,
+          "rank": 180,
           "name": "Vritto",
           "value": 137595,
           "guild": ""
         },
         {
-          "rank": 182,
+          "rank": 181,
           "name": "Viv",
           "value": 137561,
           "guild": "Smokethorn"
         },
         {
-          "rank": 183,
+          "rank": 182,
           "name": "Ciel",
           "value": 136333,
           "guild": "RuinedWaffle"
         },
         {
-          "rank": 184,
+          "rank": 183,
           "name": "LadyNyoko",
           "value": 136231,
           "guild": "HIGHGARDEN"
         },
         {
-          "rank": 185,
+          "rank": 184,
           "name": "Ali Leach",
           "value": 135952,
           "guild": "Exodia"
         },
         {
-          "rank": 186,
+          "rank": 185,
           "name": "Yoshi",
           "value": 135514,
           "guild": "The Circle"
         },
         {
-          "rank": 187,
+          "rank": 186,
           "name": "Cherry",
           "value": 135390,
           "guild": "MAJESTICS"
         },
         {
-          "rank": 188,
+          "rank": 187,
           "name": "potato WIBU",
           "value": 135106,
           "guild": "Dreamy Angel"
         },
         {
-          "rank": 189,
+          "rank": 188,
           "name": "xShade",
           "value": 135064,
           "guild": "MomosMisfits"
         },
         {
-          "rank": 190,
+          "rank": 189,
           "name": "HALINDAW",
           "value": 134648,
           "guild": "Dreamy Angel"
         },
         {
-          "rank": 191,
+          "rank": 190,
           "name": "LUsagi",
           "value": 134387,
           "guild": "HIGHGARDEN"
         },
         {
-          "rank": 192,
+          "rank": 191,
           "name": "AgusWindy",
           "value": 134375,
           "guild": "Crystalli"
+        },
+        {
+          "rank": 192,
+          "name": "orke",
+          "value": 133811,
+          "guild": "Gemmy"
         },
         {
           "rank": 193,
@@ -3620,9 +3614,9 @@
         },
         {
           "rank": 197,
-          "name": "Dalene",
-          "value": 132180,
-          "guild": "MoonShines"
+          "name": "RadEmpoleon",
+          "value": 131986,
+          "guild": "Midnight Sky"
         },
         {
           "rank": 198,
@@ -3974,97 +3968,97 @@
         {
           "rank": 1,
           "name": "Leonie Quin",
-          "value": 2474,
+          "value": 2481,
           "guild": "Welton Glade"
         },
         {
           "rank": 2,
           "name": "ViolettaDoll",
-          "value": 2431,
+          "value": 2446,
           "guild": "HIGHGARDEN"
         },
         {
           "rank": 3,
           "name": "Athena",
-          "value": 2412,
+          "value": 2410,
           "guild": "Welton Glade"
         },
         {
           "rank": 4,
           "name": "BEANLOVER420",
-          "value": 2228,
+          "value": 2225,
           "guild": "69"
         },
         {
           "rank": 5,
-          "name": "ARMPITFAN69",
-          "value": 1959,
+          "name": "p00p00p00p",
+          "value": 1953,
           "guild": "69"
         },
         {
           "rank": 6,
           "name": "Aethna O",
-          "value": 1580,
+          "value": 1576,
           "guild": ""
         },
         {
           "rank": 7,
           "name": "spiderfeets",
-          "value": 1464,
+          "value": 1496,
           "guild": "H\u026a\u0262\u029cF\u1d0f\u0280\u1d07s\u1d1b"
         },
         {
           "rank": 8,
           "name": "AnxiousFarts",
-          "value": 1397,
+          "value": 1390,
           "guild": "69"
         },
         {
           "rank": 9,
           "name": "Mikachuu",
-          "value": 1330,
+          "value": 1328,
           "guild": "Welton Glade"
         },
         {
           "rank": 10,
           "name": "Aloy",
-          "value": 1175,
+          "value": 1170,
           "guild": "69"
         },
         {
           "rank": 11,
           "name": "Enznya",
-          "value": 654,
+          "value": 651,
           "guild": "Welton Glade"
         },
         {
           "rank": 12,
           "name": "Jennifer",
-          "value": 647,
+          "value": 642,
           "guild": "Capital"
         },
         {
           "rank": 13,
           "name": "Nicky",
-          "value": 545,
+          "value": 556,
           "guild": "Midnight Sky"
         },
         {
           "rank": 14,
           "name": "Orino Akeno",
-          "value": 534,
+          "value": 530,
           "guild": "Capital"
         },
         {
           "rank": 15,
           "name": "WormTimeBaby",
-          "value": 513,
+          "value": 510,
           "guild": "Welton Glade"
         },
         {
           "rank": 16,
           "name": "xuanie",
-          "value": 486,
+          "value": 483,
           "guild": "Welton Glade"
         },
         {
@@ -4076,7 +4070,7 @@
         {
           "rank": 18,
           "name": "K\u0430rl Marx",
-          "value": 421,
+          "value": 418,
           "guild": "Strawbunnies"
         },
         {
@@ -4088,61 +4082,61 @@
         {
           "rank": 20,
           "name": "Tiffiniti",
-          "value": 373,
+          "value": 372,
           "guild": "et\u00ebrnal"
         },
         {
           "rank": 21,
           "name": "AliceMadCat",
-          "value": 345,
+          "value": 341,
           "guild": ""
         },
         {
           "rank": 22,
           "name": "Henley",
-          "value": 276,
+          "value": 275,
           "guild": "HIGHGARDEN"
         },
         {
           "rank": 23,
           "name": "Master",
-          "value": 272,
+          "value": 268,
           "guild": "HIGHGARDEN"
         },
         {
           "rank": 24,
           "name": "Frost Flora",
-          "value": 243,
+          "value": 241,
           "guild": "Capital"
         },
         {
           "rank": 25,
           "name": "Coffeinica",
-          "value": 198,
+          "value": 212,
           "guild": "RuinedWaffle"
         },
         {
           "rank": 26,
           "name": "dihydroxide",
-          "value": 193,
+          "value": 191,
           "guild": "HIGHGARDEN"
         },
         {
           "rank": 27,
           "name": "Youlan",
-          "value": 188,
+          "value": 187,
           "guild": ""
         },
         {
           "rank": 28,
           "name": "Jenna",
-          "value": 186,
+          "value": 184,
           "guild": "Smokethorn"
         },
         {
           "rank": 29,
           "name": "Elle Cy",
-          "value": 179,
+          "value": 178,
           "guild": "Smokethorn"
         },
         {
@@ -4196,7 +4190,7 @@
         {
           "rank": 38,
           "name": "Edgecrusher",
-          "value": 78,
+          "value": 77,
           "guild": "Smokethorn"
         },
         {
@@ -4214,7 +4208,7 @@
         {
           "rank": 41,
           "name": "Mika",
-          "value": 61,
+          "value": 60,
           "guild": ""
         },
         {
@@ -4226,7 +4220,7 @@
         {
           "rank": 43,
           "name": "Astr\u00e6a",
-          "value": 58,
+          "value": 57,
           "guild": "MomoFanciers"
         },
         {
@@ -4262,7 +4256,7 @@
         {
           "rank": 49,
           "name": "\u029a\u03ca\u025e",
-          "value": 43,
+          "value": 42,
           "guild": ""
         },
         {
@@ -4345,15 +4339,15 @@
         },
         {
           "rank": 63,
-          "name": "Maithy Le",
-          "value": 29,
-          "guild": "Smokethorn"
-        },
-        {
-          "rank": 64,
           "name": "nyx",
           "value": 29,
           "guild": "69"
+        },
+        {
+          "rank": 64,
+          "name": "Maithy Le",
+          "value": 28,
+          "guild": "Smokethorn"
         },
         {
           "rank": 65,
@@ -4364,7 +4358,7 @@
         {
           "rank": 66,
           "name": "yumi glitter",
-          "value": 28,
+          "value": 27,
           "guild": ""
         },
         {
@@ -4441,45 +4435,45 @@
         },
         {
           "rank": 79,
-          "name": "semireese",
-          "value": 22,
-          "guild": "Firesiders"
-        },
-        {
-          "rank": 80,
           "name": "Ariina",
           "value": 21,
           "guild": "Wildflower"
         },
         {
-          "rank": 81,
-          "name": "L\u03c5\u03b7\u03b1",
+          "rank": 80,
+          "name": "semireese",
           "value": 21,
-          "guild": "\u591a\u4e91\u5c0f\u96e8"
+          "guild": "Firesiders"
         },
         {
-          "rank": 82,
-          "name": "Brian Spades",
-          "value": 20,
-          "guild": ""
-        },
-        {
-          "rank": 83,
-          "name": "Elli Miku",
-          "value": 20,
-          "guild": "blossoms"
-        },
-        {
-          "rank": 84,
+          "rank": 81,
           "name": "Saccha Cere",
           "value": 20,
           "guild": ""
         },
         {
-          "rank": 85,
+          "rank": 82,
+          "name": "Brian Spades",
+          "value": 19,
+          "guild": ""
+        },
+        {
+          "rank": 83,
+          "name": "Elli Miku",
+          "value": 19,
+          "guild": "blossoms"
+        },
+        {
+          "rank": 84,
           "name": "Erin",
           "value": 19,
           "guild": "Dreamy Queen"
+        },
+        {
+          "rank": 85,
+          "name": "L\u03c5\u03b7\u03b1",
+          "value": 19,
+          "guild": "\u591a\u4e91\u5c0f\u96e8"
         },
         {
           "rank": 86,
@@ -4495,51 +4489,51 @@
         },
         {
           "rank": 88,
-          "name": "Yuka lto",
-          "value": 19,
-          "guild": "Mosaic"
-        },
-        {
-          "rank": 89,
           "name": "Anthea Twin",
           "value": 18,
           "guild": "Elysea"
         },
         {
-          "rank": 90,
+          "rank": 89,
           "name": "Aylee Medici",
           "value": 18,
           "guild": "Dragons Lair"
         },
         {
-          "rank": 91,
-          "name": "Eigencat",
-          "value": 18,
-          "guild": ""
-        },
-        {
-          "rank": 92,
+          "rank": 90,
           "name": "Pedro Pascal",
           "value": 18,
           "guild": "Stardust"
         },
         {
-          "rank": 93,
+          "rank": 91,
           "name": "Randomized",
           "value": 18,
           "guild": ""
         },
         {
-          "rank": 94,
+          "rank": 92,
+          "name": "Yuka lto",
+          "value": 18,
+          "guild": "Mosaic"
+        },
+        {
+          "rank": 93,
           "name": "Yunyu",
           "value": 18,
           "guild": ""
         },
         {
-          "rank": 95,
+          "rank": 94,
           "name": "Arsian",
           "value": 17,
           "guild": "Rivulet"
+        },
+        {
+          "rank": 95,
+          "name": "Eigencat",
+          "value": 17,
+          "guild": ""
         },
         {
           "rank": 96,
@@ -4621,33 +4615,33 @@
         },
         {
           "rank": 109,
-          "name": "Nai",
-          "value": 14,
-          "guild": ""
-        },
-        {
-          "rank": 110,
           "name": "potato WIBU",
           "value": 14,
           "guild": "Dreamy Angel"
         },
         {
-          "rank": 111,
+          "rank": 110,
           "name": "Argent Storm",
           "value": 13,
           "guild": "Anelisse"
         },
         {
-          "rank": 112,
+          "rank": 111,
           "name": "KayTee",
           "value": 13,
           "guild": ""
         },
         {
-          "rank": 113,
+          "rank": 112,
           "name": "Miss MagiCat",
           "value": 13,
           "guild": "Royal Beauty"
+        },
+        {
+          "rank": 113,
+          "name": "Nai",
+          "value": 13,
+          "guild": ""
         },
         {
           "rank": 114,
@@ -4731,7 +4725,7 @@
           "rank": 127,
           "name": "An An",
           "value": 10,
-          "guild": "ETERNAL WING"
+          "guild": "Lilithlandya"
         },
         {
           "rank": 128,
@@ -4743,7 +4737,7 @@
           "rank": 129,
           "name": "Ellie Han",
           "value": 10,
-          "guild": "Rivulet"
+          "guild": ""
         },
         {
           "rank": 130,
@@ -4987,39 +4981,39 @@
         },
         {
           "rank": 170,
+          "name": "RadEmpoleon",
+          "value": 7,
+          "guild": "Midnight Sky"
+        },
+        {
+          "rank": 171,
           "name": "Tati",
           "value": 7,
           "guild": "BlackHawk"
         },
         {
-          "rank": 171,
+          "rank": 172,
           "name": "Tegan",
           "value": 7,
           "guild": ""
         },
         {
-          "rank": 172,
+          "rank": 173,
           "name": "Abelladonus",
           "value": 6,
           "guild": "TeamRocket"
         },
         {
-          "rank": 173,
+          "rank": 174,
           "name": "Ali Leach",
           "value": 6,
           "guild": "Exodia"
         },
         {
-          "rank": 174,
+          "rank": 175,
           "name": "AmeGotAGun",
           "value": 6,
           "guild": "Welton Glade"
-        },
-        {
-          "rank": 175,
-          "name": "Deerina",
-          "value": 6,
-          "guild": ""
         },
         {
           "rank": 176,
@@ -5047,45 +5041,45 @@
         },
         {
           "rank": 180,
-          "name": "Nevaro",
-          "value": 6,
-          "guild": ""
-        },
-        {
-          "rank": 181,
           "name": "R\u1d00\u1d20\u1d07\u0274",
           "value": 6,
           "guild": "Mosaic"
         },
         {
-          "rank": 182,
+          "rank": 181,
           "name": "Silverivy13",
           "value": 6,
           "guild": "trinity"
         },
         {
-          "rank": 183,
+          "rank": 182,
           "name": "Soreya",
           "value": 6,
           "guild": "CubbyNeko"
         },
         {
-          "rank": 184,
+          "rank": 183,
           "name": "Tar Mairon",
           "value": 6,
           "guild": "Smokethorn"
         },
         {
-          "rank": 185,
+          "rank": 184,
           "name": "Trillium Mal",
           "value": 6,
           "guild": "GDragon"
         },
         {
-          "rank": 186,
+          "rank": 185,
           "name": "iAkiraX",
           "value": 6,
           "guild": "\u5f20\u5bb6\u754c"
+        },
+        {
+          "rank": 186,
+          "name": "Deerina",
+          "value": 5,
+          "guild": ""
         },
         {
           "rank": 187,
@@ -5125,51 +5119,51 @@
         },
         {
           "rank": 193,
+          "name": "Nevaro",
+          "value": 5,
+          "guild": ""
+        },
+        {
+          "rank": 194,
           "name": "Nimdock",
           "value": 5,
           "guild": "Interce"
         },
         {
-          "rank": 194,
+          "rank": 195,
           "name": "Ruby Lissa",
           "value": 5,
           "guild": "Capital"
         },
         {
-          "rank": 195,
+          "rank": 196,
           "name": "Waverlyn",
           "value": 5,
           "guild": "Red Dynasty"
         },
         {
-          "rank": 196,
+          "rank": 197,
           "name": "Yoshi",
           "value": 5,
           "guild": "The Circle"
         },
         {
-          "rank": 197,
+          "rank": 198,
           "name": "Ai Chizue",
           "value": 4,
           "guild": "Dreamy Angel"
         },
         {
-          "rank": 198,
+          "rank": 199,
           "name": "Cyllessil",
           "value": 4,
           "guild": "Area51"
         },
         {
-          "rank": 199,
+          "rank": 200,
           "name": "Eurxdyne",
           "value": 4,
           "guild": ""
-        },
-        {
-          "rank": 200,
-          "name": "Hatsu Koi",
-          "value": 4,
-          "guild": "Magic Style"
         },
         {
           "rank": 201,
@@ -5257,39 +5251,39 @@
         },
         {
           "rank": 215,
+          "name": "Hatsu Koi",
+          "value": 3,
+          "guild": "Magic Style"
+        },
+        {
+          "rank": 216,
           "name": "Helena",
           "value": 3,
           "guild": "Secret Magic"
         },
         {
-          "rank": 216,
+          "rank": 217,
           "name": "Julie",
           "value": 3,
           "guild": ""
         },
         {
-          "rank": 217,
+          "rank": 218,
           "name": "LadyNyoko",
           "value": 3,
           "guild": "HIGHGARDEN"
         },
         {
-          "rank": 218,
+          "rank": 219,
           "name": "Laran",
           "value": 3,
           "guild": "MelonPan"
         },
         {
-          "rank": 219,
+          "rank": 220,
           "name": "Laura",
           "value": 3,
           "guild": "Rivulet"
-        },
-        {
-          "rank": 220,
-          "name": "Lisa",
-          "value": 3,
-          "guild": "DEVOID"
         },
         {
           "rank": 221,
@@ -5317,81 +5311,81 @@
         },
         {
           "rank": 225,
+          "name": "orke",
+          "value": 3,
+          "guild": "Gemmy"
+        },
+        {
+          "rank": 226,
           "name": "vatyra",
           "value": 3,
           "guild": "RuinedWaffle"
         },
         {
-          "rank": 226,
+          "rank": 227,
           "name": "AgusWindy",
           "value": 2,
           "guild": "Crystalli"
         },
         {
-          "rank": 227,
+          "rank": 228,
           "name": "Bilky WospaV",
           "value": 2,
           "guild": ""
         },
         {
-          "rank": 228,
+          "rank": 229,
           "name": "Fravs",
           "value": 2,
           "guild": "sel lili"
         },
         {
-          "rank": 229,
+          "rank": 230,
+          "name": "Lisa",
+          "value": 2,
+          "guild": "DEVOID"
+        },
+        {
+          "rank": 231,
           "name": "Mari",
           "value": 2,
           "guild": "Vorpals"
         },
         {
-          "rank": 230,
+          "rank": 232,
           "name": "Sapphiro",
           "value": 2,
           "guild": "Interce"
         },
         {
-          "rank": 231,
+          "rank": 233,
           "name": "Yeska",
           "value": 2,
           "guild": ""
         },
         {
-          "rank": 232,
+          "rank": 234,
           "name": "Zetta",
           "value": 2,
           "guild": "Star Seers"
         },
         {
-          "rank": 233,
-          "name": "chubby bunni",
-          "value": 2,
-          "guild": ""
-        },
-        {
-          "rank": 234,
+          "rank": 235,
           "name": "newtbaby84",
           "value": 2,
           "guild": ""
         },
         {
-          "rank": 235,
+          "rank": 236,
           "name": "xyz",
           "value": 2,
           "guild": ""
         },
         {
-          "rank": 236,
+          "rank": 237,
           "name": "Cytega",
           "value": 1,
           "guild": "Smokethorn"
-        },
-        {
-          "rank": 237,
-          "name": "Dalene",
-          "value": 1,
-          "guild": "MoonShines"
         },
         {
           "rank": 238,
@@ -5467,25 +5461,25 @@
         },
         {
           "rank": 250,
-          "name": "Sunlity",
-          "value": 1,
-          "guild": "SpiritedAway"
-        },
-        {
-          "rank": 251,
           "name": "Vritto",
           "value": 1,
           "guild": ""
         },
         {
-          "rank": 252,
+          "rank": 251,
           "name": "Wishlane",
           "value": 1,
           "guild": "Welton Glade"
         },
         {
-          "rank": 253,
+          "rank": 252,
           "name": "Zanmon",
+          "value": 1,
+          "guild": ""
+        },
+        {
+          "rank": 253,
+          "name": "chubby bunni",
           "value": 1,
           "guild": ""
         },
