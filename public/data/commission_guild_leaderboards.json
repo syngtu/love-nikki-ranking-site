@@ -11,13 +11,13 @@
         },
         {
           "rank": 2,
-          "guild": "69",
-          "value": 564
+          "guild": "Breadfish",
+          "value": 513
         },
         {
           "rank": 3,
           "guild": "HIGHGARDEN",
-          "value": 225
+          "value": 224
         },
         {
           "rank": 4,
@@ -27,7 +27,7 @@
         {
           "rank": 5,
           "guild": "Smokethorn",
-          "value": 112
+          "value": 111
         },
         {
           "rank": 6,
@@ -37,17 +37,17 @@
         {
           "rank": 7,
           "guild": "Midnight Sky",
-          "value": 57
+          "value": 59
         },
         {
           "rank": 8,
-          "guild": "Strawbunnies",
+          "guild": "Crow Police",
           "value": 48
         },
         {
           "rank": 9,
-          "guild": "Crow Police",
-          "value": 44
+          "guild": "Strawbunnies",
+          "value": 48
         },
         {
           "rank": 10,
@@ -57,7 +57,7 @@
         {
           "rank": 11,
           "guild": "RuinedWaffle",
-          "value": 32
+          "value": 33
         },
         {
           "rank": 12,
@@ -66,13 +66,13 @@
         },
         {
           "rank": 13,
-          "guild": "Firesiders",
+          "guild": "GDragon",
           "value": 23
         },
         {
           "rank": 14,
-          "guild": "GDragon",
-          "value": 23
+          "guild": "Firesiders",
+          "value": 22
         },
         {
           "rank": 15,
@@ -177,7 +177,7 @@
         {
           "rank": 35,
           "guild": "Serenity",
-          "value": 6
+          "value": 5
         },
         {
           "rank": 36,
@@ -186,12 +186,12 @@
         },
         {
           "rank": 37,
-          "guild": "Seamrialhy",
+          "guild": "Exodia",
           "value": 4
         },
         {
           "rank": 38,
-          "guild": "ZEPHYR",
+          "guild": "Seamrialhy",
           "value": 4
         },
         {
@@ -211,32 +211,32 @@
         },
         {
           "rank": 42,
-          "guild": "Exodia",
-          "value": 3
-        },
-        {
-          "rank": 43,
           "guild": "Interce",
           "value": 3
         },
         {
-          "rank": 44,
+          "rank": 43,
           "guild": "MiraRoseZ",
           "value": 3
         },
         {
-          "rank": 45,
+          "rank": 44,
           "guild": "Straw Hat",
           "value": 3
         },
         {
-          "rank": 46,
+          "rank": 45,
           "guild": "Vorpals",
           "value": 3
         },
         {
-          "rank": 47,
+          "rank": 46,
           "guild": "Wildflower",
+          "value": 3
+        },
+        {
+          "rank": 47,
+          "guild": "ZEPHYR",
           "value": 3
         },
         {
@@ -511,31 +511,21 @@
         },
         {
           "rank": 102,
-          "guild": "Unicornzz",
-          "value": 1
-        },
-        {
-          "rank": 103,
-          "guild": "Valyriashore",
-          "value": 1
-        },
-        {
-          "rank": 104,
           "guild": "Waterfall",
           "value": 1
         },
         {
-          "rank": 105,
+          "rank": 103,
           "guild": "sel lili",
           "value": 1
         },
         {
-          "rank": 106,
+          "rank": 104,
           "guild": "shapeshifter",
           "value": 1
         },
         {
-          "rank": 107,
+          "rank": 105,
           "guild": "trinity",
           "value": 1
         }
@@ -547,12 +537,12 @@
         {
           "rank": 1,
           "guild": "Welton Glade",
-          "value": 407
+          "value": 406
         },
         {
           "rank": 2,
-          "guild": "69",
-          "value": 402
+          "guild": "Breadfish",
+          "value": 382
         },
         {
           "rank": 3,
@@ -562,12 +552,12 @@
         {
           "rank": 4,
           "guild": "H\u026a\u0262\u029cF\u1d0f\u0280\u1d07s\u1d1b",
-          "value": 85
+          "value": 86
         },
         {
           "rank": 5,
           "guild": "Capital",
-          "value": 39
+          "value": 38
         },
         {
           "rank": 6,
@@ -581,13 +571,13 @@
         },
         {
           "rank": 8,
-          "guild": "Strawbunnies",
+          "guild": "Crow Police",
           "value": 16
         },
         {
           "rank": 9,
-          "guild": "Crow Police",
-          "value": 15
+          "guild": "Strawbunnies",
+          "value": 16
         },
         {
           "rank": 10,
@@ -597,7 +587,7 @@
         {
           "rank": 11,
           "guild": "RuinedWaffle",
-          "value": 10
+          "value": 11
         },
         {
           "rank": 12,
@@ -831,8 +821,8 @@
         },
         {
           "rank": 2,
-          "guild": "69",
-          "value": 173
+          "guild": "Breadfish",
+          "value": 172
         },
         {
           "rank": 3,
@@ -842,7 +832,7 @@
         {
           "rank": 4,
           "guild": "H\u026a\u0262\u029cF\u1d0f\u0280\u1d07s\u1d1b",
-          "value": 47
+          "value": 48
         },
         {
           "rank": 5,
@@ -947,7 +937,7 @@
         {
           "rank": 1,
           "guild": "Welton Glade",
-          "value": 76
+          "value": 75
         },
         {
           "rank": 2,
@@ -957,11 +947,11 @@
         {
           "rank": 3,
           "guild": "H\u026a\u0262\u029cF\u1d0f\u0280\u1d07s\u1d1b",
-          "value": 11
+          "value": 12
         },
         {
           "rank": 4,
-          "guild": "69",
+          "guild": "Breadfish",
           "value": 8
         },
         {
@@ -982,17 +972,17 @@
         {
           "rank": 1,
           "guild": "Welton Glade",
-          "value": 85092760
+          "value": 85097782
         },
         {
           "rank": 2,
-          "guild": "69",
-          "value": 77136763
+          "guild": "Breadfish",
+          "value": 70220494
         },
         {
           "rank": 3,
           "guild": "HIGHGARDEN",
-          "value": 31030258
+          "value": 30894936
         },
         {
           "rank": 4,
@@ -1002,27 +992,27 @@
         {
           "rank": 5,
           "guild": "H\u026a\u0262\u029cF\u1d0f\u0280\u1d07s\u1d1b",
-          "value": 15313633
+          "value": 15319271
         },
         {
           "rank": 6,
           "guild": "Smokethorn",
-          "value": 14574037
+          "value": 14437549
         },
         {
           "rank": 7,
           "guild": "Midnight Sky",
-          "value": 7701009
+          "value": 7970801
         },
         {
           "rank": 8,
-          "guild": "Strawbunnies",
-          "value": 6393845
+          "guild": "Crow Police",
+          "value": 6469568
         },
         {
           "rank": 9,
-          "guild": "Crow Police",
-          "value": 5940866
+          "guild": "Strawbunnies",
+          "value": 6393845
         },
         {
           "rank": 10,
@@ -1032,7 +1022,7 @@
         {
           "rank": 11,
           "guild": "RuinedWaffle",
-          "value": 4243760
+          "value": 4385746
         },
         {
           "rank": 12,
@@ -1042,7 +1032,7 @@
         {
           "rank": 13,
           "guild": "Firesiders",
-          "value": 3191441
+          "value": 3067268
         },
         {
           "rank": 14,
@@ -1136,23 +1126,23 @@
         },
         {
           "rank": 32,
-          "guild": "Serenity",
-          "value": 813893
-        },
-        {
-          "rank": 33,
           "guild": "Area51",
           "value": 800057
         },
         {
-          "rank": 34,
+          "rank": 33,
           "guild": "Mosaic",
           "value": 791654
         },
         {
-          "rank": 35,
+          "rank": 34,
           "guild": "PapoteMalot3",
           "value": 778298
+        },
+        {
+          "rank": 35,
+          "guild": "Serenity",
+          "value": 691865
         },
         {
           "rank": 36,
@@ -1171,8 +1161,8 @@
         },
         {
           "rank": 39,
-          "guild": "ZEPHYR",
-          "value": 512713
+          "guild": "Exodia",
+          "value": 526177
         },
         {
           "rank": 40,
@@ -1221,8 +1211,8 @@
         },
         {
           "rank": 49,
-          "guild": "Exodia",
-          "value": 397360
+          "guild": "ZEPHYR",
+          "value": 383328
         },
         {
           "rank": 50,
@@ -1431,86 +1421,76 @@
         },
         {
           "rank": 91,
-          "guild": "Unicornzz",
-          "value": 130131
-        },
-        {
-          "rank": 92,
           "guild": "OrionNebula",
           "value": 130053
         },
         {
-          "rank": 93,
-          "guild": "Valyriashore",
-          "value": 129282
-        },
-        {
-          "rank": 94,
+          "rank": 92,
           "guild": "EL Kingdom 2",
           "value": 128205
         },
         {
-          "rank": 95,
+          "rank": 93,
           "guild": "Magic Style",
           "value": 128121
         },
         {
-          "rank": 96,
+          "rank": 94,
           "guild": "Idfc",
           "value": 127424
         },
         {
-          "rank": 97,
+          "rank": 95,
           "guild": "Star Seers",
           "value": 127228
         },
         {
-          "rank": 98,
+          "rank": 96,
           "guild": "Red Dynasty",
           "value": 126664
         },
         {
-          "rank": 99,
+          "rank": 97,
           "guild": "OctoNoodle",
           "value": 126408
         },
         {
-          "rank": 100,
+          "rank": 98,
           "guild": "ARTEMIS",
           "value": 124751
         },
         {
-          "rank": 101,
+          "rank": 99,
           "guild": "Coconuts",
           "value": 122805
         },
         {
-          "rank": 102,
+          "rank": 100,
           "guild": "FELINE FEVER",
           "value": 122229
         },
         {
-          "rank": 103,
+          "rank": 101,
           "guild": "sel lili",
           "value": 113888
         },
         {
-          "rank": 104,
+          "rank": 102,
           "guild": "Skyloft",
           "value": 113698
         },
         {
-          "rank": 105,
+          "rank": 103,
           "guild": "Gear5Momo",
           "value": 112517
         },
         {
-          "rank": 106,
+          "rank": 104,
           "guild": "TeamRocket",
           "value": 108676
         },
         {
-          "rank": 107,
+          "rank": 105,
           "guild": "Crunchy Taco",
           "value": 107483
         }
@@ -1522,62 +1502,62 @@
         {
           "rank": 1,
           "guild": "Welton Glade",
-          "value": 7979
+          "value": 7968
         },
         {
           "rank": 2,
-          "guild": "69",
-          "value": 7167
+          "guild": "Breadfish",
+          "value": 6703
         },
         {
           "rank": 3,
           "guild": "HIGHGARDEN",
-          "value": 3197
+          "value": 3189
         },
         {
           "rank": 4,
-          "guild": "Capital",
-          "value": 1527
+          "guild": "H\u026a\u0262\u029cF\u1d0f\u0280\u1d07s\u1d1b",
+          "value": 1518
         },
         {
           "rank": 5,
-          "guild": "H\u026a\u0262\u029cF\u1d0f\u0280\u1d07s\u1d1b",
-          "value": 1509
+          "guild": "Capital",
+          "value": 1514
         },
         {
           "rank": 6,
           "guild": "Smokethorn",
-          "value": 612
+          "value": 608
         },
         {
           "rank": 7,
           "guild": "Midnight Sky",
-          "value": 584
+          "value": 594
         },
         {
           "rank": 8,
-          "guild": "Strawbunnies",
-          "value": 422
+          "guild": "Crow Police",
+          "value": 441
         },
         {
           "rank": 9,
-          "guild": "Crow Police",
-          "value": 404
+          "guild": "Strawbunnies",
+          "value": 421
         },
         {
           "rank": 10,
           "guild": "et\u00ebrnal",
-          "value": 369
+          "value": 368
         },
         {
           "rank": 11,
           "guild": "RuinedWaffle",
-          "value": 256
+          "value": 267
         },
         {
           "rank": 12,
           "guild": "GDragon",
-          "value": 179
+          "value": 178
         },
         {
           "rank": 13,
@@ -1592,7 +1572,7 @@
         {
           "rank": 15,
           "guild": "Firesiders",
-          "value": 157
+          "value": 155
         },
         {
           "rank": 16,
@@ -1636,13 +1616,13 @@
         },
         {
           "rank": 24,
-          "guild": "MomoFanciers",
+          "guild": "Stardust",
           "value": 57
         },
         {
           "rank": 25,
-          "guild": "Stardust",
-          "value": 57
+          "guild": "MomoFanciers",
+          "value": 56
         },
         {
           "rank": 26,
@@ -1661,12 +1641,12 @@
         },
         {
           "rank": 29,
-          "guild": "PapoteMalot3",
-          "value": 38
+          "guild": "Angel Stars",
+          "value": 37
         },
         {
           "rank": 30,
-          "guild": "Angel Stars",
+          "guild": "PapoteMalot3",
           "value": 37
         },
         {
@@ -1682,7 +1662,7 @@
         {
           "rank": 33,
           "guild": "Serenity",
-          "value": 34
+          "value": 33
         },
         {
           "rank": 34,
@@ -1711,13 +1691,13 @@
         },
         {
           "rank": 39,
-          "guild": "ANTHOS",
-          "value": 24
+          "guild": "Exodia",
+          "value": 25
         },
         {
           "rank": 40,
-          "guild": "Straw Hat",
-          "value": 23
+          "guild": "ANTHOS",
+          "value": 24
         },
         {
           "rank": 41,
@@ -1736,13 +1716,13 @@
         },
         {
           "rank": 44,
-          "guild": "Wildflower",
-          "value": 21
+          "guild": "Straw Hat",
+          "value": 22
         },
         {
           "rank": 45,
-          "guild": "Area51",
-          "value": 20
+          "guild": "Wildflower",
+          "value": 21
         },
         {
           "rank": 46,
@@ -1761,37 +1741,37 @@
         },
         {
           "rank": 49,
-          "guild": "BlackHawk",
+          "guild": "Area51",
           "value": 19
         },
         {
           "rank": 50,
-          "guild": "Seamrialhy",
+          "guild": "BlackHawk",
           "value": 19
         },
         {
           "rank": 51,
+          "guild": "Seamrialhy",
+          "value": 19
+        },
+        {
+          "rank": 52,
           "guild": "Dragons Lair",
           "value": 18
         },
         {
-          "rank": 52,
+          "rank": 53,
           "guild": "Elysea",
           "value": 18
         },
         {
-          "rank": 53,
-          "guild": "ZEPHYR",
-          "value": 17
-        },
-        {
           "rank": 54,
-          "guild": "Exodia",
+          "guild": "LOVELYNIKKI",
           "value": 16
         },
         {
           "rank": 55,
-          "guild": "LOVELYNIKKI",
+          "guild": "ZEPHYR",
           "value": 16
         },
         {
@@ -1956,27 +1936,27 @@
         },
         {
           "rank": 88,
-          "guild": "Stargazers\u671b\u661f",
-          "value": 5
-        },
-        {
-          "rank": 89,
           "guild": "TeamRocket",
           "value": 5
         },
         {
-          "rank": 90,
+          "rank": 89,
           "guild": "shapeshifter",
           "value": 5
         },
         {
-          "rank": 91,
+          "rank": 90,
           "guild": "Faeryland",
           "value": 4
         },
         {
-          "rank": 92,
+          "rank": 91,
           "guild": "Gear5Momo",
+          "value": 4
+        },
+        {
+          "rank": 92,
+          "guild": "Stargazers\u671b\u661f",
           "value": 4
         },
         {
@@ -2042,16 +2022,6 @@
         {
           "rank": 105,
           "guild": "EL Kingdom 2",
-          "value": 1
-        },
-        {
-          "rank": 106,
-          "guild": "Unicornzz",
-          "value": 1
-        },
-        {
-          "rank": 107,
-          "guild": "Valyriashore",
           "value": 1
         }
       ]
